@@ -1,0 +1,18 @@
+# Visas
+
+LOI N°2004-52 INSTITUANT LE REGIME DE LA ZONE FRANCHE DE LA BIOTECHNOLOGIE ET DES TECHNOLOGIES DE L’INFORMATION ET DE LA COMMUNICATION EN CÔTE D’IVOIRE TITRE I - DISPOSITIONS GENERALES CHAPITRE PREMIER: OBJET ET DOMAINE D'APPLICATION Article Premier II est institue en Cote d'Ivoire le regime de Zone Franche de la Biotechnologie et des Technologies de l'lnformation et de la Communication defini par les dispositions de la presente loi.
+Le regime s 'applique a ux i nvestissements realises par des promoteurs nationaux ou etrangers, ou en association des deux, dans des activites relevant de la Biotechnologie et des Technologies de l'lnformation et de la Communication.
+Au s ens d e I a p resente I oi, I es expressions ci-apres ont les definitions suivantes :
+Zone tranche : Une portion de terrain clairement delimitee formant une enclave ou s'applique, sous surveillance de !'Administration Generale des Douanes, un regime douanier et fiscal special.
+..
+Regime de zone tranche : Ensemble des avantages et benefices s'appliquant aux espaces definis et delimites en tant que zones tranches.
+Biotechnologie:
+Le terme « biotechnologie » est ne de !'association des termes biologie et technologie.
+La biotechnologie est !'utilisation d'organismes vivants dans la mise au point d'aliments, de medicaments et d'autres produits utiles. Elle se definit comme un point de rencontre entre plusieurs specialites (biologie, genetique, biochimie, microbiologie, botanique, ecologie, zoologie, medecine, pharmacie, physique, electronique, informatique, genie genetique, etc.) pour permettre des applications diverses : agriculture et securite alimentaire, industries, sante humaine et animale, produits de diagnostic, energie, medicaments, preservation et conservation de l'environnement, genomique (etude de la carte genetique), bioelectronique et bio capteurs, etc.
+Activites relevant de la Biotechnologie : les activites destinees a promouvoir, developper, la microbiologie technique et la biotechnique de l'environnement, la biotechnologie des cellules animales et vegetales, la pharmacie, l'ingenierie biotechnologique, la biotechnologie moleculaire, la bioinformatique, les techniques biochimiques et d'une maniere generale, les Sciences du vivant.
+Nouvelles Technologies de l'lnformation et de la Communication {NTIC) : Les Nouvelles Technologies de !'Information et de la Communication (NTIC) se definissent comme etant le mariage entre l'informatique, les telecommunications et l'audiovisuel. Les Nouvelles Technologies de !'Information et de la Communication (NTIC) reposent largement sur les techniques de !'Internet.
+Activites relevant des technologies de l'information et de la communication : les activites destinees a utiliser, produire, vendre ou promouvoir des logiciels, des materiels et du service a valeur ajoutee faisant principalement appel aux technologies numeriques ou toutes autres technologies se rapportant aux domaines de l'informatique, des telecommunications et de l'audio-visuel.
+Territoire douanier national : Territoire en dehors des zones tranches auquel s'applique pleinement la legislation douaniere ivoirienne.
+Supervision douaniere : Surveillance permanente des entrees et des sorties de marchandises des zones tranches conformement a la legislation douaniere et aux normes etablies en la matiere par l'autorite nationale constituee a cet effet.
+Entreprise de Promotion et d'Exploitation : Entite privee ou mixte chargee des travaux d'amenagement, de construction, de promotion et d'exploitation de la zone franche.
+Entreprise utilisatrice: Entreprise beneficiant du regime de zone franche.
