@@ -1,0 +1,5 @@
+# Visas
+
+LOI n° 98-487 du 4 septembre 1998 portant attribution de competetices aux Regions.
+L'ASSEMBLEE NA TIONALE A ADOPTE, LE PRESIDENT DE LA REPUBi..IQUE, A.PRES DECISION CONRY.~ME DU CONSEIL CONS'T11':JT10NNEL, PROMULCVJi ::..A LO'. IX)NT LA TENEUR SUIT :
+CHAPITRE PREMIER Dispositions generates
