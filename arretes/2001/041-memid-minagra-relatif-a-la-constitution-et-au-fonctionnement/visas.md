@@ -1,0 +1,3 @@
+# Visas
+
+ARRETE N° 041 MEMID / MINAGRA DU 12 JUIN 2001 relatif à la constitution et au fonctionnement des Comités de Gestion Foncière Rurale LE MINISTRE D’ETAT, MINISTRE DE L’INTERIEUR ET DE LA DECENTRALISATION, LE MINISTRE DE L’AGRICULTURE ET DES RESSOURCES ANIMALES, Vu le décret n°99-593 du 13 octobre 1999 portant organisation et attribitions des Comités de Gestion Foncière Rurale Vu le décret n°2000-845 du 29 novembre 2000 portant organisation du Ministère de l’Agriculture et des Ressources Animales Vu le décret n°2001-42 du 24 janvier 2001 portant nomination des membres du Gouvernement Vu le décret n°2001-91 du 11 février 2001 portant attributions des membres du Gouvernement ARRETENT
