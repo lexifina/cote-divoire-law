@@ -1,0 +1,6 @@
+# Visas
+
+Ceci est une copie du Journal Officiel de la RCI réalisée par ERIS - Infos@eris-cl.com __ -----,:m------ ,JOURNAL 9fFIClç.~ --nEl:1CREPUBUQU~DE COTE D'lVÇHR~ 26 mar~ 1992 ARRTE n" 34 MfNAGRA. du 13 févier 1992 portan! transfen de la cellule de Coordination. des Aires protégées de la C{}titre (CAPC) cl la SODEFOR_ LE MINISTRE DE L'AGRICULTURE ET Dr:.S RF.ssoURCESANIMALES, Vu le dt:..cret fi" 91·755 du 14 novembre 1991 portant nomill:ltioll des membres du Gouvernement;
+Vu le décret nO 91..63 du 20 février 1991 portant orgll.nisation du ministère de l'Agriculture e. des ResSOlll;ces animales ;
+Vu !edAcret nO 85-132 du 20 février 1985 portantttansformation de la Société pour le Développement dcsPlanLations forcstières (SODEFOR) en ftablisscment public à caractère industriel el commercial :
+Vu l'arrêté interministériel n D 70 MECU. du 19 mars 1991 portant Cléation du Comité interminhtériel pour la Protectïon de l'Environnement de la Route côtière Gtaml·Lancu-SassandIa ; Vu l'a..'1"êténO 289 AGRF..F.DPN. du28 août 1990 portant création de la cellule de Coordination des Aires protégées de la Côtière (CAPe 11 Frescu)i Sur proposition du directeur généra! des EauJ: ctFolits, ARRETE :
