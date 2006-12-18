@@ -1,0 +1,24 @@
+# Visas
+
+Jou a O c e de a épub que de Côte d o e ée ( j aco se co ) Ceci est une copie du journal Officiel de la République de Côte d'Ivoire, réalisée par ERIS - +225 22.48.71.85 - +225 07.43.07.47 - infos@eris-ci.com - www.eris-ci.com COPIE L'Officiel - ERIS JOURNAL OFFICIEL DE LA REPUBLIQUE DE COTE D'IVOIRE 18 janvier 2007 ARRETE n°1474 MCU. SDU. ACP. SL. YK. du 6 novembre 2003.- II est concede a titre provisoire a M.KOUAME Koua Jacob les lots n°• 741 bis et 779 bis ilot n° 93 bis de Bonoua Bronoukro, d'une superficie globale de 2079 metres carres, immatricules au nom de l'Etat sous le n° 1290 de la circonscription fonciere de Gran-Bassam.
+ARRETE n° 1475 MCU. SDU. ACP. SL. YK. du 6 npvembre 2003- II est concede a titre provisoire a M. N'DRI Brou le lot n° 74 de Dimbokro Residentiel, d'une superficie de 2 500 metres carres, immatricule au nom de l'Etat sous le n° 2529 de la circonscription fonciere du N'Zi-Comoe.
+ARRETE n° 1476 MCU.SDU.ACP.SL.YK du 6 novembre 2003- II est concede a titre provisoire a M. N'DRI Brou, la parcelle n° 1 de Yamoussoukro - N'Zuessy, d'une superficie de 2.240 metres carres, immatriculee au nom de l'Etat sous le n° 2509 de la circonscription fonciere du N'Zi-Comoe.
+ARRETE n° 1504 MCU. SDU. ACP. SL. NYJ. du 10 novembre 2003 - II est concede a titre provisoire a Mlle KOUAME Affoue Ella Nadege, le lot n° 643/A ilot n° 76 de Bingerville Bagba premiere extension, d'une superficie de 600 metres carres, immatricule au nom de l'Etat sous le n° 102 767 de la circonscription fonciere de Bingerville.
+ARRETE n° 1541 MCU. SDU. ACP. SL. YK. du 19 novembre 2003 - II est concede a M. JEANNEAU Patrice B.P. 1649 San- Pedro, a titre provisoire avec promesse de bail emphyteotique du lot n° 42/C d'une superficie de 3069 metres carres de San- Pedro Zone induxtrielle Nord, immatricule au nom de l'Etat sous le n° 756 de la circonscription fonciere du Bas-Cavally.
+ARRETE n° 1542 MCU. SDU. ACP. SL. YK. du 19 novembre 2003 - II est concede a titre provisoire a M. DIAB A TE Zieho, le lot n° 642/A, ilot n° 76 de Bingerville Bagba premiere extention, d'une superficie de 600 metres carres, immatricule au nom de 1 'Etat sous le n ° 106 4 72 de la circonscription fonciere de Bingerville.
+ARRETE n° 1548 MCU. SDU. ACP. SL. NYJ. du 21 novembre 2003. - II est concede a titre provisoire a M. ARO UNA Kone, le lot n° 2488 ilot n° 267 de Daloa Orly Extension II Residentiel d'une superficie de 920 metres carres, immatricule au nom de l'Etat sous le n° 1 649 de la circonscription fonciere de Daloa.
+ARRETE n° 1549 MCU. SDU. ACP. SL. NYJ. du 21 novembre 2003. - II est concede a titre provisoire a M. ARO UNA Kone, le lot n° 2521 ilot n° 271 de Daloa Orly Extension II Residentiel, d'une superficie de 1080 metres carres, immatricule au nom de l'Etat sous le n° 1 648 de la circonscription fonciere de Daloa.
+ARRETE n° 1556 MCU. SDU. S<!. CTO. CTO. du 21 novembre 2003 - II est concede a titre provisoire a M. PEKAN Kone, le lot n° 2 687 ilot n° 348 de Katiola (Sogefiha), d'une superficie de 600 metres carres, immatricule au nom de l 'Etat sous le n° 232 de la circonscription fonciere de Tagouanas.
+ARRETE n° 1571 MCU. SDU. ACP. SL. YK. du 21 novembre 2003 - II est concede a titre provisoire a Mme KOUAME Akissi Fran~oise le lot n° 9 B ilot n° 1 de Yamoussoukro- Residentiel, d'une superficie de 3343 metres carres, immatricule au nom de l'Etat sous le n° 2499 de la circonscription fonciere du N'Zi-Comoe.
+Le chef de Service du Dom.i1ne urbain est charge de !'execution des presents arretes qui seront publies au Journal officiel de la Republique de Cote d'Ivoire.
+Abidjan, le 21 novembre 2003.
+ABOUO N'Dori Raymond.
+• MINISTERE DE L'ENVIRONNEMENT ET DES EAUX ET FORETS ARRETE n° 838 MINEEF. du 18 decembre 2006 portant abrogation de l'arrete n° 531 du 28 octobre 2003 portant suspension de toute exploitation de bois de teck dans Les zones assiegees.
+LE MINISTRE DE L'ENVIRONNEMENT ET DES EAUX ET FORETS, Vu Ia Joi n° 65-425 du 20 decembre 1965 portant code forestier ;
+Vu le decret n° 78-231 du 15 mai 1978 fixant Jes modalites de gestion du domaine forestier de I' Etat ;
+Vu le decret 90-503 du 20 juin 1990 relatif a la transformation et a !'exportation des bois en grumes et debites;
+,, Vu le decret n° 94-368 du l" juillet 1994 portant modification de decret n° 66-421 du 15 septembre 1966 reglementant !'exploitation des bois d'oeuvre et d'ebenisterie, de service, de feu et a charbon;
+Vu le decret n° 2006-65 du 13 avril 2006 portant organisation du ministere de !'Environnement et des Eaux et Forets;
+Vu le decret n° 2006-307 du 16 septembre 2006 portant nomination des membres du Gouvemement ;
+Vu l'arrete n° 33 MINAGRA du 23 fevrier 1992 confiant la gestion des forets classees de domaine forestier permanent de l'Etat a laSODEFOR;
+Vu l'arrete n° 531 du 28 octobre 2003 portant suspension de toute exploitation de bois de teck dans Jes zlnes assiegees, ARRETE:
