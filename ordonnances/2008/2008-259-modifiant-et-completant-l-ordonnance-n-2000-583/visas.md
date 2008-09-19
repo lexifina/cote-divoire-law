@@ -1,0 +1,7 @@
+# Visas
+
+ORDONNANCE No 2008-259 DU 19 SEPTEMBRE 2008 MODIFIANT ET COMPLETANT L’ORDONNANCE NO 2000-583 DU 17 AOUT 2000 FIXANT LES OBJECTIFS DE L’ACTION ECONOMIQUE DE L’ETAT EN MATIERE DE COMMERCIALISATION DU CAFE ET DU CACAO ORDONNANCE No 2008-259 DU 19 SEPTEMBRE 2008 MODIFIANT ET COMPLETANT L’ORDONNANCE NO 2000-583 DU 17 AOUT 2000 FIXANT LES OBJECTIFS DE L’ACTION ECONOMIQUE DE L’ETAT EN MATIERE DE COMMERCIALISATION DU CAFE ET DU CACAO, TELLE QUE MODIFIEE PAR LES ORDONNANCES NO 2001-46 DU 31 JANVIER 2001 ET No 2001-666 du 24 OCTOBRE 2001 LE PRESIDENT DE LA REPUBLIQUE Vu la Constitution ;
+Vu l’ordonnance NO 2000-583 du 17 août 2000 fixant les objectifs de l’action économique de l’Etat en matière de commercialisation du café et du cacao, telle que modifiée par les ordonnances no 2001-46 du 31 janvier 2001 et no 2001-666 du 24 octobre 2001 ;
+Vu l’ordonnance no2001-47 du 31 janvier 2001 relative à la redevance professionnelle en matière de café et de cacao ;
+Vu le décret No 2001-512 du 28 août 2001 portant création et organisation du Fonds de Développement et de Promotion des activités des Producteurs de Café et de Cacao (FDPCC), modifié par le décret no 2006-13 du 24 février 2006 ;
+Vu le décret no 2007-450 du 29 mars 2007 portant nomination du Premier Ministre ; Vu le décret no2007-456 du 07 avril 2007 portant nomination des membres du gouvernement ; Vu le décret no 2007-458 du 20 avril 2007 portant attribution des membres du Gouvernement ; ORDONNE :
