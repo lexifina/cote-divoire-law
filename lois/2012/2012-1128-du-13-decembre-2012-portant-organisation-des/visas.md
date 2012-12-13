@@ -1,0 +1,3 @@
+# Visas
+
+Loi n°2012-1128 du 13 décembre 2012 portant organisation des collectivités territoriales. TITRE I : DISPOSITIONS COMMUNES A TOUTES LES COLLECTIVITES TERRITORIALES CHAPITRE I : DISPOSITIONS GENERALES
