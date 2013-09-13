@@ -1,0 +1,17 @@
+# Visas
+
+Ceci est une copie du Journal Officiel de la RCI réalisée par ERIS - infos@eris-ci.com Copie L'Officiel REPUBLIQUE DE COTE D'IVOIRE CINQUANTE-CINQUIEME ANNEE. - N° 40 E.C.
+UNION· DISCIPLINE· TRAVAIL LUNDI 7 OCTOBRE 2013 JOURNAL OFFICIEL DE LA REPUBLIQUE DE COTE D'IVOIRE EDITIO.N COMPLEMENTAIRE paraissant le lundi de chaque semaine ABONNEMENT 6MOIS UNAN ABONNEMENT ET INSERTIONS ANNON~ ET ,fl.VIS Cote d'Ivoire ct pa}'II de la CAPTEAO : voie ordinaire : .............. 22.000 voie ~ : ................ 28.000 COIDIDUDI : voie ordinaire ..................... 25.000 voie a«iennc: ..................... 30.000 Elranger: France ct pa}'II extffleWII 42.000 39.000 35.000 50.000 Adresser les demandes d'aboooement au chef du Service dea Journaux offldels de la IUpubUque de Cote d'Ivoire, 8.P.
+V 70 Abidjan, BCEAO A 0005 0002, La ligne d~ en~ 8 de 62 lettn:s en aignc : Interlignc et blanc, compris .............................
+2.580 fnnca Pour chaque annonce rq,616e, la lignc 1.580 fnnce communs: voie orclinaire ................. .25.000 35.000 voie aaienoc ................... 30.000 50.000 Autrespa}'II: voieordinairc ................. 25.000 35.000 voie abienne ................... 40.000 50.000 Les abonnes desimJX de recevoir un ~ sont pries d'ajouter 6 leur envoi le montant de l'atfranchiasement.
+n n'est jamaia compt6 moina de · 10 lignes ou ~ moins de........
+25.800 fnnc1 pour lea annonccs.
+Prix du numav de 1'111111CC counnte .......................... 1.000 Au-dBi du cinquiane exempm ................................ 800 Prix du nurnm, d'une ann6e ant6rieure ..................... 1.500 Prix du num6ro lepliH ............................................. .2.000 Pour lea envoia par poste, aft'ranchissement en plus.
+Les insertions au J.O.R.Cl. devront parvenir au Service des Joumaaa ojficie~ au plus tard le jeudi piic6dant la date de parution du" J.O.» Pour lea exemplams i certifier et i lepl~. ii aera pen;u en plus du prix du numero lea ftais de timbre et de lepliaation en vigueur.
+SOMMAIRE PARTIE OFFICIELLE 2013 ACTES PRESIDENTIELS PRESIDENCE DE LA REPUBLIQUE 13 sept ....... Loin° 2013-656 fixant Jes regles relatives a la commercialisation du coton et l'anacarde et & la regulation des activites des filieres coton et anacarde.
+2013 ACTES DU GOUVERNEMENT MINISTERE AUPRES DU PREMIER MINISTRE CHARGE DE L'ECONOMIE ET DES FINANCES 15 juillet .... ~ n° 2013-460 /MPMEF/DGTCP/DT/SDAMB portant prorogation de la duree de )'administration provisoire de COFIPA INVESTMENT BANK- C6te d'Ivoire (CIB-Cl).
+MINISTERE DES INFRASTRUCTURES ECONOMIQUES 17 mai ...... Arrete n° 0001/MlE ponant creation, attributions, organisation et fonctionnement du comite de pilotage , des Grands Projets d'Infrastructures b:onomiques.
+26 juillet .... An-etc n° 0017 /MIE/DDPE portant annulation de t'arratc n° 0410/MTPCPT/CAB/DDR/SDR autorisant la socictc RAFCO, 01 BP 294 Abidjan 01, a occuper temporairement une parcelle du Domaine publique routier de l'Etat d'une contenance de 16.320 metres canes, sise a Treichville, rue du canal, dans la commune de Treichville, aux fins d'y amcnager un pare de loisirs.
+PARTIE NON OFFICIELLE Avis et annonces.
+PARTIE OFFICIELLE 2013 ACTES PRESIDENTIELS PRESIDENCE DE LA REPUBLIQUE LOI n° 2013-656 du 13septembre2013 fixant les reg/es relatives a /a commercialisation du Coton et de /'anacarde et a /a regulation des activites des filieres coton et anacarde. L'ASSEMBLEE NATIONALE a adopte, LE PRESIDENT DE LA REPUBLIQUE promulgue la Joi dont la teneur suit :
+CHAPITRE PREMIER Disposition generate
