@@ -1,0 +1,9 @@
+# Visas
+
+C L MINISTERE DES RESSOURCES ANI MALES ET HALIEUTIQUES REPUBUQUE DE COTE D'IVOIRE Union - Discipline - Travail Vu Vu Vu Vu li>.r:r:ete-rr''- 0 2 6 fMIRAHfCAB du 2 B SEPT 2015 portant creation de l'Autorite Competente pour Ie contrale sanitaire veterinaire des produits de peche a I'exportation LE MIN ISTRE DES RESSOURCES AN I MALES ET HAUEUTIQUES, la Constitution;
+la loi n' 86-478 du 01 juillet 1986 relative ala peche;
+la loi n'96-563 du 25 juillet 1996 relative a I'inspection sanitaire 'et qualitative des denn§es animales et d'origine animale ;
+Ie decret n'99-'147 du 7 juillet 1999 poliant application de la loi n'96-593 du 25 jUiliet 1996 relative a I'inspection san ita ire et qualitative des denrees animales et d'origine animale ; Vu Ie decret n° 2011-283 du 05 octobre 2011 portant organisation du Ministere des Ressources Animales et Halieutiques ;
+Vu Ie decret n' 2012-1118 du 21 novembre 2012 portant nomination du Premier Ministre, Chef du Gouvernement, tel que modifie par Ie decret n02013-784 du 19 novembre 2013; Vu Ie decret n' 2012-1119 du 22 novembre 2012 portant nomination des Membr"s au Gouvernement. tel que modifie par les decrets n'2013-505 du 25 juiliet 2013, n'2013-7I-;I" n'2013-785, n' 2013-786 du 19 novembre 2013, n'2014-89 du 12 mars 2014, n'2015-334, n'2015-335 et n'2015-336 du 13 mai 2015;
+Vu Ie decre! n' 2013- 506 du 27 juillet 2013 portant attributions des membres du GouvernemenL lei que modifie par les decrets n' 2013- 802 dLi 21 novembre 2013, n' 2015- 445, n' 2015- 446. n' 2015- 447, n' 2015- 448 et n'2015- 449 du 24 juin 2015;
+Vu I'arrete n'0052fMIRAH du 21 decembre 2012 portant restructuration du Comite de suivi des actions a mettre en ceuvre dans Ie cadre de la mission d'inspection de l'Office Alimentaire Veterinaire concernant Ie contrale de qualite et la certification des produits de la p€che ; '. Vu les recommandations de I'Office Alimentaire Veterinaire de l'Union Europeenne, ARRETE:
