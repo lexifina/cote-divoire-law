@@ -1,0 +1,16 @@
+# Visas
+
+Ceci est une copie du Journal Officiel de la RCI réalisée par ERIS - infos@eris-ci.com Tel: +225 22 48 71 85 Ceci est une copie du Journal Officiel de la RCI réalisée par ERIS - infos@eris-ci.com Tel: +225 22 48 71 85 Copie de L'Officiel CINQUANTE-NEUVIEME ANNEE - N° 62 REPUBLIQUE DE COTE D'IVOIRE JEUDI 3 AOUT 2017 UNION - DISCIPLINE - TRAVAIL JOURNAL OFFICIEL DE LA REPUBLIQUE DE COTE D'IVOIRE paraissant les lundi et jeudi de chaque semaine ABONNEMENT 6MOIS UNAN · ABONNEMENTS ET INSERTIONS ANNONCES ET AVIS Cote d'Ivoire et pays de la CAPTEAO : voie ordinaire : .............. 22.000 voie aerienne : ................ 28.000 Etranger: France et pays exterieurs 42.000 39.000 Adresser les demandes d'abonnement au chef du Service des Journaux officiels de la Repuhlique de Cote d'Ivoire, B.P. V 70 Abidjan, BCEAO A 0005 0002.
+La ligne decomposee en corps 8 de 62 lettres ou signes, interlignes et blancs compris .
+Pour chaque annonce repetee, la ligne .
+2.500 francs 1.500 francs communs : v01e ordma1re .................. 25.000 voie aerienne ................... 30.000 Autres pays : voie ordinaire ................. 25.000 voie aerienne ................... 40.000 35.000 50.000 35.000 50.000 Les abonnes, dt!sireux de recevoir un re9u, sont pries d'ajouter a leur envoi le montant de l'affranchissement.
+II n'est · jamais compte moins de 10 lignes ou perc;u moins de ....
+pour les annonces 25.000 francs Prix du numero de l'annee courante .......................... 1.000 Au-dela du cinquieme exemplaire ................................ 800 Prix du numero d'une annee anterieure ..................... 1.500 Prix du numero legalise .............................................. 2.000 Les insertions au J.O.R.C.I. devront parvenir au Service des Journaux officiels au plus lard le jeudi precedant la date de parution du J.O.
+Pour les exemplaires a certifier et a legaliser, il sera perc;u en plus du prix du numero les f'rais de timbre et de legalisation en vigueur.
+Pour les envois par poste, affranchissement en plus.
+SOMMAIRE PARTIE OFFICIELLE 2017 ACTES PRESIDENTIELS PRESIDENCE DE LA REPUBLIQUE 2juin .... Loin° 2017-378 relative a l'amenagement, a la protection et a la gestion integree du littoral.
+2017 ACTES DU GOUVERNEMENT MINISTERE DE LA CONSTRUCTION, DU LOGEMENT, DE L' ASSAINISSEMENT ET DE L'URBANISME 5 fevrier .. Arrete n° 16-1039/MCLAU/DGUF /DDU/COD-AO/ KAJ accordant a M. KONATE Mory, B.P. Vl86 Abi<ljan, la concession definitive du lot n° 1517 de l'11ot n° 64 du lotissement d'Ananeraie, commune de. Ycipougon (titre foncier n° 201 721 de la circonscriptfon fonciere de Yopougon-Banco). 14 mars ... Arrete n° 16-3643/MCLAU/DGUF/DDU/COD- AO/KAM · accordant a M. DEMBELE Yacouba, 27 B.P. 1 258 Abidjan 27, la concession definitive des lots n°' 4404 et 4405 de l'ilot n° 392 du lotissetnent de Cocody-Bessikoi, commune de Cocody (titre foncier n° 113 984 de la circonscription fonciere de Cocody).
+PARTIE NON OFFICIELLE Avis et annonces.
+PARTIE OFFICIELLE ACTES PRESIDENTIELS PRESIDENCE DE LA· REPUBLIQUE LOI n° 2017-378 du 2 juin 2017 relative a l'amenagement, a la protection et a la gestion integree du littoral.
+L' ASSEMBLEE NATION ALE A ADOPTE, LE PRESIDENT DE LA REPUBLIQU_E PROMULGT,JE LA LOI DONT LA TENEUR SUIT :
+CHAPITRE I Dispositions genera/es Section 1 - Definitions
