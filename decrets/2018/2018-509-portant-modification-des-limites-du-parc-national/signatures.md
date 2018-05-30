@@ -1,0 +1,29 @@
+# Signatures
+
+Fait à Abidjan, le 30 mai 2018.
+Alassane OUATTARA.
+DECRET n°2018-510 du 30 mai 2018 portant modification des limites du Parc national du Banco.
+LE PRESIDENT DE LA REPUBLIQUE, Sur rapport conjoint du ministre de la Salubrité, de l'Environnement et du Développement durable, du ministre des Eaux et Forêts, du ministre de l'Agriculture et du Développement rural et du ministre de la Construction, du Logement, de l'Assainissement et de l' Urbanisme, Vu la Constitution ;
+Vu la loi n° 65-255 du 4 août 1965 relative à la protection de la faune et à l'exercice de la chasse et en particulier ses articles 4 et 5 ;
+Vu la loi n°96-766 du 3 octobre 1996 portant Code de l'Environnement;
+Vu la loi n°2002-102 du 11 février 2002 relative à la création, à la gestion et au financement des parcs nationaux et réserves naturelles, telle que modifiée par la loi n° 2013-864 du 23 décembre 2013;
+Vu la loi no 2014-427 du 14 juillet 2014 portant Code forestier;
+Vu le décret n° 2017-12 du 10 janvier 2017 portant nomination du Premier Ministre, Chef du Gouvernement, tel que modifié par le décret n° 2017-474 du 19 juillet 2017;
+Vu le décret no 2017-14 du Il janvier 2017 portant nomination des membres du Gouvernement, tel que modifié par le décret no 2017-475 du 19 juillet 2017;
+Vu le décret no 2017-45 du 25 janvier 2017 portant attributions des membres du Gouvernement, tel que modifié par le décret no 2017-596 du 27 septembre 2017 ;
+Le Conseil des ministres entendu, DECRETE :
+Article 1. - Les limites du Parc national du Banco d'une superficie de 3.438,34 hectares, situé dans le district d'Abidjan entre 5°21 et 5°25' latitude nord, et 4°01 et 4°05 ' longitude ouest sont définies par un contour polygonal représenté par une carte annexée au présent décret.
+Art. 2. - Le contour polygonal du Parc national du Banco est constitué de douze tronçons comportant 2 sommets principaux et plusieurs points intermédiaires dont les coordonnées annexées au présent décret sont définis ci-après :
+La limite Nord est constituée d'un tronçon suivant:
+-la ligne brisée comportant 4 sommets intermédiaires et allant du sommet BN 1 de coordonnées Y =599971 ,22 et X=381413 ,34 au sommet BN5 de coordonnées Y=599914,88 et X=382210,21 dans le système WGS 84 UTM zone 30.
+La limite Est est constituée de deux tronçons suivants :
+-la ligne brisée comportant 01 sommet intermédiaire et allant du sommet BN5 au sommet BN7 de coordonnées Y= 597191,41 et X= 386805,46 dans le système WGS 84 UTM zone 30 ;
+-la ligne brisée comportant 2 sommets intermédiaires et allant du sommet BN7 au sommet BN8 de coordonnées Y= 593035,27 et X= 385765,65 dans le système WGS 84 UTM zone 30 ;
+La limite Sud est définie par cinq tronçons suivants:
+-la ligne brisée comportant 9 sommets intermédiaires et allant du sommet BN8 au sommet B89 de coordonnées Y= 592693 ,18 et X= 382555,34 dans le système WGS 84 UTM zone 30;
+-la ligne brisée comportant 4 sommets intermédiaires et allant du sommet B89 au sommet B94 de coordonnées Y=593413,l0 et X=382235,15 dans le système WGS 84 UTM zone 30;
+- la ligne brisée comportant 11 sommets intermédiaires et allant du sommet B94 au sommet B 106 de coordonnées Y=593680,62 et X=381444,18 dans le système WGS 84 UTM zone 30;
+- la ligne brisée comportant 4 sommets intermédiaires et allant du sommet B 106 au sommet B 111 de coordonnées Y =594079 ,69 et X=381534,07 dans le système WGS84 UTM zone 30;
+-la ligne brisée comportant 6 sommets intermédiaires et allant du sommet Bill au sommet B118 de coordonnées Y= 594158,86 et X=380941,55 dans le système WGS 84 UTM zone 30.
+La limite Ouest est définie par quatre tronçons suivants :
+Ceci est une copie du Journal Officiel de la RCI réalisée par ERIS - infos@eris-ci.com Tel: +225 22 48 71 85 Copie de l'Offciel
