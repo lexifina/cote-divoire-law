@@ -1,0 +1,3 @@
+# Visas
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE DE COTE D'IVOIRE 23 décembre 2019 peuvent opter pour l'arbitrage de leur litige et saisir la Cour d'arbitrage de Côte d'Ivoire dans le respect des engagements internationaux de l'Etat en matière de protection des investissements. L'investisseur doit, au moment de l'obtention de l'agrément, remettre à l'agence chargée de la promotion des investissements une lettre d'engagement portant sur les modalités de règlement de litige qu'il choisit. Il choisit soit le recours aux juridictions nationales, soit le recours à un centre de conciliation et d'arbitrage. Son engagement vaut renonciation au recours à tout autre centre d'arbitrage pour le règlement du litige qui l'oppose à l'Etat.
