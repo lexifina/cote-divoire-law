@@ -1,0 +1,13 @@
+# Visas
+
+PRESIDENCE DE LAREPUBLIQUE REPUBLIQUE DE COTE D'IVOIRE ‘Union
+- Discipline — Trava;l DECRET N° 2021- 679 DU 03 NOVEMBRE 2021 PORTANT REGLEMENTATION DES SERVITUDES DES OUVRAGES D’EAU POTABLE, D’ASSAINISSEMENT ET DE DRAINAGE, DE RESEAUX ELECTRIQUES, DE GAZODUCS ET D’OLEODUCS | LE PRESIDENT DE LA REPUBLIQUE, Sur rapport conjoint du Ministre de I’Assainissement et de la Salubrité, du Ministre de PEconomie et des Finances, du Ministre de la Construction, du Logement et de PUrbanisme, du Ministre du Budget et du Portefeuille de I'Etat, du Ministre de ’Hydraulique, du Ministre de 'Equipement et de I’'Entretien Routier, du Ministre des Mines, du Pétrole et de I Energ:e et du Mmlstre de P’Environnement et du Développement Durable, Vu la Constitution ;
+Vu la Iol n°83-788 du 2 aotit 1983 determinant les regles d’ empnse et de classement des ~voies de communication et des réseaux divers de VEfat et des collectivités territoriales ;- Vu la loi n°2020-624 du 14 aolt 2020 instituant Code de I'Urbanisme et du Domaine Foncier Urbain ;
+Vu le decret du 29 septembre 1928 portant réglementation du domaine d'utilité publique et des servitudes publiques en Céte d'lvoire, modifié par le décret du 7 septembre 1935 et par le décret n°52-679 du 3 juin 1952 ;
+Vu e décret n°84-851 du 4 juillet 1984 portant déclaration des voiries et des réseaux divers d’intérét national et d'inférét urbain dans les limites de la ville d'Abidjan Vu e décret n°84-852 du 4 juillet 1984 portant déclaration des voiries et des réseaux divers d'intérét national et d'intérét départemental dans les limites des communes autres que celles composant |a ville d'Abidjan ;
+Vu le décret n°86-08 du 14 janvier 1986 portant réglementation des ouvrages d’'assainissement urbain ;
+Vu le décret n° 2013 224 du 22 niérs 2013 portant reglement de la purge des droits coutumters sur le sol pour interét general, {el que modifié par e decret n® 2014-25 du 22 janvier 2014 ;
+:
+Vu e décret n°2013-440 du 13 juin 2013 déterminant le régime juridique des périmétres de protection, les ressources en eau, les aménagements et ouvrages hydrauligues ; i vid NGRS Vu | Vu Vu Vu le décret n°2013-441 du 13 juin 2013 déterminant les conditions et modalités de classement et déclassement des ressources en eau, des aménagements et ouvrages hydrauliques ainsi que d'octroi du régime d'utilité publique aux ressources en eau, aux ' ' le décret n°2021-176 du 26 mars 2021 portant nomination du Premier Minis{re, Chef du Gouvernement ;.
+le décret n°2021-181 du 06 avril 2021 portant nomination des Membres du Gouvernement le décret n°2021-190 du 28 avril 2021 portant attributions des Membres du Gouvernement ;
+| il LE CONSEIL DES MINISTRES ENTENDU, DECRETE:
