@@ -21,7 +21,7 @@ def clean(s: str) -> str:
     runs of spaces collapsed."""
     s = unicodedata.normalize('NFC', s)
     s = s.replace(' ', ' ').replace(' ', ' ').replace('\t', ' ').replace('­', '')
-    s = s.replace('’', '’').replace("'", '’').replace('‘', '’')
+    s = s.replace("'", '’').replace('‘', '’')
     s = s.replace('“', '«').replace('”', '»')
     s = re.sub(r'«\s*', '« ', s)
     s = re.sub(r'\s*»', ' »', s)
