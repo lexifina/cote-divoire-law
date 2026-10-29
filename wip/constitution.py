@@ -51,7 +51,8 @@ def _hyphen_words(*texts: str) -> set[str]:
 
 
 def _structure(paras: list[tuple[str, bool]], marked: bool) -> tuple[str, dict[int, list[str]], dict[int, bool]]:
-    """(preamble text, {article number: paragraphs}, {article number: marked "Nouveau"})."""
+    """(preamble text, {article number: paragraphs}, {article number: marked "Nouveau"}). Title, chapter and
+    section headings end the article before them and are not part of any article."""
     pre: list[str] = []
     arts: dict[int, list[str]] = {}
     new: dict[int, bool] = {}
@@ -63,25 +64,17 @@ def _structure(paras: list[tuple[str, bool]], marked: bool) -> tuple[str, dict[i
         if re.match(r'^PR[EÉ]AMBULE$', text, re.I):
             in_pre = True
             continue
-        m = re.match(r'^Article\s+(\d+)\s*(?:(-\s*Nouveau)\s*)?(?:\.\s*)?(?:—\s*)?(.*)$', text, re.S)
-        if m and (marked or text.strip() == f'Article {m.group(1)}' or m.group(3) == ''):
+        m = re.match(r'^Article\s+(\d+)\s*(-\s*Nouveau\s*)?\.?\s*(?:—\s*)?(.*)$', text, re.S)
+        if m and (marked or not m.group(3)):
             cur = int(m.group(1))
             in_pre = False
-            arts[cur] = []
+            arts[cur] = [m.group(3).strip()] if m.group(3).strip() else []
             new[cur] = bool(m.group(2))
-            rest = m.group(3).strip()
-            if rest:
-                arts[cur].append(rest)
             continue
-        if HEADING.match(text) or (bold and text.isupper()):
-            if cur is not None or not in_pre:
-                cur = None if not in_pre else cur
-            if cur is None and not in_pre:
-                continue
-            if HEADING.match(text):
-                cur = None
-                in_pre = False
-                continue
+        if HEADING.match(text) or (bold and text.upper() == text and not text[:1].isdigit()):
+            cur = None
+            in_pre = False
+            continue
         if in_pre:
             pre.append(text)
         elif cur is not None:
@@ -89,12 +82,21 @@ def _structure(paras: list[tuple[str, bool]], marked: bool) -> tuple[str, dict[i
     return '\n'.join(pre), arts, new
 
 
+def _join_spaced_hyphens(t: str, hw: set[str]) -> str:
+    """WIPO's text keeps the Journal officiel's column hyphenation as "écono- mique": joined when the whole word is
+    printed somewhere, otherwise read as a real hyphen ("lui- même" -> "lui-même")."""
+    def rep(m):
+        w = m.group(1) + m.group(2)
+        return w if w.lower() in hw else m.group(1) + '-' + m.group(2)
+    return re.sub(r'(\w+)- (\w+)', rep, t)
+
+
 def load() -> dict:
     an_b, wi_b = fetch(AN_2016, offline=True), fetch(WIPO_2020, offline=True)
     raw_an = paragraphs(an_b, 'blocks')
     hw = _hyphen_words(*(t for t, _ in raw_an))
     raw_wi = paragraphs(wi_b, 'margin', hyphen_words=hw)
-    raw_wi = [(re.sub(r'(\w)- (\w)', lambda m: m.group(1) + m.group(2), t) if True else t, b) for t, b in raw_wi]
+    raw_wi = [(_join_spaced_hyphens(t, hw), b) for t, b in raw_wi]
     pre16, a16, _ = _structure(raw_an, marked=False)
     pre20, a20, new20 = _structure(raw_wi, marked=True)
     return {'pre16': pre16, 'a16': a16, 'pre20': pre20, 'a20': a20, 'new20': new20,
