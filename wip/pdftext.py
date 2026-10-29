@@ -35,14 +35,14 @@ def clean(s: str) -> str:
 
 
 def _lines(doc, page_filter=None):
-    """(page index, block number, x0, x1, text) for every non-empty line."""
+    """(page index, block number, x0, x1, text, bold, y0) for every non-empty line."""
     for pi, page in enumerate(doc):
         for b in page.get_text('dict')['blocks']:
             for ln in b.get('lines', []):
                 t = ''.join(s['text'] for s in ln['spans'])
                 if t.strip():
                     bold = all(('Bold' in s['font'] or s['flags'] & 16) for s in ln['spans'] if s['text'].strip())
-                    yield pi, b['number'], ln['bbox'][0], ln['bbox'][2], t, bold
+                    yield pi, b['number'], ln['bbox'][0], ln['bbox'][2], t, bold, ln['bbox'][1]
 
 
 def join_lines(lines: list[str], hyphen_words: set[str] | None = None) -> str:
@@ -74,20 +74,29 @@ def paragraphs(data: bytes, mode: str, hyphen_words: set[str] | None = None) -> 
     paras: list[tuple[list[str], bool]] = []
     if mode == 'blocks':
         key = None
-        for pi, bn, x0, x1, t, bold in rows:
+        for pi, bn, x0, x1, t, bold, y0 in rows:
             if (pi, bn) != key:
                 paras.append(([], bold))
                 key = (pi, bn)
             paras[-1][0].append(t)
     else:
+        # A paragraph starts at an "Article N" or "—" item line, after a vertical gap of 20 pt or more (line pitch
+        # is 16-19 pt, paragraph pitch 21+), or after a line that stops short of the right margin, unless the next
+        # line starts in lower case (a wrapped list item: "… de toute" / "nature ;").
         right = {}
-        for pi, bn, x0, x1, t, bold in rows:
+        for pi, bn, x0, x1, t, bold, y0 in rows:
             right[pi] = max(right.get(pi, 0), x1)
         open_ = False
-        for pi, bn, x0, x1, t, bold in rows:
-            starts_article = re.match(r'\s*Article\s+\d+', t) is not None
-            if not open_ or starts_article:
+        prev = None
+        for pi, bn, x0, x1, t, bold, y0 in rows:
+            s = t.strip()
+            item = re.match(r'(Article\s+\d+|—)', s) is not None
+            gap = prev is not None and prev[0] == pi and y0 - prev[1] >= 20 and not s[:1].islower()
+            if not open_ and s[:1].islower() and paras:
+                pass
+            elif not open_ or item or gap:
                 paras.append(([], bold))
             paras[-1][0].append(t)
             open_ = x1 >= right[pi] - 22
+            prev = (pi, y0)
     return [(clean(join_lines(ls, hyphen_words)), b) for ls, b in paras if ''.join(ls).strip()]

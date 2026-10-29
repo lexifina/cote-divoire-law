@@ -1,0 +1,24 @@
+The legal texts come from official publications of the Republic of Côte d'Ivoire:
+
+  Assemblée nationale de Côte d'Ivoire, Loi n° 2016-886 du 08 novembre 2016 portant Constitution de la
+  République de Côte d'Ivoire,
+  https://www.assnat.ci/IMG/pdf/constitution_de_la_republique_de_cote_d_ivoireloi_-_no_2016-886_du_08_novembre_2016.pdf,
+  retrieved 28 October 2026;
+  WIPO Lex (World Intellectual Property Organization), record CI023, Loi n° 2016-886 du 08 novembre 2016 portant
+  constitution de la République de Côte d'Ivoire, telle que modifiée par la loi constitutionnelle n° 2020-348 du
+  19 mars 2020, https://www.wipo.int/wipolex/fr/legislation/details/22491, retrieved 28 October 2026.
+
+The Assemblée nationale's site reads "Copyright ©2019 assnat.ci - Tous droits resevés" and publishes no licence for
+the legal texts; WIPO Lex reproduces national legislation for information under WIPO's general terms of use. They
+are official legal texts; their copyright status is not confirmed here, and they are reproduced with the
+attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+spacing, apostrophes, quotes and list dashes were normalised; page numbers, headings, the promulgation formula and
+the signature lines were removed; and the text was arranged as git commits credited to the laws concerned. The
+wording of the law was not changed, except where REPRODUCE.md lists a transcription slip in WIPO's copy and the 2016
+wording was kept. None of the publishers endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

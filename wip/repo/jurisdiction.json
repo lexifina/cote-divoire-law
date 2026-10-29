@@ -1,0 +1,11 @@
+{
+  "path": "ci",
+  "code": "CI",
+  "name": "Côte d’Ivoire",
+  "level": "country",
+  "repo": "https://github.com/lexifina/cote-divoire-law",
+  "build": "built: Constitution de la République de Côte d’Ivoire (2 versions, 2016-11-08 and 2020-03-19)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}

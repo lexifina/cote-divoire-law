@@ -1,0 +1,7 @@
+{
+ "note": "Every URL parse.py reads. fetch.py --all fetches these, then the signed WIPO PDF link printed on the WIPO record page (WIPO serves the PDF only through that link). Other files in .cache were probes and are not used.",
+ "urls": [
+  "https://www.assnat.ci/IMG/pdf/constitution_de_la_republique_de_cote_d_ivoireloi_-_no_2016-886_du_08_novembre_2016.pdf",
+  "https://www.wipo.int/wipolex/fr/legislation/details/22491"
+ ]
+}
