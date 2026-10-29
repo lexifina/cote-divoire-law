@@ -18,15 +18,17 @@ PAGE_NO = re.compile(r'^\s*\d{1,3}\s*$')
 
 def clean(s: str) -> str:
     """Typesetting normalisation, applied once: NFC, NBSP and tabs to spaces, one apostrophe and quote form,
-    runs of spaces collapsed."""
+    French spacing before ; : ! ?, runs of spaces collapsed."""
     s = unicodedata.normalize('NFC', s)
-    s = s.replace(' ', ' ').replace(' ', ' ').replace('\t', ' ').replace('­', '')
-    s = s.replace("'", '’').replace('‘', '’')
-    s = s.replace('“', '«').replace('”', '»')
-    s = re.sub(r'«\s*', '« ', s)
-    s = re.sub(r'\s*»', ' »', s)
-    s = re.sub(r'\s+([;:!?])', r' \1', s)          # French spacing before ; : ! ? (one space)
+    s = s.replace('\u00a0', ' ').replace('\u202f', ' ').replace('\t', ' ').replace('\u00ad', '')
+    s = s.replace("'", '\u2019').replace('\u2018', '\u2019')
+    s = s.replace('\u201c', '\u00ab').replace('\u201d', '\u00bb')
+    s = re.sub('\u00ab\\s*', '\u00ab ', s)
+    s = re.sub('\\s*\u00bb', ' \u00bb', s)
+    s = re.sub(r'\s*\u2019\s*', '\u2019', s)
+    s = re.sub(r'\s+([;:!?])', r' \1', s)
     s = re.sub(r'(\S)([;!?])', r'\1 \2', s)
+    s = re.sub(r'(\S):(\s|$)', r'\1 :\2', s)
     s = re.sub(r'\s+([.,])', r'\1', s)
     s = re.sub(r' {2,}', ' ', s)
     return s.strip()
