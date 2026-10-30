@@ -1,0 +1,53 @@
+{
+ "country": "CI",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République de Côte d’Ivoire (loi n° 2016-886 du 8 novembre 2016)",
+   "url": "https://www.assnat.ci/IMG/pdf/constitution_de_la_republique_de_cote_d_ivoireloi_-_no_2016-886_du_08_novembre_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 185,
+     "source_url": "https://www.assnat.ci/IMG/pdf/constitution_de_la_republique_de_cote_d_ivoireloi_-_no_2016-886_du_08_novembre_2016.pdf",
+     "sha256": "1cffd2bcefbda5d4e89ca98bb9a1a7057dd71c44c5f102a2ce9cfee031af62e4"
+    },
+    {
+     "from": "2020-03-19",
+     "units": 185,
+     "source_url": "https://www.wipo.int/wipolex/fr/legislation/details/22491",
+     "sha256": "c06628582d02304c40ce96ceb3b2150f17468ed3c442cfef3cf61f4a8c9f3860"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal (Loi n° 2019-574 du 26 juin 2019)",
+   "url": "https://www.assnat.ci/?loi-portant-code-penal",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 566,
+     "source_url": "https://www.assnat.ci/IMG/pdf/loi_portant_code_penal.pdf",
+     "sha256": "07974743162465e2a3e47a865fce6a4908c7c6d252bfaa463636aca97080dbad"
+    }
+   ]
+  },
+  {
+   "slug": "mariage",
+   "short": "Loi sur le mariage",
+   "title": "Loi n° 2019-570 du 26 juin 2019 relative au mariage",
+   "url": "https://www.assnat.ci/?loi-relatif-au-mariage",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "units": 106,
+     "source_url": "https://www.assnat.ci/IMG/pdf/loi_relative_au_mariage.pdf",
+     "sha256": "ebef20d4a796804e1939d8ce48eabd84ecfba595a64fa86c9c47e921b80b089e"
+    }
+   ]
+  }
+ ]
+}
