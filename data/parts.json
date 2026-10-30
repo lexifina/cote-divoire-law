@@ -1,0 +1,17 @@
+{
+ "parts": {
+  "20-code-penal.json": {
+   "acts": [
+    "code-penal"
+   ],
+   "sha256": "fd99d3ce91326e5210ed5804a00a563dca08bbcbec36e16c1d19acd2b1933bfd"
+  },
+  "30-mariage.json": {
+   "acts": [
+    "mariage"
+   ],
+   "sha256": "5f2905e725e1e71479443583952fbea73aed141290757c4e2b1d563842df8a27"
+  }
+ },
+ "schema": 1
+}
