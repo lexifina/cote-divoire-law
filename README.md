@@ -1,99 +1,94 @@
 # Côte d’Ivoire: law history in git
 
+
+The law of Côte d’Ivoire as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Côte d’Ivoire's national law, which global-law reads at `cote-divoire/national/acts/`.
 
-The law of Côte d’Ivoire as a git history. Each provision is one file, each law gets one commit on the day it took effect, and the law that made each change is the commit's author. `git blame` names the law behind every paragraph, `git log` lists every change to an article, and `tools/en_vigueur_au.py` gives the text in force on any day.
+**What is in it now:** three acts, with 4 versions: the Constitution of 8 November 2016 (Loi n° 2016-886), its preamble and 184 articles, as promulgated and as revised by Loi constitutionnelle n° 2020-348 of 19 March 2020; the Code pénal (Loi n° 2019-574 of 26 June 2019), 565 articles, as enacted; and the marriage law (Loi n° 2019-570 of 26 June 2019), 105 articles, as enacted. The `README.md` in each act's folder ([`constitution/`](constitution/README.md), [`code-penal/`](code-penal/README.md), [`mariage/`](mariage/README.md)) lists every provision, how often it changed and when.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ci/`.
+**Not today's Code pénal.** Laws that have amended it since 2019, among them Loi n° 2021-893 of 21 December 2021, are not applied (see [What it does not show](#what-it-does-not-show)), so the Code shows its 2019 wording.
 
-**What is in it now**
+Each act is a folder with one file per article, `art-<number>.md` (`constitution/art-055.md` is Article 55 of the Constitution, the election of the President and the Vice-President); the preamble is `constitution/preambule.md`, and `code-penal/plan.md` and `mariage/plan.md` name the article each Livre, Titre, Chapitre and Section heading precedes.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution de la République de Côte d’Ivoire (loi n° 2016-886 du 8 novembre 2016) | 2 | As promulgated, in force 8 November 2016; revised by Loi constitutionnelle n° 2020-348, in force 19 March 2020 (26 articles) |
-| `code-penal/` | Code pénal (loi n° 2019-574 du 26 juin 2019) | 1 | As enacted, published in the Journal officiel of 10 July 2019; later amendments are not in this record |
-| `mariage/` | Loi n° 2019-570 du 26 juin 2019 relative au mariage (marriage and matrimonial property, part of the civil law) | 1 | As enacted, published in the Journal officiel of 12 July 2019 |
+The text is in French, the official language, as its publishers print it.
 
-The per-act `README.md` in each folder lists every provision, how often it changed and when.
-
-The Constitution has two official texts with a text layer: the Assemblée nationale's PDF of the 2016 text, and WIPO Lex's consolidation as amended in 2020, which marks every article the 2020 law rewrote "Nouveau". WIPO Lex lists that 2020 consolidation as its most recent version ("Version la plus récente dans WIPO Lex"). The Code pénal of 2019 is included as enacted: its words are the Assemblée nationale's text of the law as adopted, checked word by word against the Journal officiel issue that published it (a scan), and corrected to the gazette's wording in the five places where the two differ. The laws that have since amended it (among them Loi n° 2021-893 du 21 décembre 2021) were not found as official texts with a text layer, so the Code shows its 2019 wording. The marriage law of 2019 is built the same way (two differences from the adopted text, both following the gazette). The data protection law (Loi n° 2013-450) is published only as an image scan, which this record does not transcribe.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did art. 55 say on 1 January 2019? | `python tools/en_vigueur_au.py 2019-01-01 constitution 55` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2019-01-01T23:59:59Z" main -- constitution/art-055.md):constitution/art-055.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2019-01-01T23:59:59Z" main -- constitution/art-055.md; git show "$($r):constitution/art-055.md"` |
-| Which law wrote each paragraph of art. 55? | `git blame constitution/art-055.md` |
-| Every change to an article, word by word | `git log -p --word-diff constitution/art-055.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one law changed | `git show law/lc-2020-348` (tags `law/<key>` mark each law's commit) |
-| The whole Constitution on a date | `python tools/en_vigueur_au.py 2017-01-01 constitution` |
-| Which law gave a provision its wording on a date | `python tools/en_vigueur_au.py --law 2021-01-01 constitution 177` |
+| Every change to Article 55 of the Constitution (the President and the Vice-President) | `git log -p --word-diff -- constitution/art-055.md` |
+| Which law wrote each line of Article 55? | `git blame constitution/art-055.md` |
+| Every version of Article 55, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-055.md` |
+| Article 55 as in force on 1 January 2019 | `python tools/en_vigueur_au.py 2019-01-01 constitution 55` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Ivorian law](https://global-law.lexifina.com/v1/try_claude?country=cote-divoire)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=cote-divoire)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=mariage&jurisdictions=cote-divoire)**: a search of Ivorian law for "mariage" (marriage), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add cote-divoire/national/acts
+python3 tools/law.py show 2026-01-01 cote-divoire/national/acts/constitution/art-055.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Africa/Abidjan (UTC), on the day the change took effect**. The day is also in the `In-force:` trailer, which the tools read; the promulgation date is the `Enacted:` trailer.
-- **The Code pénal is dated 10 July 2019**, the day of the Journal officiel issue that published it (promulgated 26 June 2019). Its art. 565 orders it "publiée au Journal officiel … et exécutée comme loi de l’Etat" and it sets no other date.
-- **The marriage law is dated 12 July 2019**, the day of its Journal officiel issue (promulgated 26 June 2019; art. 105, same formula).
-- **The Constitution fixes its own entry into force** (art. 184): "La présente Constitution entre en vigueur à compter du jour de sa promulgation par le Président de la République". So the 2016 text is dated 8 November 2016, its promulgation ("Fait à Abidjan, le 08 novembre 2016").
-- **The 2020 revision is dated 19 March 2020**, the promulgation of Loi constitutionnelle n° 2020-348: WIPO Lex gives "Modifié jusqu’à: 19 mars 2020" and its consolidated text is signed "Fait à Abidjan, le 19 mars 2020". The Journal officiel text of that law, with any entry-into-force clause of its own, was not found.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Africa/Abidjan (UTC), on the day the version took effect, and carries it in its `In-force:` trailer; the promulgation day is in `Enacted:`:
+
+- the Constitution: the day of promulgation, as its art. 184 provides ("La présente Constitution entre en vigueur à compter du jour de sa promulgation par le Président de la République"): 8 November 2016, and 19 March 2020 for the revision, the date WIPO Lex gives for Loi constitutionnelle n° 2020-348;
+- the Code pénal and the marriage law: the day of the Journal officiel issue that published each, 10 and 12 July 2019 (both were promulgated on 26 June 2019). Each orders that it be "publiée au Journal officiel … et exécutée comme loi de l’Etat" and sets no other date.
+
+Each version is credited to the law that made it, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws; the committer is always Lexifina. The 2020 commit changes the 24 articles whose words Loi constitutionnelle n° 2020-348 rewrote; WIPO Lex marks two more "Nouveau" (arts. 148 and 149), which read word for word as in 2016 and are named in the commit's `Also-concerns:` trailer.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- **Against the 2020 consolidation:** today's text is word for word WIPO Lex's consolidated text, headings aside, except four typesetting slips in WIPO's copy of articles the 2020 law did not touch and one in art. 177 ("Journal official"), where the 2016 wording is kept. Each is listed in REPRODUCE.md.
-- **Against the 2016 text:** every article WIPO does not mark "Nouveau" was compared word for word with the Assemblée nationale's 2016 text, and all agree apart from those slips. So the 2020 law changed exactly the marked articles.
-- **Nothing dropped:** every word of the body of both PDFs, from the preamble to the signature, is in a provision file except the title, chapter and section headings.
-- **Code pénal against the Journal officiel:** the Assemblée nationale's text was aligned word by word, figures included, with the text layer of the Journal officiel n° 9 spécial of 10 July 2019 (pages 201-252), and every difference was looked up on the gazette page. Apart from headings and misreadings in the scan's text layer, the two differ in five places (arts. 101, 154, 255, 308 and 362); the gazette's wording is used there, and REPRODUCE.md lists each one.
-- **Marriage law against the Journal officiel:** the same check against the Journal officiel n° 10 spécial of 12 July 2019 (pages 253-259) found two differences: art. 104 ("La présente loi" for the adopted text's "Le présent projet de loi") and art. 105, the publication formula, which the adopted text lacks. Both follow the gazette.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina.
-
-- **The first commit** is the Constitution as promulgated, credited to Loi n° 2016-886.
-- **The 2020 commit** holds exactly the articles WIPO Lex marks "Nouveau", credited to Loi constitutionnelle n° 2020-348. Two of them (arts. 148 and 149) are marked "Nouveau" but read word for word as in 2016; the commit names them in its `Also-concerns:` trailer.
-- Blame credits whole lines (one paragraph per line). Within a rewritten article, a paragraph whose words did not change keeps its 2016 line, so blame names 2016 for it. Use `git log -p --word-diff` to see exactly which words each change made.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse and that there are no merge commits. A second build into an empty folder gave identical hashes, and new acts are appended on top of `main` without rewriting it. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+- The Constitution today is word for word WIPO Lex's 2020 consolidation, and every article WIPO does not mark "Nouveau" agrees word for word with the Assemblée nationale's 2016 text, apart from a few typesetting slips in WIPO's copy, where the 2016 wording is kept (each listed in `REPRODUCE.md`).
+- The Code pénal and the marriage law are the Assemblée nationale's text as adopted, compared word by word with the Journal officiel issue that published each; where they differ, the gazette's wording is used: five places in the Code pénal (arts. 101, 154, 255, 308 and 362) and two in the marriage law (arts. 104 and 105).
 
 ## What it does not show
 
-- **Only the Constitution of 2016, the Code pénal of 2019 and the marriage law of 2019.** Earlier constitutions (1960, 2000), the 1981 Code pénal, the amendments to the 2019 Code and the other parts of the civil law (filiation, successions, minorité, …) are not in this record.
-- **Code pénal headings** (Livre, Titre, Chapitre, Section) are in `code-penal/plan.md`, each with the article it precedes, numbered as in the Assemblée nationale's text.
-- **Headings** (Titre, Chapitre, Section) are left out; each file starts with "# Article N". The preamble is one file. The promulgation formula and signature lines are left out.
-- **Publication dates.** For the Constitution the Journal officiel was not available, so its laws carry their promulgation date only.
-- **No OCR.** Texts published only as scanned images are not included.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+- **The Code pénal as amended.** The laws that changed it after 2019 were not found as official texts with a text layer, so today's text may differ.
+- **Earlier texts**: the Constitutions of 1960 and 2000 and the Code pénal of 1981.
+- **Most other law**, among it the rest of the civil law (filiation, successions, minorité …) and the data protection law (Loi n° 2013-450), which is published only as a scan; scans are not transcribed.
+- **When the Constitution's laws were published.** Their Journal officiel issues were not found, so the 2016 and 2020 versions carry their promulgation dates only.
+- **Headings and formulas.** Titre, Chapitre and Section headings are not in the article files, and the promulgation formula and signatures are left out.
 
 ## Sources
 
-| Source | What it gives | Used for |
-| --- | --- | --- |
-| [Assemblée nationale](https://www.assnat.ci/?-la-constitution-) | PDF of Loi n° 2016-886 portant Constitution, the text as promulgated (text layer) | Version 1 |
-| [WIPO Lex, record CI023](https://www.wipo.int/wipolex/fr/legislation/details/22491) | The Constitution as amended by Loi constitutionnelle n° 2020-348, every rewritten article marked "Nouveau"; PDF (text layer) and an HTML rendering | Version 2, its date and its credits |
-| [Assemblée nationale, Lois](https://www.assnat.ci/?loi-portant-code-penal) | PDF of the Loi portant Code pénal as adopted (text layer, no number or date) | Code pénal words |
-| [Journal officiel n° 9 spécial, 10 July 2019](https://www.famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf) (copy on the site of the Ministère de la Femme, de la Famille et de l’Enfant) | Loi n° 2019-574 as promulgated (scan) | Code pénal number, dates, word-by-word check and the five corrections |
-| [Assemblée nationale, Lois](https://www.assnat.ci/?loi-relatif-au-mariage) | PDF of the Loi relatif au mariage as adopted (text layer) | Marriage law words |
-| [Journal officiel n° 10 spécial, 12 July 2019](http://www.famille.gouv.ci/public/documents/doc_drcc/loi_2019-570_sur_le_mariage.pdf) (same ministry's site) | Loi n° 2019-570 as promulgated (scan) | Marriage law number, dates, check, art. 104 and art. 105 |
-| [Journal officiel (SGG)](https://www.sgg.gouv.ci) | The official gazette, not consolidated | Not used directly |
-| [Conseil constitutionnel](https://www.conseil-constitutionnel.ci/lois-et-decrets/la-constitution) | A Word export of the 2016 text (May 2017) | Not used: it differs from both texts above in 16 articles and looks like a pre-adoption draft |
-
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Assemblée nationale](https://www.assnat.ci/?-la-constitution-) | The Constitution as promulgated, PDF with a text layer | no, the 2016 text | Version 1 of the Constitution |
+| [WIPO Lex, record CI023](https://www.wipo.int/wipolex/fr/legislation/details/22491) | The Constitution as revised by Loi constitutionnelle n° 2020-348, each rewritten article marked "Nouveau" | no, the 2020 text | Version 2, its date and its credits |
+| Assemblée nationale: [Code pénal](https://www.assnat.ci/?loi-portant-code-penal), [marriage law](https://www.assnat.ci/?loi-relatif-au-mariage) | The two laws as adopted, PDFs with a text layer | no, as adopted | Their words |
+| Journal officiel n° 9 spécial (10 July 2019) and n° 10 spécial (12 July 2019), copies on the site of the [Ministère de la Femme, de la Famille et de l’Enfant](https://www.famille.gouv.ci) | The two laws as promulgated (scans) | no, as published | Their numbers and dates, and the word-by-word check |
 
 ## Licence
 
-See [LICENSE](LICENSE). Texts: Assemblée nationale de Côte d’Ivoire (https://www.assnat.ci) and WIPO Lex (https://www.wipo.int/wipolex), official texts of the Republic of Côte d’Ivoire, reproduced with that attribution. Lexifina's arrangement, messages, tables and tools are CC0.
+See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Côte d’Ivoire, reproduced with attribution to the Assemblée nationale, WIPO Lex and the Journal officiel; the Assemblée nationale states no licence for them, WIPO Lex reproduces them for information under WIPO's general terms of use, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
-This repository is not legal advice.
+No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## En français
 
-Ce dépôt retrace l’histoire de la Constitution ivoirienne du 8 novembre 2016 dans git : un fichier par article, un commit par loi à la date de son entrée en vigueur, et la loi qui a modifié le texte comme auteur du commit. Il contient aussi le Code pénal (loi n° 2019-574 du 26 juin 2019) tel que publié au Journal officiel du 10 juillet 2019, sans ses modifications ultérieures, et la loi n° 2019-570 du 26 juin 2019 relative au mariage (Journal officiel du 12 juillet 2019). Pour la Constitution, il contient deux versions : le texte promulgué le 8 novembre 2016 (PDF de l’Assemblée nationale) et le texte révisé par la loi constitutionnelle n° 2020-348 du 19 mars 2020 (consolidation de WIPO Lex, où les 26 articles réécrits portent la mention « Nouveau »). `python tools/en_vigueur_au.py 2019-01-01 constitution 55` affiche l’article 55 tel qu’il était en vigueur à cette date, et `git blame constitution/art-055.md` nomme la loi à l’origine de chaque alinéa. Ce dépôt ne constitue pas un avis juridique.
+L’histoire du droit ivoirien dans git : un fichier par article, un commit par version au jour de son entrée en vigueur, et pour auteur de chaque commit la loi qui a modifié le texte. Le dépôt contient trois textes : la Constitution du 8 novembre 2016 (loi n° 2016-886), telle que promulguée et telle que révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020 ; le Code pénal (loi n° 2019-574 du 26 juin 2019) et la loi n° 2019-570 du 26 juin 2019 relative au mariage, tels que publiés au Journal officiel en juillet 2019. **Le Code pénal n’est pas à jour** : les lois qui l’ont modifié depuis, dont la loi n° 2021-893 du 21 décembre 2021, n’y sont pas appliquées. Texte en vigueur à une date : `python tools/en_vigueur_au.py 2019-01-01 constitution 55` ; `git blame constitution/art-055.md` nomme la loi à l’origine de chaque alinéa.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
