@@ -61,6 +61,7 @@ Each version is credited to the law that made it, with an e-mail address that ca
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse and that there are no merge commits. A second build into an empty folder gave identical hashes, and new acts are appended on top of `main` without rewriting it. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - The Constitution today is word for word WIPO Lex's 2020 consolidation, and every article WIPO does not mark "Nouveau" agrees word for word with the Assemblée nationale's 2016 text, apart from a few typesetting slips in WIPO's copy, where the 2016 wording is kept (each listed in `REPRODUCE.md`).
 - The Code pénal and the marriage law are the Assemblée nationale's text as adopted, compared word by word with the Journal officiel issue that published each; where they differ, the gazette's wording is used: five places in the Code pénal (arts. 101, 154, 255, 308 and 362) and two in the marriage law (arts. 104 and 105).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ Each version is credited to the law that made it, with an e-mail address that ca
 See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Côte d’Ivoire, reproduced with attribution to the Assemblée nationale, WIPO Lex and the Journal officiel; the Assemblée nationale states no licence for them, WIPO Lex reproduces them for information under WIPO's general terms of use, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

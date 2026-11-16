@@ -61,6 +61,7 @@ Chaque version est attribuée à la loi qui l’a faite, avec une adresse élect
 - `tools/check_repo.py` relit chaque version depuis git au jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit se lisent sans erreur et qu’il n’existe aucun commit de fusion. Une seconde construction dans un dossier vide a donné des empreintes identiques, et les nouveaux textes sont ajoutés au-dessus de `main` sans le réécrire. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
 - La Constitution actuelle reproduit mot pour mot la version consolidée de 2020 de WIPO Lex, et chaque article que WIPO ne marque pas « Nouveau » concorde mot pour mot avec le texte de 2016 de l’Assemblée nationale, à l’exception de quelques coquilles typographiques de la copie de WIPO, pour lesquelles la rédaction de 2016 est conservée (chacune est énumérée dans `REPRODUCE.md`).
 - Le Code pénal et la loi relative au mariage sont le texte de l’Assemblée nationale tel qu’adopté, comparé mot à mot avec le numéro du Journal officiel qui a publié chacun d’eux ; en cas de divergence, la rédaction du Journal officiel est retenue : à cinq endroits du Code pénal (art. 101, 154, 255, 308 et 362) et à deux endroits de la loi relative au mariage (art. 104 et 105).
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -86,6 +87,10 @@ Voir [`LICENSE`](LICENSE). Les textes sont des textes juridiques officiels de la
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
