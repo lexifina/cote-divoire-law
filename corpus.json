@@ -414,6 +414,16 @@
    "articles": 6
   },
   {
+   "id": "arretes/2002/034-fixant-les-modalites-d-inscription-sur-la-liste-d",
+   "kind": "arrete",
+   "number": "034",
+   "date": "2002-07-04",
+   "title": "Arrêté n° 034 du 4 juillet 2002 fixant les modalités d’inscription sur la liste d’agrément des Opérateurs Techniques pouvant effectuer les opérations de délimitation des biens fonciers du Domaine Foncier Rural",
+   "source": "https://www.afor.ci/storage/order/656094a3000a1_ARRETE_2002-07-04_A034_Modalite_agrement_OTA.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
    "id": "arretes/2002/faolex-146510-instituant-un-bareme-de-remuneration-des",
    "kind": "arrete",
    "number": "faolex-146510",
@@ -452,6 +462,16 @@
    "source": "https://faolex.fao.org/docs/pdf/ivc167061.pdf",
    "text_layer": "publisher-ocr",
    "articles": 8
+  },
+  {
+   "id": "arretes/2003/55-portant-reorganisant-de-la-commission-fonciere",
+   "kind": "arrete",
+   "number": "55",
+   "date": "2003-07-11",
+   "title": "Arrêté n° 55 du 11 juillet 2003 portant réorganisant de la Commission Foncière Rurale",
+   "source": "https://www.afor.ci/storage/order/6560946e98725_ARRETE_2003-07-11_A055_CFR.pdf",
+   "text_layer": "born-digital",
+   "articles": 17
   },
   {
    "id": "arretes/2003/faolex-188546-portant-suspension-de-toute-exploitation-du-bois",
@@ -3782,6 +3802,16 @@
    "source": "https://faolex.fao.org/docs/pdf/ivc16693.pdf",
    "text_layer": "publisher-ocr",
    "articles": 20
+  },
+  {
+   "id": "lois/1998/1998-750-relative-au-domaine-foncier-rural-telle-que",
+   "kind": "loi",
+   "number": "1998-750",
+   "date": "1998-12-23",
+   "title": "Loi n° 1998-750 du 23 décembre 1998 relative au domaine foncier rural, telle que modifiée par la loi n° 2004-412 du 14 août 2004",
+   "source": "https://www.afor.ci/storage/loi/656087ce1950d_LOI_2013_655_du_13_septembre_2013_modifiant_larticle_6_de_la_loi_98-750.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
   },
   {
    "id": "lois/2003/2003-208-portant-transfert-et-repartition-de-competences",
