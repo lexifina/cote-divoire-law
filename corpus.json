@@ -1,0 +1,117 @@
+{
+ "corpus": "ci/national/acts",
+ "jurisdiction": "Côte d’Ivoire",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "codes/code-de-l-eau",
+   "kind": "loi",
+   "number": "2023-902",
+   "date": "2023-11-23",
+   "title": "Loi n° 2023-902 du 23 novembre 2023 portant Code de l'Eau",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228174.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 154
+  },
+  {
+   "id": "codes/code-de-l-environnement",
+   "kind": "loi",
+   "number": "1996-766",
+   "date": "1996-10-03",
+   "title": "Loi-cadre nº 96-766 portant Code de l'environnement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc21344.pdf",
+   "text_layer": "born-digital",
+   "articles": 115
+  },
+  {
+   "id": "codes/code-de-la-sante-publique-veterinaire",
+   "kind": "loi",
+   "number": "2020-995",
+   "date": "2020-12-30",
+   "title": "Loi n° 2020-995 du 30 décembre 2020 portant Code de la Santé publique vétérinaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209979.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 339
+  },
+  {
+   "id": "codes/code-de-transparence-dans-la-gestion-des-finances-publiques",
+   "kind": "loi",
+   "number": "2014-337",
+   "date": "2014-06-05",
+   "title": "Loi n° 2014-337 du 5 juin 2014 portant Code de Transparence dans la gestion des finances publiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228451.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 97
+  },
+  {
+   "id": "codes/code-des-douanes",
+   "kind": "loi",
+   "number": "2022-975",
+   "date": "2022-11-23",
+   "title": "Loi n° 2022-975 du 23 novembre 2022 portant Code des Douanes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc232511.pdf",
+   "text_layer": "born-digital",
+   "articles": 476
+  },
+  {
+   "id": "codes/code-du-tourisme",
+   "kind": "loi",
+   "number": "2014-139",
+   "date": "2014-03-24",
+   "title": "Loi n° 2014-139 du 24 mars 2014 portant Code du Tourisme",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178160.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 62
+  },
+  {
+   "id": "codes/code-forestier",
+   "kind": "loi",
+   "number": "2019-675",
+   "date": "2019-07-23",
+   "title": "Loi n° 2019-675 du 23 juillet 2019 portant code forestier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc189532.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 98
+  },
+  {
+   "id": "codes/code-minier",
+   "kind": "loi",
+   "number": "2014-138",
+   "date": "2014-03-24",
+   "title": "Loi n° 2014-138 du 24 mars 2014 portant code minier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146577.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 196
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "loi",
+   "number": "2019-574",
+   "date": "2019-07-10",
+   "title": "Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+   "source": "https://www.assnat.ci/IMG/pdf/loi_portant_code_penal.pdf",
+   "text_layer": "born-digital",
+   "articles": 565
+  },
+  {
+   "id": "constitution",
+   "kind": "constitution",
+   "number": "2016-886",
+   "date": "2016-11-08",
+   "title": "Constitution de la République de Côte d’Ivoire (loi n° 2016-886 du 8 novembre 2016), révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+   "source": "https://www.assnat.ci/IMG/pdf/constitution_de_la_republique_de_cote_d_ivoireloi_-_no_2016-886_du_08_novembre_2016.pdf",
+   "text_layer": "born-digital",
+   "articles": 184
+  },
+  {
+   "id": "lois/2019/2019-570-relative-au-mariage",
+   "kind": "loi",
+   "number": "2019-570",
+   "date": "2019-07-12",
+   "title": "Loi n° 2019-570 du 26 juin 2019 relative au mariage",
+   "source": "https://www.assnat.ci/IMG/pdf/loi_relative_au_mariage.pdf",
+   "text_layer": "born-digital",
+   "articles": 105
+  }
+ ]
+}
