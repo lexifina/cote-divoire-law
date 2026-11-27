@@ -4,6 +4,1266 @@
  "generated_from": "runner state",
  "acts": [
   {
+   "id": "arretes/1966/faolex-155055-du-04-novembre-1966-fixant-les-modalites-d",
+   "kind": "arrete",
+   "number": "faolex-155055",
+   "date": "1966-11-04",
+   "title": "Arrêté n° 1399 du 04 novembre 1966, fixant les modalités d'application du décret n° 66-421 du 15 septembre 1966 réglementant l'exploitation des bois d'œuvre et d'ébénisterie, de service, de feu et à charbon",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155055.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 32
+  },
+  {
+   "id": "arretes/1966/faolex-229297-fixant-les-conditions-d-elimination-ou-d",
+   "kind": "arrete",
+   "number": "faolex-229297",
+   "date": "1966-12-29",
+   "title": "Arrêté n° faolex-229297 du 29 décembre 1966 fixant les conditions d’élimination ou d’éloignement des animaux nuisibles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229297.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "arretes/1967/faolex-155065-rectifiant-l-arrete-n-1577-du-5-decembre-1966",
+   "kind": "arrete",
+   "number": "faolex-155065",
+   "date": "1967-03-01",
+   "title": "Arrêté n° 243 du 1 mars 1967 rectifiant l’Arrêté n° 1577 du 5 décembre 1966, fixant les modalités d’application du Décret n° 66-420 du 15 septembre 1966, portant réglementation des industries du bois",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155065.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "arretes/1967/faolex-229298-reglementant-la-destruction-des-produits-de-la",
+   "kind": "arrete",
+   "number": "faolex-229298",
+   "date": "1967-05-29",
+   "title": "Arrêté n° faolex-229298 du 29 mai 1967 réglementant la destruction des produits de la chasse",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229298.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1967/faolex-229300-reglementant-la-chasse-des-crocodiles-et-varans",
+   "kind": "arrete",
+   "number": "faolex-229300",
+   "date": "1967-09-29",
+   "title": "Arrêté n° faolex-229300 du 29 septembre 1967 réglementant la chasse des crocodiles et varans dans un but commercial",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229300.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "arretes/1967/faolex-229301-reglementant-la-detention-des-animaux-vivants-par",
+   "kind": "arrete",
+   "number": "faolex-229301",
+   "date": "1967-12-29",
+   "title": "Arrêté n° faolex-229301 du 29 décembre 1967 réglementant la détention des animaux vivants par des particuliers",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229301.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "arretes/1967/faolex-229303-fixant-les-tarifs-et-redevances-en-matiere-de",
+   "kind": "arrete",
+   "number": "faolex-229303",
+   "date": "1967-01-23",
+   "title": "Arrêté n° faolex-229303 du 23 janvier 1967 fixant les tarifs et redevances en matière de chasse et de capture des animaux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229303.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "arretes/1968/faolex-155061-portant-application-des-dispositions-du-decret-n",
+   "kind": "arrete",
+   "number": "faolex-155061",
+   "date": "1968-01-24",
+   "title": "Arrêté n° faolex-155061 du 24 janvier 1968 portant application des dispositions du décret n° 67-576 du 15 décembre 1967, réglementant la profession d’exportateur de bois",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155061.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/1972/faolex-229309-portant-modification-de-l-arrete-n-68-du-23",
+   "kind": "arrete",
+   "number": "faolex-229309",
+   "date": "1972-12-26",
+   "title": "Arrêté n° faolex-229309 du 26 décembre 1972 portant modification de l’Arrêté n° 68 du 23 janvier 1967 fixant les tarifs des taxes et redevances en matière de chasse et de capture des animaux sauvages",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229309.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1975/faolex-154821-portant-reserve-botanique-de-divo",
+   "kind": "arrete",
+   "number": "faolex-154821",
+   "date": "1975-07-03",
+   "title": "Arrêté n° faolex-154821 du 3 juillet 1975 portant réserve botanique de Divo",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154821.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 0
+  },
+  {
+   "id": "arretes/1976/faolex-007488-portant-reglementation-de-la-police-sanitaire-des",
+   "kind": "arrete",
+   "number": "faolex-007488",
+   "date": "1976-06-14",
+   "title": "Arrêté n° faolex-007488 du 14 juin 1976 portant réglementation de la police sanitaire des produits de la pêche en Côte d'Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc7488.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "arretes/1983/faolex-001458-fixant-les-modalites-d-utilisation-de-certains",
+   "kind": "arrete",
+   "number": "faolex-001458",
+   "date": "1983-09-16",
+   "title": "Arrêté n° faolex-001458 du 16 septembre 1983 fixant les modalités d'utilisation de certains engins de pêche à l'intérieur du premier mille et dans les lagunes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc1458.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1986/faolex-001443-portant-attributions-et-organisation-du",
+   "kind": "arrete",
+   "number": "faolex-001443",
+   "date": "1986-11-27",
+   "title": "Arrêté n° faolex-001443 du 27 novembre 1986 portant attributions et organisation du Laboratoire central de l'environnement marin et lagunaire (L.C.E.)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc1443.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/1988/faolex-178162-portant-reglementation-des-restaurants-dits-maquis",
+   "kind": "arrete",
+   "number": "faolex-178162",
+   "date": "1988-06-01",
+   "title": "Arrêté n° faolex-178162 du 1er juin 1988 portant réglementation des Restaurants dits « Maquis »",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178162.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/1990/faolex-154793-portant-mise-a-disposition-de-la-societe-de",
+   "kind": "arrete",
+   "number": "faolex-154793",
+   "date": "1990-07-05",
+   "title": "Arrêté n° faolex-154793 du 5 juillet 1990 portant mise à disposition de la Société de Développement des Forêt (SODEFOR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154793.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1990/faolex-154794-portant-creation-de-la-cellule-de-coordination",
+   "kind": "arrete",
+   "number": "faolex-154794",
+   "date": "1990-08-28",
+   "title": "Arrêté n° faolex-154794 du 28 août 1990 portant création de la cellule de Coordination des Aires protégées de la Côtière (C.A.P.C.) à Fresco",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154794.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1990/faolex-154803-portant-creation-d-une-cellule-d-amenagement-du",
+   "kind": "arrete",
+   "number": "faolex-154803",
+   "date": "1990-08-28",
+   "title": "Arrêté n° faolex-154803 du 28 août 1990 portant création d’une cellule d’Aménagement du Parc national du Mont Sangbé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154803.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1991/faolex-178130-relatif-a-la-conservation-du-lait-pasteurise",
+   "kind": "arrete",
+   "number": "faolex-178130",
+   "date": "1991-12-26",
+   "title": "Arrêté n° faolex-178130 du 26 décembre 1991 relatif à la conservation du lait pasteurisé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178130.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "arretes/1991/faolex-178131-relatif-aux-maladies-rendant-le-lait-impropre-a",
+   "kind": "arrete",
+   "number": "faolex-178131",
+   "date": "1991-12-26",
+   "title": "Arrêté n° faolex-178131 du 26 décembre 1991 relatif aux maladies rendant le lait impropre à la consommation humaine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178131.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "arretes/1992/faolex-154718-portant-creation-de-delegations-regionales-a-la",
+   "kind": "arrete",
+   "number": "faolex-154718",
+   "date": "1992-09-11",
+   "title": "Arrêté n° faolex-154718 du 11 septembre 1992 portant création de délégations régionales à la SODEFOR",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154718.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/1992/faolex-154795-portant-transfert-de-la-cellule-de-coordination",
+   "kind": "arrete",
+   "number": "faolex-154795",
+   "date": "1992-02-13",
+   "title": "Arrêté n° faolex-154795 du 13 février 1992 portant transfert de la cellule de coordination des aires protégées de la côtière (CAPC) à la SODEFOR",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154795.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1993/faolex-154798-organisant-la-commission-paysans-forets",
+   "kind": "arrete",
+   "number": "faolex-154798",
+   "date": "1993-06-03",
+   "title": "Arrêté interministériel n° 54 MINAGRA-INT du 3 juin 1993 organisant la Commission Paysans-Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154798.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/1993/faolex-175701-fixant-certains-criteres-de-qualite-pour-l",
+   "kind": "arrete",
+   "number": "faolex-175701",
+   "date": "1993-10-18",
+   "title": "Arrêté n° faolex-175701 du 18 octobre 1993 fixant certains critères de qualité pour l’importation de viande de bœuf en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc175701.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/1993/faolex-175758-organisant-l-inspection-et-le-controle-sanitaires",
+   "kind": "arrete",
+   "number": "faolex-175758",
+   "date": "1993-02-25",
+   "title": "Arrêté n° 27 MINAGRA. CAB du 25 février 1993 organisant l'inspection et le contrôle sanitaires et de la qualité des produits agricoles aux portes d'entrée et de sortie du territoire national",
+   "source": "https://faolex.fao.org/docs/pdf/ivc175758.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/1993/faolex-178112-portant-application-du-decret-n-93-312-du-11-mars",
+   "kind": "arrete",
+   "number": "faolex-178112",
+   "date": "1993-04-08",
+   "title": "Arrêté n° faolex-178112 du 8 avril 1993 portant application du décret n° 93-312 du 11 mars 1993 fixant les conditions d'exercice des professions touchant au commerce des animaux, des denrées animales et d’origine animale destinées à la consommation humaine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178112.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/1993/faolex-178122-relatif-a-la-delivrance-des-certificats",
+   "kind": "arrete",
+   "number": "faolex-178122",
+   "date": "1993-04-02",
+   "title": "Arrêté n° faolex-178122 du 2 avril 1993 relatif à la délivrance des certificats sanitaires accompagnant des animaux vivants et des produits halieutiques exportés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178122.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1993/faolex-178137-relatifs-a-la-denomination-et-a-la-presentation",
+   "kind": "arrete",
+   "number": "faolex-178137",
+   "date": "1993-01-25",
+   "title": "Arrêté n° faolex-178137 du 25 janvier 1993 relatifs à la dénomination et à la présentation des laits stérilisés et aromatisés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178137.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/1993/faolex-178353-portant-application-du-decret-n-93-313-du-11-mars",
+   "kind": "arrete",
+   "number": "faolex-178353",
+   "date": "1993-03-12",
+   "title": "Arrêté n° faolex-178353 du 12 mars 1993 portant application du décret n° 93-313 du 11 mars 1993 abrogeant et remplaçant le décret n° 92-51 du 29-01-1992 déterminant les conditions d'entrée en Côte d'Ivoire de marchandises étrangères de toute origine et de toute provenance ainsi que les conditions d'exportation et de réexportation des marchandises d destination de l'étranger",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178353.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "arretes/1996/faolex-155074-reglementant-le-transport-routier-des-bois-en",
+   "kind": "arrete",
+   "number": "faolex-155074",
+   "date": "1996-05-08",
+   "title": "Arrêté n° faolex-155074 du 8 mai 1996 réglementant le transport routier des bois en grumes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155074.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/1996/faolex-178140-fixant-les-conditions-d-indication-de-la-date",
+   "kind": "arrete",
+   "number": "faolex-178140",
+   "date": "1996-04-16",
+   "title": "Arrêté n° faolex-178140 du 16 avril 1996 fixant les conditions d'indication de la date limite d'utilisation des laits stérilisés et des laits UHT",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178140.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/1996/faolex-178142-fixant-les-modalites-d-indication-de-la-date",
+   "kind": "arrete",
+   "number": "faolex-178142",
+   "date": "1996-04-16",
+   "title": "Arrêté n° faolex-178142 du 16 avril 1996 fixant les modalités d'indication de la date limite de consommation des laits fermentés, yaourts ou yoghourts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178142.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1996/faolex-178146-rendant-obligatoire-l-iodation-du-sel-destine-a",
+   "kind": "arrete",
+   "number": "faolex-178146",
+   "date": "1996-04-03",
+   "title": "Arrêté interministériel n° 18 MSIMC du 3 avril 1996 rendant obligatoire l'iodation du sel destiné à la consommation humaine et animale en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178146.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/1996/faolex-178148-relatif-a-l-agrement-des-operateurs-economiques",
+   "kind": "arrete",
+   "number": "faolex-178148",
+   "date": "1996-01-30",
+   "title": "Arrêté n° faolex-178148 du 30 janvier 1996 relatif à l’agrément des opérateurs économiques intervenant dans la fabrication l’importation et la commercialisation de produits destinés à l’alimentation animale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178148.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/1997/faolex-155072-interdisant-le-transport-routier-de-nuit-des-bois",
+   "kind": "arrete",
+   "number": "faolex-155072",
+   "date": "1997-04-07",
+   "title": "Arrêté Interministériel n° 36 MINAGRA-MDIE-ET du 7 avril 1997 interdisant le transport routier de nuit des bois en grumes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155072.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1998/faolex-175702-fixant-les-conditions-d-importation-des-viandes",
+   "kind": "arrete",
+   "number": "faolex-175702",
+   "date": "1998-02-25",
+   "title": "Arrêté n° faolex-175702 du 25 février 1998 fixant les conditions d’importation des viandes bovines et de leurs dérivés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc175702.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2000/faolex-069133-portant-modeles-officiels-du-certificat-foncier",
+   "kind": "arrete",
+   "number": "faolex-069133",
+   "date": "2000-02-08",
+   "title": "Arrêté n° faolex-069133 du 8 février 2000 portant modèles officiels du certificat foncier individuel et du certificat foncier collectif",
+   "source": "https://faolex.fao.org/docs/pdf/ivc69133.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2000/faolex-069137-definissant-le-formulaire-de-constat-d-existence",
+   "kind": "arrete",
+   "number": "faolex-069137",
+   "date": "2000-09-06",
+   "title": "Arrêté n° faolex-069137 du 6 septembre 2000 définissant le formulaire de constat d'existence continue et paisible de droits coutumiers sur un bien foncier du domaine rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc69137.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2001/faolex-069141-definissant-les-formulaires-d-approbation-et-de",
+   "kind": "arrete",
+   "number": "faolex-069141",
+   "date": "2001-05-15",
+   "title": "Arrêté n° faolex-069141 du 15 mai 2001 définissant les formulaires d'approbation et de validation des enquêtes foncières rurales officielles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc69141.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2001/faolex-069142-definissant-le-formulaire-de-proces-verbal-de",
+   "kind": "arrete",
+   "number": "faolex-069142",
+   "date": "2001-05-28",
+   "title": "Arrêté n° faolex-069142 du 28 mai 2001 définissant le formulaire de procés-verbal de clôture de publicité des enquêtes foncières rurales officielles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc69142.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2001/faolex-069143-relatif-a-la-constitution-et-au-fonctionnement",
+   "kind": "arrete",
+   "number": "faolex-069143",
+   "date": "2001-06-12",
+   "title": "Arrêté n° faolex-069143 du 12 juin 2001 relatif à la constitution et au fonctionnement des comités de gestion foncière rurale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc69143.pdf",
+   "text_layer": "born-digital",
+   "articles": 23
+  },
+  {
+   "id": "arretes/2001/faolex-148374-portant-creation-de-la-commission-d-orientation",
+   "kind": "arrete",
+   "number": "faolex-148374",
+   "date": "2001-04-02",
+   "title": "Arrêté n° faolex-148374 du 2 avril 2001 portant création de la commission d'orientation du Programme spécial pour la Sécurité alimentaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc148374.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2002/faolex-146510-instituant-un-bareme-de-remuneration-des",
+   "kind": "arrete",
+   "number": "faolex-146510",
+   "date": "2002-07-04",
+   "title": "Arrêté n° faolex-146510 du 4 juillet 2002 instituant un barème de rémunération des opérations de délimitation des biens fonciers du Domaine Foncier Rural et fixant les modalités de son établissement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146510.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2002/faolex-146511-etablissant-les-baremes-de-timbrage-des",
+   "kind": "arrete",
+   "number": "faolex-146511",
+   "date": "2002-07-04",
+   "title": "Arrêté N° 33 MEF/MINAGRA du 04 juillet 2002 établissant les barèmes de timbrage des Certificats Fonciers et des frais d’immatriculation des biens fonciers du Domaine Foncier Rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146511.pdf",
+   "text_layer": "born-digital",
+   "articles": 13
+  },
+  {
+   "id": "arretes/2002/faolex-146512-fixant-les-modalites-d-inscription-sur-la-liste-d",
+   "kind": "arrete",
+   "number": "faolex-146512",
+   "date": "2002-07-04",
+   "title": "Arrêté n° faolex-146512 du 4 juillet 2002 fixant les modalités d’inscription sur la liste d’agrément des Opérateurs Techniques pouvant effectuer les opérations de délimitation des biens fonciers du Domaine Foncier Rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146512.pdf",
+   "text_layer": "born-digital",
+   "articles": 13
+  },
+  {
+   "id": "arretes/2002/faolex-167061-portant-determination-des-conditions-d",
+   "kind": "arrete",
+   "number": "faolex-167061",
+   "date": "2002-07-30",
+   "title": "Arrêté n° faolex-167061 du 30 juillet 2002 portant détermination des conditions d'application régime des branchements subventionnés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167061.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2003/faolex-188546-portant-suspension-de-toute-exploitation-du-bois",
+   "kind": "arrete",
+   "number": "faolex-188546",
+   "date": "2003-10-28",
+   "title": "Arrêté n° faolex-188546 du 28 octobre 2003 portant suspension de toute exploitation du bois de teck dans les zones assiégées",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188546.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2004/faolex-140822-interdisant-provisoirement-importation-et-la-mise",
+   "kind": "arrete",
+   "number": "faolex-140822",
+   "date": "2004-12-28",
+   "title": "Arrêté 35 MIPARH du 28 décembre 2004 interdisant provisoirement importation et la mise à la consommation de certaines denrées d'origine porcine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140822.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2004/faolex-140835-portant-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-140835",
+   "date": "2004-04-05",
+   "title": "Arrêté n° faolex-140835 du 5 avril 2004 portant attributions, organisation et fonctionnement de la Cellule chargée des questions sanitaires de l’Habitat du ministère de la Construction et de l'Urbanisme",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140835.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2004/faolex-169859-portant-interdiction-d-emploi-en-agriculture-de",
+   "kind": "arrete",
+   "number": "faolex-169859",
+   "date": "2004-06-21",
+   "title": "Arrêté n° faolex-169859 du 21 juin 2004 portant interdiction d’emploi en agriculture de substances actives entrant dans la fabrication des produits phytopharmaceutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc169859.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "arretes/2004/faolex-195692-portant-integration-du-service-de-l-inspection",
+   "kind": "arrete",
+   "number": "faolex-195692",
+   "date": "2004-03-24",
+   "title": "Arrêté n° faolex-195692 du 24 mars 2004 portant intégration du Service de l’Inspection des Installations Classées (SIIC), au Centre Ivoirien Anti-Pollution (CIAPOL)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195692.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2004/faolex-195693-arrete-n-445-mineme-cab-du-24-mars-2004-portant",
+   "kind": "arrete",
+   "number": "faolex-195693",
+   "date": "2004-03-24",
+   "title": "Arrêté n° 445/MINEME/CAB du 24 mars 2004, portant intégration du Bureau d’Etudes d’Impact Environnemental (BEIE), à l’Agence Nationale De l’Environnement (ANDE)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195693.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2005/faolex-140687-portant-creation-de-l-unite-d-execution-du-projet",
+   "kind": "arrete",
+   "number": "faolex-140687",
+   "date": "2005-03-01",
+   "title": "Arrêté n° faolex-140687 du 1er mars 2005 portant création de l’Unité d’Exécution du Projet d’aménagements hydro-agricoles dans les Régions du Haut-Sassandra et du Fromager",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140687.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2005/faolex-140689-minagri-memef-du-4-mai-2005-partant-creation-du",
+   "kind": "arrete",
+   "number": "faolex-140689",
+   "date": "2005-05-04",
+   "title": "Arrêté 169-2005 MINAGRI/MEMEF du 4 mai 2005 partant création du Comité de Pilotage et de Suivi du Projet d’Aménagements Hydro-agricoles dans les régions du Haut-Sassandra et du Fromager",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140689.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2005/faolex-140824-portant-creation-du-comite-de-pilotage-et-de",
+   "kind": "arrete",
+   "number": "faolex-140824",
+   "date": "2005-06-09",
+   "title": "Arrêté n° faolex-140824 du 9 juin 2005 portant création du Comité de Pilotage et de Suivi du Projet de Développement agricole de la Vallée de la Bagoué",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140824.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2005/faolex-140825-portant-creation-d-une-cellule-focale-de",
+   "kind": "arrete",
+   "number": "faolex-140825",
+   "date": "2005-09-16",
+   "title": "Arrêté n° faolex-140825 du 16 septembre 2005 portant création d'une Cellule focale de coordination de la Lutte contre le Trafic, le Travail et l’Exploitation des Enfants dans la culture du cacao et dans l'agriculture commerciale (CFC-LTTEE)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140825.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2005/faolex-140826-autorisant-la-perception-d-une-redevance-pour-les",
+   "kind": "arrete",
+   "number": "faolex-140826",
+   "date": "2005-02-03",
+   "title": "Arrêté n° faolex-140826 du 3 février 2005 autorisant la perception d'une redevance pour les Unions Inter-régionales de la filière Coton",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140826.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2005/faolex-140827-autorisant-la-perception-d-une-redevance-pour-le",
+   "kind": "arrete",
+   "number": "faolex-140827",
+   "date": "2005-02-03",
+   "title": "Arrêté n° faolex-140827 du 3 février 2005 autorisant la perception d'une redevance pour le contrôle poids et qualité du coton graine de la fibre de coton et de la graine de coton",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140827.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2005/faolex-140828-instituant-le-controle-de-poids-et-de-la-qualite",
+   "kind": "arrete",
+   "number": "faolex-140828",
+   "date": "2005-02-03",
+   "title": "Arrêté n° faolex-140828 du 3 février 2005 instituant le contrôle de poids et de la qualité de la noix de cajou brute destinée à l'exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140828.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2005/faolex-140836-soumettant-les-commissaires-enqueteurs-du",
+   "kind": "arrete",
+   "number": "faolex-140836",
+   "date": "2005-06-22",
+   "title": "Arrêté n° 212 du 22 juin 2005 soumettant les commissaires enquêteurs du ministère chargé de l'Agriculture à l’obligation de prêter serment",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140836.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2005/faolex-155493-portant-determination-de-la-liste-des-travaux",
+   "kind": "arrete",
+   "number": "faolex-155493",
+   "date": "2005-03-14",
+   "title": "Arrêté n° faolex-155493 du 14 mars 2005 portant détermination de la liste des travaux dangereux interdits aux enfants de moins de dix- huit (18) ans",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155493.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2005/faolex-195581-arrete-n-206-mineme-ig-du-19-octobre-2005-porte",
+   "kind": "arrete",
+   "number": "faolex-195581",
+   "date": "2005-10-19",
+   "title": "Arrêté n° 206 /MINEME/IG/ du 19 octobre 2005, porte nomination des membres de la cellule d’élaboration du plan programme de la dépollution, de l’aménagement et d’exploitation de l’espace lagunaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195581.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2005/faolex-195658-porte-sur-la-mise-en-place-composition-et-mission",
+   "kind": "arrete",
+   "number": "faolex-195658",
+   "date": "2005-10-19",
+   "title": "Arrêté n° faolex-195658 du 19 octobre 2005 porte sur la mise en place, composition et mission de la cellule d’élaboration du plan programme de la dépollution, de l’aménagement et d’exploitation de l’espace lagunaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195658.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2006/faolex-140668-portant-organisation-de-la-direction-des-services",
+   "kind": "arrete",
+   "number": "faolex-140668",
+   "date": "2006-10-31",
+   "title": "Arrêté n° faolex-140668 du 31 octobre 2006 portant organisation de la Direction des Services Vétérinaires (DSV)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140668.pdf",
+   "text_layer": "born-digital",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2006/faolex-140671-portant-organisation-de-la-direction-de-la",
+   "kind": "arrete",
+   "number": "faolex-140671",
+   "date": "2006-11-02",
+   "title": "Arrêté n° faolex-140671 du 2 novembre 2006 portant organisation de la direction de la transformation et de la valorisation des produits (DTVP)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140671.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2006/faolex-140673-portant-organisation-de-la-direction-de-la",
+   "kind": "arrete",
+   "number": "faolex-140673",
+   "date": "2006-10-31",
+   "title": "Arrêté n° faolex-140673 du 31 octobre 2006 portant organisation de la Direction de la Gestion et de l'Equipement de l'Espace Pastoral et Aquacole (DGEEPA) du Ministère de la Production Animale et des Ressources Halieutiques (MIPARH )",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140673.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2006/faolex-140675-portant-organisation-de-la-direction-des-affaires",
+   "kind": "arrete",
+   "number": "faolex-140675",
+   "date": "2006-10-11",
+   "title": "Arrêté n° faolex-140675 du 11 octobre 2006 portant organisation de la Direction des Affaires Administratives et Financières (DAAF) du Ministère de la Production Animale et des Ressources Halieutiques (MIPARH)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140675.pdf",
+   "text_layer": "born-digital",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2006/faolex-140676-portant-organisation-de-la-direction-de-la",
+   "kind": "arrete",
+   "number": "faolex-140676",
+   "date": "2006-10-31",
+   "title": "Arrêté n° faolex-140676 du 31 octobre 2006 portant organisation de la Direction de la Planification et des Programmes (DPP) du Ministère de la Production Animale et des Ressources Halieutiques (MIPARH)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140676.pdf",
+   "text_layer": "born-digital",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2006/faolex-188547-portant-abrogation-de-l-arrete-n-531-du-28",
+   "kind": "arrete",
+   "number": "faolex-188547",
+   "date": "2006-12-18",
+   "title": "Arrêté n° faolex-188547 du 18 décembre 2006 portant abrogation de l'arrêté n° 531 du 28 octobre 2003 portant suspension de toute exploitation de bois de teck dans les zones assiégées",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188547.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2007/faolex-148373-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-148373",
+   "date": "2007-07-24",
+   "title": "Arrêté n° faolex-148373 du 24 juillet 2007 portant création, attributions, organisation et fonctionnement du Comité de pilotage national du Programme de Restructuration et mise à niveau de l'industrie des Etats membres de l’UEMOA",
+   "source": "https://faolex.fao.org/docs/pdf/ivc148373.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2007/faolex-154627-relatif-a-l-application-du-n-2005-03-du-6-janvier",
+   "kind": "arrete",
+   "number": "faolex-154627",
+   "date": "2007-11-14",
+   "title": "Arrêté n° faolex-154627 du 14 novembre 2007 relatif à l'application du n° 2005-03 du 6 janvier 2005 portant audit environnemental",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154627.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 69
+  },
+  {
+   "id": "arretes/2007/faolex-154629-determinant-les-regies-et-procedures-applicables",
+   "kind": "arrete",
+   "number": "faolex-154629",
+   "date": "2007-11-14",
+   "title": "Arrêté n° 00972 du 14 novembre 2007, relatif à l'application du décret n° 96-894 du 8 novembre 1996 déterminant les régies et procédures applicables aux études relatives à l'impact environnemental des projets de développement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154629.pdf",
+   "text_layer": "born-digital",
+   "articles": 42
+  },
+  {
+   "id": "arretes/2007/faolex-178154-rendant-obligatoire-la-fortification-en-fer-et-en",
+   "kind": "arrete",
+   "number": "faolex-178154",
+   "date": "2007-01-18",
+   "title": "Arrêté interministériel n° 25 du 18 janvier 2007 rendant obligatoire la fortification en fer et en acide folique de la farine de blé panifiable en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178154.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "arretes/2007/faolex-178155-rendant-obligatoire-la-fortification-en-vitamine",
+   "kind": "arrete",
+   "number": "faolex-178155",
+   "date": "2007-01-18",
+   "title": "Arrêté interministériel n° 26 du 18 janvier 2007 rendant obligatoire la fortification en vitamine A des huiles alimentaires destinées à la consommation humaine et animale en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178155.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2007/faolex-187552-portant-creation-du-comite-de-gestion-du",
+   "kind": "arrete",
+   "number": "faolex-187552",
+   "date": "2007-02-26",
+   "title": "Arrêté n° faolex-187552 du 26 février 2007 portant création du comité de Gestion du programme d’Appui il la production avicole nationale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187552.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2007/faolex-214209-portant-creation-de-l-autorite-competente-pour-le",
+   "kind": "arrete",
+   "number": "faolex-214209",
+   "date": "2007-05-09",
+   "title": "Arrêté n° faolex-214209 du 9 mai 2007 portant création de l'autorité compétente pour le contrôle sanitaire vétérinaire des produits de pêche à l'exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc214209.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2008/faolex-236497-arrete-interministeriel-n-196-msh-mipsp-du-10-oct",
+   "kind": "arrete",
+   "number": "faolex-236497",
+   "date": "2008-10-10",
+   "title": "Arrêté interministériel n° 196/MSH/MIPSP/ du 10 Oct. 2008, portant création, organisation, attributions et fonctionnement de l'alliance nationale pour la fortification des aliments (ANF)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236497.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "arretes/2009/faolex-132143-portant-creation-organisation-et-fonctionnement",
+   "kind": "arrete",
+   "number": "faolex-132143",
+   "date": "2009-06-23",
+   "title": "Arrêté n° faolex-132143 du 23 juin 2009 portant création, organisation et fonctionnement du groupe de travail pour la mise en œuvre de la Directive n° 07/2006/CM/UEMOA relative à la Pharmacie Vétérinaire (GTMO-OEMOA)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132143.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "arretes/2009/faolex-154660-portant-creation-de-poste-forestier-a-yakasse",
+   "kind": "arrete",
+   "number": "faolex-154660",
+   "date": "2009-03-06",
+   "title": "Arrêté n° faolex-154660 du 6 mars 2009 portant création de poste forestier à Yakassé- Attobrou",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154660.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2009/faolex-154661-portant-creation-de-poste-forestier-a-n-zianouan",
+   "kind": "arrete",
+   "number": "faolex-154661",
+   "date": "2009-03-06",
+   "title": "Arrêté n° faolex-154661 du 6 mars 2009 portant création de poste forestier à N'Zianouan",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154661.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "arretes/2009/faolex-154687-portant-creation-de-poste-forestier-a-gbagbame",
+   "kind": "arrete",
+   "number": "faolex-154687",
+   "date": "2009-03-06",
+   "title": "Arrêté n° faolex-154687 du 6 mars 2009 portant création de poste forestier à Gbagbame",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154687.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2009/faolex-178150-fixant-la-procedure-et-les-conditions-d-octroi",
+   "kind": "arrete",
+   "number": "faolex-178150",
+   "date": "2009-04-09",
+   "title": "Arrêté n° faolex-178150 du 9 avril 2009 fixant la procédure et les conditions d'octroi des agréments sanitaires aux opérateurs économiques intervenant dans l’importation, l’exportation et la fabrication des aliments pour animaux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178150.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2010/faolex-178107-portant-reglementation-des-conditions-d-hygiene",
+   "kind": "arrete",
+   "number": "faolex-178107",
+   "date": "2010-07-01",
+   "title": "Arrêté n° faolex-178107 du 1er juillet 2010 portant réglementation des conditions d’hygiène applicables à bord des navires de pêche et des pirogues",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178107.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "arretes/2010/faolex-178110-relatif-a-la-qualite-des-eaux-utilisees-dans-les",
+   "kind": "arrete",
+   "number": "faolex-178110",
+   "date": "2010-07-05",
+   "title": "Arrêté n° faolex-178110 du 5 juillet 2010 relatif à la qualité des eaux utilisées dans les établissements manipulateurs de produits de la pêche",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178110.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "arretes/2010/faolex-178124-fixant-les-mesures-pratiques-d-exercice-de-la",
+   "kind": "arrete",
+   "number": "faolex-178124",
+   "date": "2010-07-01",
+   "title": "Arrêté n° faolex-178124 du 1er juillet 2010 fixant les mesures pratiques d'exercice de la police sanitaire en frontières",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178124.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "arretes/2011/faolex-140613-portant-creation-fonctionnement-et-organisation-d",
+   "kind": "arrete",
+   "number": "faolex-140613",
+   "date": "2011-10-14",
+   "title": "Arrêté n° faolex-140613 du 14 octobre 2011 portant création, fonctionnement et organisation d'une Commission d’agrément d’aménageur foncier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140613.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "arretes/2011/faolex-140615-arrete-028-du-14-octobre-2011portant-institution",
+   "kind": "arrete",
+   "number": "faolex-140615",
+   "date": "2011-10-14",
+   "title": "Arrêté 028 du 14 octobre 2011portant institution du Certificat de Conformité des lotissements, des morcellements et de l'aménagement foncier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140615.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2012/faolex-155494-revisant-l-arrete-n-2250-du-14-mars-2005-portant",
+   "kind": "arrete",
+   "number": "faolex-155494",
+   "date": "2012-01-19",
+   "title": "Arrêté n° 009 MEMEASS/CAB du 19 janvier 2012 révisant l’arrêté n° 2250 du 14 mars 2005 portant détermination de la liste des travaux dangereux interdits aux enfants de moins de dix-huit ans",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155494.pdf",
+   "text_layer": "born-digital",
+   "articles": 15
+  },
+  {
+   "id": "arretes/2013/faolex-155067-portant-interdiction-de-l-exploitation-forestiere",
+   "kind": "arrete",
+   "number": "faolex-155067",
+   "date": "2013-02-06",
+   "title": "Arrêté n° faolex-155067 du 6 février 2013 portant interdiction de l'exploitation forestière au-dessus du 8ème parallèle",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155067.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2014/faolex-140609-determinant-les-modalites-d-application-de-l",
+   "kind": "arrete",
+   "number": "faolex-140609",
+   "date": "2014-02-19",
+   "title": "Arrêté n° 065/PMCAB du 19 février 2014 déterminant les modalités d'application de l'article 1er du Décret n° 2013-803 du 22 novembre 2013 prorogeant le délai de six mois prévu à l'article 12 du Décret n° 2013-327 du 22 mai 2013 portant interdiction de la production, de l'importation, de la commercialisation, de la détention et de l'utilisation des sachets plastiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140609.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "arretes/2014/faolex-166999-fixant-la-duree-de-validite-des-certificats-de",
+   "kind": "arrete",
+   "number": "faolex-166999",
+   "date": "2014-09-04",
+   "title": "Arrêté n° faolex-166999 du 4 septembre 2014 fixant la durée de validité des certificats de jaugeage des camions citernes, des wagons-citernes et des citernes fixes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166999.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2014/faolex-167092-determinant-les-modalites-de-delivrance-du",
+   "kind": "arrete",
+   "number": "faolex-167092",
+   "date": "2014-11-10",
+   "title": "Arrêté n° 501/MIM du 10 novembre 2014 déterminant les modalités de délivrance du certificat du processus de Kimberley dans le cadre de l'exportation des diamants bruts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167092.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2014/faolex-167093-determinant-la-liste-des-pieces-constitutives-des",
+   "kind": "arrete",
+   "number": "faolex-167093",
+   "date": "2014-11-10",
+   "title": "Arrêté n° 502/MIM du 10 novembre 2014 déterminant la liste des pièces constitutives des dossiers de demande d'agrément en qualité de bureau d'achat, d'importation et d'exportation de diamants bruts et d'autorisation relative à l'achat et à la vente de diamants bruts, ainsi que les procédures applicables",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167093.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2014/faolex-176569-organisant-le-controle-des-pesticides-l",
+   "kind": "arrete",
+   "number": "faolex-176569",
+   "date": "2014-11-11",
+   "title": "Arrêté interministériel n° 509/MINAGRl/MEMIS du 11 novembre 2014 organisant le contrôle des pesticides, l'inspection et le contrôle sanitaires, phytosanitaires et de la qualité des végétaux, des produits d’origine végétale, des produits agricoles et de toute autre matière susceptible de véhiculer des organismes nuisibles pour les cultures, la santé de l’homme et des animaux aux portes d'entrée et de sortie du territoire national",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176569.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2014/faolex-178171-arrete-n-005-mirah-du-13-fevrier-2014-portant",
+   "kind": "arrete",
+   "number": "faolex-178171",
+   "date": "2014-02-13",
+   "title": "Arrêté n° 005/MIRAH du 13 février 2014, portant interdiction provisoire d'importation d'oiseaux vivants, des viandes de volailles, des poussins d'un jour, d’œufs à couver et de plumes originaires de la République Populaire de Chine, de la République de Corée, du Vietnam et de Hong Kong",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178171.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2014/faolex-188539-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-188539",
+   "date": "2014-03-25",
+   "title": "Arrêté n° faolex-188539 du 25 mars 2014 portant création, attributions, organisation et fonctionnement des Comités de veille pour le suivi de la commercialisation de l'anacarde",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188539.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2015/faolex-170347-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-170347",
+   "date": "2015-08-10",
+   "title": "Arrêté n° faolex-170347 du 10 août 2015 portant création, attributions, organisation et fonctionnement du Comité d'organisation de la Table Ronde de Mobilisation des Ressources pour la mise en œuvre du Plan National Multisectoriel de Nutrition 2016-2020",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170347.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "arretes/2015/faolex-170780-portant-interdiction-provisoire-d-importation-d",
+   "kind": "arrete",
+   "number": "faolex-170780",
+   "date": "2015-02-20",
+   "title": "Arrêté n° faolex-170780 du 20 février 2015 portant interdiction provisoire d'importation d'oiseaux vivants, de viande de volaille, de poussins d'un jour, d'œufs à couver, de plumes et de produits à base de volaille originaires d'Allemagne, de la Bulgarie, des Pays Bas et du Royaume-Uni",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170780.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2015/faolex-178113-portant-creation-de-l-autorite-competente-pour-le",
+   "kind": "arrete",
+   "number": "faolex-178113",
+   "date": "2015-09-28",
+   "title": "Arrêté n° faolex-178113 du 28 septembre 2015 portant création de l’autorité compétente pour le contrôle sanitaire vétérinaire des produits de pêche à l’exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178113.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2015/faolex-196359-fixant-l-organisation-les-attributions-et-le",
+   "kind": "arrete",
+   "number": "faolex-196359",
+   "date": "2015-09-28",
+   "title": "Arrêté n° faolex-196359 du 28 septembre 2015 fixant l’organisation, les attributions et le fonctionnement de la Direction de la Pharmacie du Médicament et des Laboratoires",
+   "source": "https://faolex.fao.org/docs/pdf/ivc196359.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "arretes/2017/faolex-178114-relatif-aux-criteres-microbiologiques-et",
+   "kind": "arrete",
+   "number": "faolex-178114",
+   "date": "2017-01-06",
+   "title": "Arrêté n° faolex-178114 du 6 janvier 2017 relatif aux critères microbiologiques et chimiques applicables à la production des produits de pêche destinés à la consommation humaine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178114.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "arretes/2017/faolex-186122-portant-interdiction-provisoire-d-importation-et",
+   "kind": "arrete",
+   "number": "faolex-186122",
+   "date": "2017-09-08",
+   "title": "Arrêté n° faolex-186122 du 8 septembre 2017 portant interdiction provisoire d'importation et de commercialisation de toute espèce de tilapia sauvage et/ ou d'élevage et produits dérivés de tilapia en provenance de la Colombie, l'Equateur, l'Egypte, Israël et la Thaïlande",
+   "source": "https://faolex.fao.org/docs/pdf/ivc186122.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2017/faolex-187397-du-du-21-decembre-2017-agrement-sanitaire-des",
+   "kind": "arrete",
+   "number": "faolex-187397",
+   "date": "2017-12-21",
+   "title": "Arrêté n° 054/MIRAH/CAB 2017 du du 21 décembre 2017 agrément sanitaire des établissements pour la fabrication, l'importation, l'exportation et la commercialisation des produits destinés à l’alimentation animale au titre de l'année 2017",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187397.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "arretes/2017/faolex-207062-determinant-la-liste-des-travaux-dangereux",
+   "kind": "arrete",
+   "number": "faolex-207062",
+   "date": "2017-06-02",
+   "title": "Arrêté n° 2017-017 MEPS/CAB du 02 Juin 2017 déterminant la liste des travaux dangereux interdits aux enfants",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207062.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "arretes/2017/faolex-207076-determinant-la-liste-des-travaux-legers-autorises",
+   "kind": "arrete",
+   "number": "faolex-207076",
+   "date": "2017-06-02",
+   "title": "Arrêté n° 2017-016 MEPS/CAB du 02 Juin 2017 déterminant la liste des travaux légers autorisés aux enfants dont l’âge est compris entre treize (13) et seize (16) ans",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207076.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2017/faolex-213384-modifiant-l-arrete-n-002-du-6-janvier-2017",
+   "kind": "arrete",
+   "number": "faolex-213384",
+   "date": "2017-11-24",
+   "title": "Arrêté n° faolex-213384 du 24 novembre 2017 modifiant l'arrêté n° 002 du 6 janvier 2017 relatif aux critères microbiologiques et chimiques applicables a la production des produits de péche destinés a la consommation humaine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc213384.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "arretes/2017/faolex-240393-portant-creation-attributions-et-composition-du",
+   "kind": "arrete",
+   "number": "faolex-240393",
+   "date": "2017-08-11",
+   "title": "Arrêté n° faolex-240393 du 11 août 2017 portant création, attributions et composition du groupe de travail pour l'opérationnalisation du centre de coordination du mécanisme de réponse à l'alerte précoce",
+   "source": "https://faolex.fao.org/docs/pdf/ivc240393.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2018/faolex-207868-portant-creation-attribution-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-207868",
+   "date": "2018-09-21",
+   "title": "Arrêté n. 506/PM/CAB du 21 septembre 2018 portant création, Attribution, Organisation et Fonctionnement de l'Unité de Gestion du projet de mise en place d'une Plateforme Nationale Multisectorielle d'Information pour la Nutrition (PNMIN)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207868.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "arretes/2019/faolex-207079-portant-modalites-d-elaboration-et-de-mise-en",
+   "kind": "arrete",
+   "number": "faolex-207079",
+   "date": "2019-12-13",
+   "title": "Arrêté n° faolex-207079 du 13 décembre 2019 Portant modalités d’elaboration et de mise en oeuvre des plans d’aménagement des forets et des agro-forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207079.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "arretes/2020/faolex-207471-precisant-les-pieces-constitutives-du-dossier-de",
+   "kind": "arrete",
+   "number": "faolex-207471",
+   "date": "2020-12-08",
+   "title": "Arrêté n. 1136/MINEF/CAB du 08 décembre 2020 précisant les pièces constitutives du dossier de demande de concession de gestion forestière ou agroforestière",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207471.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "arretes/2021/faolex-204797-determinant-les-conditions-et-les-modalites-d",
+   "kind": "arrete",
+   "number": "faolex-204797",
+   "date": "2021-01-06",
+   "title": "Arrêté n° 007/MINEF/CAB du 06 janvier 2021 déterminant les conditions et les modalités d’enregistrement des forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc204797.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2021/faolex-207813-definissant-les-modalites-et-la-periodicite-de-l",
+   "kind": "arrete",
+   "number": "faolex-207813",
+   "date": "2021-01-06",
+   "title": "Arrêté n° faolex-207813 du 6 janvier 2021 définissant les modalités et la périodicité de l'inventaire forestier national",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207813.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2021/faolex-207924-determinant-les-conditions-et-les-modalites-d",
+   "kind": "arrete",
+   "number": "faolex-207924",
+   "date": "2021-01-06",
+   "title": "Arrete n. 007/MINEF/CAB du 6 janvier 2021 déterminant les conditions et les modalités d'enregistrement des forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207924.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2021/faolex-224093-portant-creation-composition-attributions-et",
+   "kind": "arrete",
+   "number": "faolex-224093",
+   "date": "2021-08-02",
+   "title": "Arrêté n° faolex-224093 du 2 août 2021 portant création, composition, attributions et fonctionnement de la commission d'autorisation de commercialisation des substituts de lait maternel",
+   "source": "https://faolex.fao.org/docs/pdf/ivc224093.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2021/faolex-224101-portant-reglementation-de-la-promotion-ou-de-la",
+   "kind": "arrete",
+   "number": "faolex-224101",
+   "date": "2021-08-02",
+   "title": "Arrêté n° faolex-224101 du 2 août 2021 portant réglementation de la promotion ou de la publicite des substituts du lait maternel",
+   "source": "https://faolex.fao.org/docs/pdf/ivc224101.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "arretes/2021/faolex-224102-fixant-les-conditions-d-autorisation-de",
+   "kind": "arrete",
+   "number": "faolex-224102",
+   "date": "2021-08-02",
+   "title": "Arrêté n° faolex-224102 du 2 août 2021 fixant les conditions d'autorisation de commercialisation des substituts du lait maternel",
+   "source": "https://faolex.fao.org/docs/pdf/ivc224102.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "arretes/2022/faolex-211827-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-211827",
+   "date": "2022-07-11",
+   "title": "Arrêté n. 040 du 11 Juil. 2022 portant création, attributions, organisation et fonctionnement du Comité Interministeriel en charge de l'examen des demandes d'autorisation d'introduction ou de transfert d'éspèces aquatiques vivantes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc211827.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2022/faolex-230406-portant-modalites-de-gestion-des-titres-carbone",
+   "kind": "arrete",
+   "number": "faolex-230406",
+   "date": "2022-02-16",
+   "title": "Arrêté interministériel n.0183/MEF/MEMINADER/MINEF/MBPE/MINEDD du 16 février 2022 portant modalités de gestion des titres carbone autour du Parc National de Taï",
+   "source": "https://faolex.fao.org/docs/pdf/ivc230406.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2023/faolex-222216-precisant-les-modalites-d-exploitation-dans-les",
+   "kind": "arrete",
+   "number": "faolex-222216",
+   "date": "2023-05-19",
+   "title": "Arrete n. 0511/minef/dgff/dpif du 19 mai 2023 precisant les modalites d'exploitation dans les forets des personnes morales de droit privé, des personnes physiques et des arbres hors foret",
+   "source": "https://faolex.fao.org/docs/pdf/ivc222216.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "arretes/2023/faolex-228439-portant-institution-de-documents-de-collecte-de",
+   "kind": "arrete",
+   "number": "faolex-228439",
+   "date": "2023-06-20",
+   "title": "Arrêté n° faolex-228439 du 20 juin 2023 portant institution de documents de collecte de données et de circulation des produits issus de l'exploitation forestière",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228439.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "arretes/2023/faolex-234333-portant-creation-composition-attribution-et",
+   "kind": "arrete",
+   "number": "faolex-234333",
+   "date": "2023-11-09",
+   "title": "Arrêté n° faolex-234333 du 9 novembre 2023 portant création, composition, attribution et fonctionnement du comité local de cogestion de la pêcherie de la sardinelle de Sassandra (CLGPS)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc234333.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2023/faolex-236152-portant-creation-organisation-et-fonctionnement",
+   "kind": "arrete",
+   "number": "faolex-236152",
+   "date": "2023-05-16",
+   "title": "Arrêté n° faolex-236152 du 16 mai 2023 portant création organisation et fonctionnement du projet de conservation de la biodiversité halieutique en abrégé «pro-conservation halieutique»",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236152.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "arretes/2023/faolex-236155-portant-creation-organisation-et-fonctionnement",
+   "kind": "arrete",
+   "number": "faolex-236155",
+   "date": "2023-05-16",
+   "title": "Arrêté n° faolex-236155 du 16 mai 2023 portant création, organisation et fonctionnement du projet de redynamisation des points de débarquements aménagés en abrégé «pro-débarquement»",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236155.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "arretes/2023/faolex-236171-portant-creation-organisation-et-fonctionnement",
+   "kind": "arrete",
+   "number": "faolex-236171",
+   "date": "2023-05-16",
+   "title": "Arrêté n° faolex-236171 du 16 mai 2023 portant création organisation et fonctionnement du projet d'amélioration du suivi contrôle et surveillance des pêches en abrégé «pro-surveillance pêches»",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236171.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "arretes/2024/faolex-237157-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-237157",
+   "date": "2024-10-08",
+   "title": "Arrêté n° faolex-237157 du 8 octobre 2024 portant création, attributions, organisation et fonctionnement du Comité de Pilotage du Programme de Renforcement de la Sécurisation Foncière Rurale (PRESFOR), en abrégé COPIL -PRESFOR",
+   "source": "https://faolex.fao.org/docs/pdf/ivc237157.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "arretes/2024/faolex-238904-portant-approbation-du-constat-d-impact",
+   "kind": "arrete",
+   "number": "faolex-238904",
+   "date": "2024-06-13",
+   "title": "Arrêté n° faolex-238904 du 13 juin 2024 portant approbation du Constat d’Impact Environnemental et Social (CIES) du Projet de Développement des Chaînes de Valeur de I’Aquaculture et de la Péche Durable et Compétitive (PRODECAP) présenté par le Ministère des Ressources Animales et Halieutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc238904.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "arretes/2025/faolex-237160-portant-creation-attributions-organisation-et",
+   "kind": "arrete",
+   "number": "faolex-237160",
+   "date": "2025-02-11",
+   "title": "Arrêté n° faolex-237160 du 11 février 2025 portant création, attributions, organisation et fonctionnement du Comité Technique de Suivi du Financement Budgétaire Programmatique Foncier Rural (FB-PR Foncier Rural), en abrégé CTS-FB-PR Foncier Rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc237160.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
    "id": "codes/code-de-l-eau",
    "kind": "loi",
    "number": "2023-902",
@@ -52,6 +1312,26 @@
    "source": "https://faolex.fao.org/docs/pdf/ivc232511.pdf",
    "text_layer": "born-digital",
    "articles": 476
+  },
+  {
+   "id": "codes/code-des-investissements",
+   "kind": "ordonnance",
+   "number": "2018-646",
+   "date": "2018-08-01",
+   "title": "Ordonnance n° 2018-646 du 1er août 2018 portant code des investissements",
+   "source": "https://faolex.fao.org/docs/pdf/ivc190561.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 50
+  },
+  {
+   "id": "codes/code-des-marches-publics",
+   "kind": "ordonnance",
+   "number": "2019-679",
+   "date": "2019-07-24",
+   "title": "Ordonnance n° 2019-679 du 24 juillet 2019 portant Code des Marchés publics",
+   "source": "https://faolex.fao.org/docs/pdf/ivc243281.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 155
   },
   {
    "id": "codes/code-du-tourisme",
@@ -104,6 +1384,2586 @@
    "articles": 184
   },
   {
+   "id": "decrets/1966/1966-362-fixant-les-modalites-de-representation-de-l",
+   "kind": "decret",
+   "number": "1966-362",
+   "date": "1966-11-17",
+   "title": "Décret n° 1966-362 du 17 novembre 1966 fixant les modalités de représentation de l’administration devant les tribunaux répressifs et la procédure des transactions en matières forestières",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229224.pdf",
+   "text_layer": "born-digital",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1966/1966-399-portant-creation-d-un-comite-consultatif-des",
+   "kind": "decret",
+   "number": "1966-399",
+   "date": "1966-09-13",
+   "title": "Décret n° 1966-399 du 13 septembre 1966 portant création d'un Comité consultatif des pêches",
+   "source": "https://faolex.fao.org/docs/pdf/ivc1446.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/1966/1966-420-portant-reglementation-des-industries-du-bois",
+   "kind": "decret",
+   "number": "1966-420",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-420 du 15 septembre 1966 portant réglementation des industries du bois",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155063.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1966/1966-421-reglementant-l-exploitation-des-bois-d-uvre-et-d",
+   "kind": "decret",
+   "number": "1966-421",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-421 du 15 septembre 1966 réglementant l'exploitation des bois d'œuvre et d'ébénisterie, de service, de feu et à charbon",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155053.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/1966/1966-422-portant-creation-d-une-societe-d-etat-denommee",
+   "kind": "decret",
+   "number": "1966-422",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-422 du 15 septembre 1966 portant création d'une société d'Etat dénommée Société pour le développement des plantations forestières (SODEFOR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc2225.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "decrets/1966/1966-424-relatif-a-la-licence-de-guide-de-chasse",
+   "kind": "decret",
+   "number": "1966-424",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-424 du 15 septembre 1966 relatif a la licence de guide de chasse",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229287.pdf",
+   "text_layer": "born-digital",
+   "articles": 19
+  },
+  {
+   "id": "decrets/1966/1966-425-reglementant-le-trafic-la-circulation-l",
+   "kind": "decret",
+   "number": "1966-425",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-425 du 15 septembre 1966 réglementant le trafic, la circulation, l’importation, l’exploitation des trophées d’animaux protégés et spectaculaires et de leurs dépouilles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229289.pdf",
+   "text_layer": "born-digital",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1966/1966-427-portant-repartition-du-produit-net-des-amendes",
+   "kind": "decret",
+   "number": "1966-427",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-427 du 15 septembre 1966 portant répartition du produit net des amendes confiscations restrictions dommages intérêts contraintes et transactions en matière de police forestière",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229226.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "decrets/1966/1966-433-portant-statut-et-reglementation-de-la-procedure",
+   "kind": "decret",
+   "number": "1966-433",
+   "date": "1966-09-15",
+   "title": "Décret n° 1966-433 du 15 septembre 1966 portant statut et réglementation de la procédure de classement des réserves naturelles, intégrales ou partielles et des parcs nationaux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229293.pdf",
+   "text_layer": "born-digital",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1966/1966-50-reglementant-la-profession-d-exploitant-forestier",
+   "kind": "decret",
+   "number": "1966-50",
+   "date": "1966-03-08",
+   "title": "Décret n° 1966-50 du 8 mars 1966 réglementant la profession d’exploitant forestier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155062.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/1966/1966-52-fixant-les-modalites-de-mise-a-feu-autorisees",
+   "kind": "decret",
+   "number": "1966-52",
+   "date": "1966-03-08",
+   "title": "Décret n° 1966-52 du 8 mars 1966 fixant les modalités de mise à feu autorisées",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154799.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/1967/1967-576-decret-n-67-576-du-15-decembre-1967-reglementant",
+   "kind": "decret",
+   "number": "1967-576",
+   "date": "1967-12-15",
+   "title": "Décret n° 67-576 du 15 décembre 1967, réglementant la profession d’exportateur de bois",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155060.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/1968/1968-81-portant-creation-du-parc-national-de-la-comoe",
+   "kind": "decret",
+   "number": "1968-81",
+   "date": "1968-02-09",
+   "title": "Décret n° 1968-81 du 9 février 1968 portant création du Parc national de la Comoé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154808.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1972/1972-125-portant-creation-d-un-contrat-de-fermage-pour",
+   "kind": "decret",
+   "number": "1972-125",
+   "date": "1972-02-09",
+   "title": "Décret n° 1972-125 du 9 février 1972 portant création d'un contrat de fermage pour certains permis temporaires d'exploitation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc2224.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1972/1972-544-portant-creation-du-parc-national-de-tai",
+   "kind": "decret",
+   "number": "1972-544",
+   "date": "1972-08-28",
+   "title": "Décret n° 1972-544 du 28 août 1972 portant création du Parc national de Taï",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154805.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/1973/1973-437-decret-n-73-437-du-1er-septembre-1973-portant",
+   "kind": "decret",
+   "number": "1973-437",
+   "date": "1973-09-01",
+   "title": "Décret n° 73-437 du 1er septembre 1973, portant application de la loi n° 63-301 du 26 juin 1963, relative à la répression des fraudes dans la vente des marchandises et les falsifications des denrées alimentaires et des produits agricoles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178126.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "decrets/1976/1976-125-portant-creation-du-parc-national-du-mont-sangbe",
+   "kind": "decret",
+   "number": "1976-125",
+   "date": "1976-02-19",
+   "title": "Décret n° 1976-125 du 19 février 1976 portant création du Parc national du Mont-Sangbé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154802.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/1977/1977-348-portant-redefinition-des-limites-du-parc-national",
+   "kind": "decret",
+   "number": "1977-348",
+   "date": "1977-06-03",
+   "title": "Décret n° 1977-348 du 3 juin 1977 portant redéfinition des limites du Parc national de Taï et création d'une zone périphérique de protection",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154806.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/1982/1982-70-fixant-les-conditions-d-approvisionnement-en-bois",
+   "kind": "decret",
+   "number": "1982-70",
+   "date": "1982-01-13",
+   "title": "Décret n° 1982-70 du 13 janvier 1982 fixant les conditions d'approvisionnement en bois des industries locales et d'exportation de bois et de produits ligneux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc2216.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/1983/1983-454-completant-le-decret-n-66-421-du-15-septembre",
+   "kind": "decret",
+   "number": "1983-454",
+   "date": "1983-05-27",
+   "title": "Décret n° 83-454 du 27 mai 1983 complétant le décret n° 66-421 du 15 septembre 1966 réglementant l'exploitation des bois d'œuvre et d'ébénisterie, de service, de feu et à charbon et de fascinage",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155056.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "decrets/1983/1983-455-decret-n-83-455-du-27-mai-1983-reglementant-la",
+   "kind": "decret",
+   "number": "1983-455",
+   "date": "1983-05-27",
+   "title": "Décret n° 83-455 du 27 mai 1983, réglementant la profession de charbonnier et d'exploitant de bois de chauffe et de fascinage",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155059.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1983/1983-743-decret-n-83-743-du-28-juillet-1983-instituant-en",
+   "kind": "decret",
+   "number": "1983-743",
+   "date": "1983-07-28",
+   "title": "Décret n° 83-743 du 28 juillet 1983, instituant en Côte d’Ivoire une journée de l’arbre",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154632.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/1990/1990-503-relatif-a-la-transformation-et-a-l-exportation",
+   "kind": "decret",
+   "number": "1990-503",
+   "date": "1990-06-20",
+   "title": "Décret n° 1990-503 du 20 juin 1990 relatif à la transformation et à l'exportation des bois en grumes et débités",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155058.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1992/1992-595-portant-application-de-la-loi-n-63-301-du-26-juin",
+   "kind": "decret",
+   "number": "1992-595",
+   "date": "1992-09-30",
+   "title": "Décret n° 1992-595 du 30 septembre 1992 portant application de la loi n° 63-301 du 26 juin 1963, relative à la répression des fraudes en ce qui concerne le commerce des conserves et semi-conserves alimentaires",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178127.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/1993/1985-132-portant-decret-n-93-206-du-3-fevrier-1993-portant",
+   "kind": "decret",
+   "number": "1985-132",
+   "date": "1993-02-03",
+   "title": "Décret n° 1985-132 du 3 février 1993 portant Décret n° 93-206 du 3 février 1993 portant transformation de la société pour le développement des plantations forestières (SODEFOR) en Société d’Etat",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154697.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/1993/1993-2006-du-3-fevrier-1993-portant-transformation-de-la",
+   "kind": "decret",
+   "number": "1993-2006",
+   "date": "1993-02-03",
+   "title": "Décret n° 93-2006 du 3 février 1993, portant transformation de la SODEFOR en Société d’Etat",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229230.pdf",
+   "text_layer": "born-digital",
+   "articles": 30
+  },
+  {
+   "id": "decrets/1993/1993-313-portant-application-de-la-loi-n-91-999-du-27",
+   "kind": "decret",
+   "number": "1993-313",
+   "date": "1993-03-11",
+   "title": "Décret n° 1993-313 du 11 mars 1993 portant application de la loi n° 91-999 du 27 décembre 1991 relative à la concurrence, en ce qui concerne les conditions d’entrée en côte d’Ivoire des marchandises étrangères de toute origine et de toute provenance, ainsi que les conditions d’exportation et de réexportation des marchandises à destination de l’étranger",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178169.pdf",
+   "text_layer": "born-digital",
+   "articles": 14
+  },
+  {
+   "id": "decrets/1994/1994-215-portant-creation-et-organisation-du-fonds-de",
+   "kind": "decret",
+   "number": "1994-215",
+   "date": "1994-04-20",
+   "title": "Décret n° 1994-215 du 20 avril 1994 portant creation et organisation du Fonds de Promotion des Productions animales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc208046.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/1994/1994-216-portant-creation-et-organisation-du-fonds-de",
+   "kind": "decret",
+   "number": "1994-216",
+   "date": "1994-04-20",
+   "title": "Décret n° 1994-216 du 20 avril 1994 portant création et organisation du Fonds de Diversification agricole et de Promotion des Exportations",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209748.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1994/1994-219-portant-creation-el-organisation-du-fonds",
+   "kind": "decret",
+   "number": "1994-219",
+   "date": "1994-04-20",
+   "title": "Décret n° 1994-219 du 20 avril 1994 portant création el organisation du Fonds national «Femmes et Développement»",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207870.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1994/1994-303-portant-application-de-la-loi-n-63-301-du-26-juin",
+   "kind": "decret",
+   "number": "1994-303",
+   "date": "1994-06-01",
+   "title": "Décret n° 1994-303 du 1er juin 1994 portant application de la loi n° 63-301 du 26 juin 1963 relative à la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles, en ce qui concerne la fabrication et la commercialisation des sels alimentaires",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178145.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1994/1994-368-portant-reforme-de-l-exploitation-forestiere",
+   "kind": "decret",
+   "number": "1994-368",
+   "date": "1994-07-01",
+   "title": "Décret n° 1994-368 du 1er juillet 1994 portant réforme de l'exploitation forestière modifiant le décret n° 66-421 du 15 septembre 1966 réglementant l'exploitation des bois d'œuvre et d'ébénisterie, de service, de feu et à charbon",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155054.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1994/1994-566-portant-modification-du-decret-n-94-215-du-20",
+   "kind": "decret",
+   "number": "1994-566",
+   "date": "1994-10-14",
+   "title": "Décret n° 1994-566 du 14 octobre 1994 portant modification du décret n° 94-215 du 20 avril 1994 portanl création et organisation du Fonds de Promotion des productions animales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209750.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1995/1995-682-decret-n-95-682-du-6-septembre-1995-portant",
+   "kind": "decret",
+   "number": "1995-682",
+   "date": "1995-09-06",
+   "title": "Décret n° 95-682 du 6 septembre 1995, portant interdiction de l'exportation des bois bruts, équarris et en plots",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155050.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/1996/1996-203-duree-du-travail",
+   "kind": "decret",
+   "number": "1996-203",
+   "date": "1996-03-07",
+   "title": "Décret n° 96-203 du 7 mars 1996 - Durée du Travail",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207595.pdf",
+   "text_layer": "born-digital",
+   "articles": 36
+  },
+  {
+   "id": "decrets/1996/1996-206-comite-d-hygiene-de-securite-et-des-conditions-de",
+   "kind": "decret",
+   "number": "1996-206",
+   "date": "1996-03-07",
+   "title": "Décret n° 96-206 du 7 mars 1996 - Comité d’hygiène, de sécurité et des conditions de travail",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207596.pdf",
+   "text_layer": "born-digital",
+   "articles": 18
+  },
+  {
+   "id": "decrets/1996/1996-432-portant-recensement-des-eleveurs-bouviers-bergers",
+   "kind": "decret",
+   "number": "1996-432",
+   "date": "1996-06-03",
+   "title": "Décret n° 1996-432 du 3 juin 1996 portant recensement des éleveurs, bouviers, bergers et cheptels et organisation des associations pastorales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228488.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "decrets/1996/1996-894-relatives-a-l-impact-environnemental-des-projets",
+   "kind": "decret",
+   "number": "1996-894",
+   "date": "1996-11-08",
+   "title": "Décret n° 1996-894 du 8 novembre 1996 relatives à l'impact environnemental des projets de développement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154628.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/1997/1997-344-portant-reglementation-de-l-intervention-des",
+   "kind": "decret",
+   "number": "1997-344",
+   "date": "1997-06-12",
+   "title": "Décret n° 1997-344 du 12 juin 1997 portant réglementation de l'intervention des ingénieurs-conseils et bureaux d'ingénierie dans les travaux de génie civil et de bâtiment pour le compte de l'Etat, des Etablissements publics, des Collectivités locales, des sociétés d'Etat et des sociétés d'économie mixte à capital public majoritaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167178.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/1997/1997-393-portant-creation-et-organisation-d-un",
+   "kind": "decret",
+   "number": "1997-393",
+   "date": "1997-07-09",
+   "title": "Décret n° 1997-393 du 9 juillet 1997 portant création et organisation d'un établissement public à caractère administratif dénomme Agence Nationale de l'Environnement (ANDE)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154641.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "decrets/1997/1997-612-portant-creation-du-conseil-national-de-lutte",
+   "kind": "decret",
+   "number": "1997-612",
+   "date": "1997-10-16",
+   "title": "Décret n° 1997-612 du 16 octobre 1997 portant création du Conseil national de Lutte contre la Fraude",
+   "source": "https://faolex.fao.org/docs/pdf/ivc197335.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/1997/1997-613-portant-creation-et-organisation-d-une-commission",
+   "kind": "decret",
+   "number": "1997-613",
+   "date": "1997-10-16",
+   "title": "Décret n° 1997-613 du 16 octobre 1997 portant création et organisation d'une Commission nationale pluridisciplinaire de lutte contre le phénomène des enfants de la rue",
+   "source": "https://faolex.fao.org/docs/pdf/ivc197334.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/1997/1997-615-portant-reglementation-de-l-exercice-de-la",
+   "kind": "decret",
+   "number": "1997-615",
+   "date": "1997-10-16",
+   "title": "Décret n° 1997-615 du 16 octobre 1997 portant réglementation de l’exercice de la profession d'avitailleur maritime dans les ports ivoiriens",
+   "source": "https://faolex.fao.org/docs/pdf/ivc197352.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "decrets/1997/1997-678-portant-protection-de-l-environnement-marin-et",
+   "kind": "decret",
+   "number": "1997-678",
+   "date": "1997-12-03",
+   "title": "Décret n° 1997-678 du 3 décembre 1997 portant protection de l'Environnement marin et lagunaire contre la pollution",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195675.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "decrets/1998/1998-19-portant-creation-et-organisation-du-fonds",
+   "kind": "decret",
+   "number": "1998-19",
+   "date": "1998-01-14",
+   "title": "Décret n° 1998-19 du 14 janvier 1998 portant création et organisation du Fonds National de l'Environnement (FNDE)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154640.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/1998/1998-257-portant-application-de-la-loi-n-97-721-du-23",
+   "kind": "decret",
+   "number": "1998-257",
+   "date": "1998-06-03",
+   "title": "Décret n° 1998-257 du 3 juin 1998 portant application de la loi n° 97-721 du 23 décembre 1997 relative aux coopératives",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176111.pdf",
+   "text_layer": "born-digital",
+   "articles": 35
+  },
+  {
+   "id": "decrets/1998/1998-408-portant-creation-et-organisation-du-fonds-pour-la",
+   "kind": "decret",
+   "number": "1998-408",
+   "date": "1998-07-22",
+   "title": "Décret n. 98-408 du 22 juillet 1998 portant création et organisation du Fonds pour la Promotion des Petites et Moyennes Entreprises agricoles (FPPMEA)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc208385.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/1998/1998-42-portant-organisation-du-plan-d-urgence-de-lutte",
+   "kind": "decret",
+   "number": "1998-42",
+   "date": "1998-01-28",
+   "title": "Décret n° 1998-42 du 28 janvier 1998 portant organisation du Plan d'urgence de lutte contre les pollutions accidentelles en mer, en lagune et dans les zones côtières",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195626.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/1998/1998-43-relatif-aux-installations-classees-pour-la",
+   "kind": "decret",
+   "number": "1998-43",
+   "date": "1998-01-28",
+   "title": "Décret n° 1998-43 du 28 janvier 1998 relatif aux installations classées pour la protection de l'environnement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154631.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 36
+  },
+  {
+   "id": "decrets/1999/1999-447-portant-application-de-la-loi-n-96-563-du-25",
+   "kind": "decret",
+   "number": "1999-447",
+   "date": "1999-07-07",
+   "title": "Décret n° 1999-447 du 7 juillet 1999 portant application de la loi n° 96-563 du 25 juillet 1996 relative à l'inspection sanitaire et qualitative des denrées animales et d'origine animale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc175700.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2001/2001-381-portant-comite-interministeriel-de-coordination",
+   "kind": "decret",
+   "number": "2001-381",
+   "date": "2001-06-27",
+   "title": "Décret n° 2001-381 du 27 juin 2001 portant Comité Interministériel de Coordination et de Pilotage de la Politique Forestière (CICPPF)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154657.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2001/2001-733-portant-institution-du-controle-de-la-qualite-des",
+   "kind": "decret",
+   "number": "2001-733",
+   "date": "2001-11-16",
+   "title": "Décret n° 2001-733 du 16 novembre 2001 portant institution du contrôle de la qualité des Emballages des Café verts et des fèves de Cacao destinés à l'exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167179.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2002/2002-196-fixant-les-modes-de-preuves-de-conformite-aux",
+   "kind": "decret",
+   "number": "2002-196",
+   "date": "2002-04-02",
+   "title": "Décret n° 2002-196 du 2 avril 2002 fixant les modes de preuves de conformité aux normes d'application obligatoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170948.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2002/2002-343-portant-reconnaissance-d-utilite-publique-de-l",
+   "kind": "decret",
+   "number": "2002-343",
+   "date": "2002-07-10",
+   "title": "Décret n° 2002-343 du 10 juillet 2002 portant reconnaissance d'utilité publique de l’association dénommée «Cote d'ivoire Normalisation (CODINORM)»",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167186.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/2002/2002-359-decret-n-2002-359-du-24-juillet-2002-portant",
+   "kind": "decret",
+   "number": "2002-359",
+   "date": "2002-07-24",
+   "title": "Décret n° 2002-359 du 24 juillet 2002, portant création, organisation et fonctionnement de l’Office Ivoirien des Parcs et Réserves",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229191.pdf",
+   "text_layer": "born-digital",
+   "articles": 43
+  },
+  {
+   "id": "decrets/2002/2002-520-portant-creation-et-organisation-du-fonds",
+   "kind": "decret",
+   "number": "2002-520",
+   "date": "2002-12-11",
+   "title": "Décret n° 2002-520 du 11 décembre 2002 portant création et organisation du fonds interprofessionnel pour la recherche et le conseil agricoles (f.i.r.c.a.)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc80723.pdf",
+   "text_layer": "born-digital",
+   "articles": 34
+  },
+  {
+   "id": "decrets/2002/2002-521-portant-modalites-de-fixation-et-de-recouvrement",
+   "kind": "decret",
+   "number": "2002-521",
+   "date": "2002-12-11",
+   "title": "Décret n° 2002-521 du 11 décembre 2002 portant modalités de fixation et de recouvrement des cotisations professionnelles pour le fonds interprofessionnel pour la recherche et le conseil agricoles (FIRCA)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147270.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2004/2004-206-portant-creation-du-comite-directeur-national-du",
+   "kind": "decret",
+   "number": "2004-206",
+   "date": "2004-03-11",
+   "title": "Décret n° 2004-206 du 11 mars 2004 portant création du Comité directeur national du Programme IPEC/Côte d'Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155491.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2005/2005-03-portant-audit-environnemental",
+   "kind": "decret",
+   "number": "2005-03",
+   "date": "2005-01-06",
+   "title": "Décret n° 2005-03 du 6 janvier 2005 portant Audit Environnemental",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154623.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 35
+  },
+  {
+   "id": "decrets/2005/2005-112-portant-creation-organisation-et-fonctionnement-d",
+   "kind": "decret",
+   "number": "2005-112",
+   "date": "2005-02-24",
+   "title": "Décret n° 2005-112 du 24 février 2005 portant création, organisation et fonctionnement d'un établissement public à caractère administratif (EPA) dénommée office ivoirien de la propriété intellectuelle (OIPI)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166993.pdf",
+   "text_layer": "born-digital",
+   "articles": 29
+  },
+  {
+   "id": "decrets/2005/2005-267-fixant-en-matiere-de-promotion-de-l-industrie-et",
+   "kind": "decret",
+   "number": "2005-267",
+   "date": "2005-07-21",
+   "title": "Décret n° 2005-267 du 21 juillet 2005 fixant en matière de promotion de l’industrie et de développement du secteur privé, les modalités d'application de la loi n° 2003-308 du 07 juillet 2003 portant transfert et répartition de compétences de l'Etat aux Collectivités Territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146367.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2005/2005-268-fixant-en-matiere-de-protection-de-l",
+   "kind": "decret",
+   "number": "2005-268",
+   "date": "2005-07-21",
+   "title": "Décret n° 2005-268 du 21 juillet 2005 fixant en matière de protection de l’environnement et de gestion des ressources naturelles, les modalités d'application de la loi n° 2003-308 du 07 juillet 2003 portant transfert et répartition de compétences de l'Etat aux Collectivités Territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146371.pdf",
+   "text_layer": "born-digital",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2006/2006-274-portant-creation-et-organisation-de-la-societe-d",
+   "kind": "decret",
+   "number": "2006-274",
+   "date": "2006-08-23",
+   "title": "Décret n° 2006-274 du 23 août 2006 portant création et organisation de la société d'Etat dénommée Office national de l'Eau Potable (ONEP)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140684.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "decrets/2007/2007-587-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2007-587",
+   "date": "2007-10-04",
+   "title": "Décret n° 2007-587 du 4 octobre 2007 portant création, attributions, organisation et fonctionnement d'un Etablissement public à caractère industriel et commercial dénommé Agence nationale de la Salubrité urbaine (ANASUR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229220.pdf",
+   "text_layer": "born-digital",
+   "articles": 28
+  },
+  {
+   "id": "decrets/2008/2008-44-portant-approbation-du-contrat-d-affermage-du",
+   "kind": "decret",
+   "number": "2008-44",
+   "date": "2008-02-21",
+   "title": "Décret n° 2008-44 du 21 février 2008 portant approbation du contrat d’affermage du service de distribution publique urbaine d’eau potable en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195578.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2009/2009-328-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2009-328",
+   "date": "2009-10-08",
+   "title": "Décret n° 2009-328 du 8 octobre 2009 portant création, attributions, organisation et fonctionnement d'un établissement public administratif dénommé Fonds de Financement des Programmes de Salubrité Urbaine (FFPSU) et abrogeant le décret n° 2007-588 du 4 octobre 2007 portant création d'un Fonds de Soutien aux Programmes de Salubrité Urbaine (FSPSU)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154636.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 29
+  },
+  {
+   "id": "decrets/2009/faolex-085717-portant-creation-du-comite-de-reforme-de-la",
+   "kind": "decret",
+   "number": "faolex-085717",
+   "date": "2009-02-27",
+   "title": "Décret du 27 février 2009 portant création du comité de réforme de la filière café-cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc85717.pdf",
+   "text_layer": "born-digital",
+   "articles": 13
+  },
+  {
+   "id": "decrets/2011/2011-394-portant-organisation-du-ministere-des-mines-du",
+   "kind": "decret",
+   "number": "2011-394",
+   "date": "2011-11-16",
+   "title": "Décret n° 2011-394 du 16 novembre 2011 portant organisation du ministère des Mines, du Pétrole et de l’Energie",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132142.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/2011/2011-472-decret-no-2011-472-du-21-decembre-2011-portant",
+   "kind": "decret",
+   "number": "2011-472",
+   "date": "2011-12-21",
+   "title": "Décret nº 2011-472 du 21 décembre 2011, portant création d'une société d'Etat dénommée énergies de Côte d'ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc122628.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2012/2012-01-fixant-les-modalites-de-conditionnement-des-cafes",
+   "kind": "decret",
+   "number": "2012-01",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-01 du 17 octobre 2012 fixant les modalités de conditionnement des cafés verts à I'exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132139.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "decrets/2012/2012-05-portant-definition-de-la-petite-et-moyenne",
+   "kind": "decret",
+   "number": "2012-05",
+   "date": "2012-01-11",
+   "title": "Décret n° 2012-05 du 11 janvier 2012 portant définition de la Petite et Moyenne Entreprise",
+   "source": "https://faolex.fao.org/docs/pdf/ivc169222.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2012/2012-06-portant-denomination-de-l-organe-de-gestion-de",
+   "kind": "decret",
+   "number": "2012-06",
+   "date": "2012-01-16",
+   "title": "Décret n° 2012-06 du 16 janvier 2012 portant dénomination de l'Organe de Gestion, de Développement, de Régulation de la Filière Café-Cacao et de Stabilisation des prix du Café et du Cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132087.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2012/2012-07-portant-composition-du-conseil-d-administration",
+   "kind": "decret",
+   "number": "2012-07",
+   "date": "2012-01-16",
+   "title": "Décret n° 2012-07 du 16 janvier 2012 portant composition du Conseil d'Administration du Conseil de Régulation, de Stabilisation et du Développement de la Filière Café-Cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147272.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/2012/2012-1008-du-17-octobre-2012-fixant-les-modalites-de",
+   "kind": "decret",
+   "number": "2012-1008",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-1008 du 17 octobre 2012 fixant les modalités de commercialisation du café et du cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132084.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 40
+  },
+  {
+   "id": "decrets/2012/2012-1009-du-17-octobre-2012-fixant-les-conditions-d",
+   "kind": "decret",
+   "number": "2012-1009",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-1009 du 17 octobre 2012 fixant les conditions d'exercice de la profession d'acheteur de produits café et cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147273.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/2012/2012-1010-du-17-octobre-2012-reglementant-la-profession-d",
+   "kind": "decret",
+   "number": "2012-1010",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-1010 du 17 octobre 2012 Règlementant la profession d'exportateur de café et de cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147277.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2012/2012-1011-du-17-octobre-2012-fixant-les-modalites-de",
+   "kind": "decret",
+   "number": "2012-1011",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-1011 du 17 octobre 2012 fixant les modalités de conditionnement du cacao à l'exportation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132138.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 17
+  },
+  {
+   "id": "decrets/2012/2012-1013-du-17-octobre-2012-relatif-a-la-tierce-detention",
+   "kind": "decret",
+   "number": "2012-1013",
+   "date": "2012-10-17",
+   "title": "Décret n° 2012-1013 du 17 octobre 2012 relatif à la tierce détention en matière de café-cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147279.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2012/2012-1047-du-24-octobre-2012-fixant-les-modalites-d",
+   "kind": "decret",
+   "number": "2012-1047",
+   "date": "2012-10-24",
+   "title": "Décret n° 2012-1047 du 24 octobre 2012, fixant les modalités d'application du principe pollueur-payeur tel que défini par la loi nº 96-766 portant Code de l'environnement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc122634.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 39
+  },
+  {
+   "id": "decrets/2012/2012-1049-du-24-octobre-2012-portant-creation-organisation",
+   "kind": "decret",
+   "number": "2012-1049",
+   "date": "2012-10-24",
+   "title": "Décret n° 2012-1049 du 24 octobre 2012,portant création, organisation et fonctionnement de la commission nationale pour la réduction des émissions de gaz à effet de serre dues à la déforestation et à la dégradation des forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc122643.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/2012/2012-1050-du-24-octobre-2012-portant-creation-attribution",
+   "kind": "decret",
+   "number": "2012-1050",
+   "date": "2012-10-24",
+   "title": "Décret n° 2012-1050 du 24 octobre 2012, portant création, attribution, organisation et fonctionnement de l’Autorité Nationale du Mécanisme pour un Développement Propre (AN-MDP)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc122648.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2012/2012-1151-du-19-decembre-2012-relatif-aux-contrats-de",
+   "kind": "decret",
+   "number": "2012-1151",
+   "date": "2012-12-19",
+   "title": "Décret n° 2012-1151 du 19 décembre 2012 relatif aux contrats de partenariats public-privé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167155.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "decrets/2012/2012-1152-du-19-decembre-2012-portant-attributions",
+   "kind": "decret",
+   "number": "2012-1152",
+   "date": "2012-12-19",
+   "title": "Décret n° 2012-1152 du 19 décembre 2012 portant attributions, organisation et fonctionnement du cadre institutionnel de pilotage des partenariats public-privé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167156.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 17
+  },
+  {
+   "id": "decrets/2012/2012-162-portant-creation-attribution-organisation-et",
+   "kind": "decret",
+   "number": "2012-162",
+   "date": "2012-02-09",
+   "title": "Décret n° 2012-162 du 9 février 2012 portant création attribution organisation et fonctionnement de la Commission nationale du Fonds pour l'environnement mondial",
+   "source": "https://faolex.fao.org/docs/pdf/ivc148375.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2012/2012-239-portant-declaration-d-utilite-publique-de",
+   "kind": "decret",
+   "number": "2012-239",
+   "date": "2012-03-07",
+   "title": "Décret n° 2012-239 du 7 mars 2012 portant déclaration d’utilité publique de périmètres rapprochés et sécurisation de périmètres immédiats de champs captant du District Autonome d’Abidjan",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195851.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2012/2012-612-portant-creation-de-la-region-du-moronou",
+   "kind": "decret",
+   "number": "2012-612",
+   "date": "2012-07-04",
+   "title": "Décret n° 2012-612 du 4 juillet 2012 portant création de la région du Moronou",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166807.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2012/2012-625-portant-attributions-des-membres-du-gouvernement",
+   "kind": "decret",
+   "number": "2012-625",
+   "date": "2012-07-06",
+   "title": "Décret n° 2012-625 du 6 juillet 2012 portant attributions des membres du Gouvernement (Les attributions du Ministère de la Construction, de l’Assainissement et de l’Urbanisme (MCAU) ainsi ses structures sous-tutelle)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140670.pdf",
+   "text_layer": "born-digital",
+   "articles": 0
+  },
+  {
+   "id": "decrets/2012/2012-962-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2012-962",
+   "date": "2012-10-12",
+   "title": "Décret n° 2012-962 du 12 octobre 2012 portant création, attributions, organisation et fonctionnement du Comité national de Défense de la Forêt et de Lutte contre les Feux de Brousse",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154648.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/2012/2012-988-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2012-988",
+   "date": "2012-10-10",
+   "title": "Décret n° 2012-988 du 10 octobre 2012 portant création, attributions, organisation et fonctionnement de la Plateforme Nationale de Réduction des Risques et de Gestion des Catastrophes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140559.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2013/2013-298-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2013-298",
+   "date": "2013-05-02",
+   "title": "Décret n° 2013-298 du 2 mai 2013 portant création, attributions, organisation et fonctionnement de l'agence de gestion et de développement des infrastructures industrielles (AGEDI)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167078.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "decrets/2013/2013-327-portant-interdiction-de-la-production-de-l",
+   "kind": "decret",
+   "number": "2013-327",
+   "date": "2013-05-22",
+   "title": "Décret n° 2013-327 du 22 mai 2013 portant interdiction de la production, de l'importation, de la commercialisation, de la détention et de l'utilisation des sachets plastiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132141.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2013/2013-41-relatif-a-l-evaluation-environnementale",
+   "kind": "decret",
+   "number": "2013-41",
+   "date": "2013-01-30",
+   "title": "Décret n° 2013-41 du 30 janvier 2013 relatif à l'évaluation environnementale stratégique des politiques, plans et programmes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154621.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2013/2013-440-determinant-le-regime-juridique-des-perimetres-de",
+   "kind": "decret",
+   "number": "2013-440",
+   "date": "2013-06-13",
+   "title": "Décret n° 2013-440 du 13 juin 2013 déterminant le régime juridique des périmètres de protection des ressources en eau, des aménagements et ouvrages hydrauliques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195859.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2013/2013-482-portant-modalites-d-application-de-l-ordonnance",
+   "kind": "decret",
+   "number": "2013-482",
+   "date": "2013-07-02",
+   "title": "Décret n° 2013-482 du 2 juillet 2013 portant modalités d’application de l’ordonnance fixant les règles d’acquisition de la propriété des terrains urbains",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146560.pdf",
+   "text_layer": "born-digital",
+   "articles": 39
+  },
+  {
+   "id": "decrets/2013/2013-508-portant-interdiction-de-l-exploitation-de-la",
+   "kind": "decret",
+   "number": "2013-508",
+   "date": "2013-07-25",
+   "title": "Décret n° 2013-508 du 25 juillet 2013 portant interdiction de l'exploitation, de la coupe, du transport, de commercialisation et de l'exploitation du pterocarpus spp (bois de vène)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154826.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2013/2013-803-prorogeant-le-delai-de-six-mois-prevu-a-l-article",
+   "kind": "decret",
+   "number": "2013-803",
+   "date": "2013-11-22",
+   "title": "Décret 2013-803 du 22 novembre 2013 prorogeant le délai de six mois prévu à l’article 12 du décret n° 2013-327 du 22 mai 2013 portant interdiction de la production, de l'importation, de la commercialisation de la détention et de l'utilisation des sachets plastiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140523.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2013/2013-808-fixant-les-modalites-de-collecte-des-taxes-et",
+   "kind": "decret",
+   "number": "2013-808",
+   "date": "2013-11-26",
+   "title": "Décret n° 2013-808 du 26 novembre 2013 fixant les modalités de collecte des taxes et redevances au profit du Conseil du Coton et de l’Anacarde et des cotisations professionnelles coton et anacarde",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188541.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/2013/2013-809-fixant-les-modalites-de-la-commercialisation",
+   "kind": "decret",
+   "number": "2013-809",
+   "date": "2013-11-26",
+   "title": "Décret n° 2013-809 du 26 novembre 2013 fixant les modalités de la commercialisation intérieure de la noix brute de cajou",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188542.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2013/2013-815-portant-interdiction-du-sciage-a-facon",
+   "kind": "decret",
+   "number": "2013-815",
+   "date": "2013-11-26",
+   "title": "Décret n° 2013-815 du 26 novembre 2013 portant interdiction du sciage à façon",
+   "source": "https://faolex.fao.org/docs/pdf/ivc136313.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2014/2014-129-fixant-les-conditions-d-agrement-pour-l",
+   "kind": "decret",
+   "number": "2014-129",
+   "date": "2014-03-20",
+   "title": "Décret n° 2014-129 du 20 mars 2014 fixant les conditions d'agrément pour l'exportation des produits du coton",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188544.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2014/2014-246-modifiant-le-decret-n-2012-1152-du-19-decembre",
+   "kind": "decret",
+   "number": "2014-246",
+   "date": "2014-05-08",
+   "title": "Décret n° 2014-246 du 8 mai 2014 modifiant le décret n° 2012-1152 du 19 décembre 2012 portant attributions, organisation et fonctionnement du cadre institutionnel de pilotage des partenariats public-privé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167157.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2014/2014-291-relatif-aux-conditions-et-modalites-de",
+   "kind": "decret",
+   "number": "2014-291",
+   "date": "2014-05-21",
+   "title": "Décret n° 2014-291 du 21 mai 2014 relatif aux conditions et modalités de conclusions des conventions de concessions pour l’exercice des activités de production, de transport, de dispatching, d’importation, d’exportation, de distribution et de commercialisation de l’énergie électrique",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146557.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2014/2014-30-portant-organisation-et-coordination-de-l-action",
+   "kind": "decret",
+   "number": "2014-30",
+   "date": "2014-02-03",
+   "title": "Décret n° 2014-30 du 3 février 2014 portant organisation et coordination de l'action de l'Etat en mer",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170849.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/2014/2014-361-portant-organisation-et-fonctionnement-de-l",
+   "kind": "decret",
+   "number": "2014-361",
+   "date": "2014-06-12",
+   "title": "Décret n° 2014-361 du 12 juin 2014 portant organisation et fonctionnement de l'autorité de radioprotection, de sûreté et de sécurité nucléaires (ARSN)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146564.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 38
+  },
+  {
+   "id": "decrets/2014/2014-372-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2014-372",
+   "date": "2014-06-18",
+   "title": "Décret n° 2014-372 du 18 juin 2014 portant création, attributions, organisation et fonctionnement du conseil national des exportations (CNE)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178170.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2014/2014-397-determinant-les-modalites-d-application-de-la-loi",
+   "kind": "decret",
+   "number": "2014-397",
+   "date": "2014-06-25",
+   "title": "Décret 2014-397 du 25 juin 2014 déterminant les modalités d'application de la loi 2014-138 du 24 mars 2014 portant Code minier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146578.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 119
+  },
+  {
+   "id": "decrets/2014/2014-420-fixant-les-attributions-l-organisation-et-le",
+   "kind": "decret",
+   "number": "2014-420",
+   "date": "2014-07-09",
+   "title": "Décret n° 2014-420 du 9 juillet 2014 fixant les attributions, l'organisation et le fonctionnement du comité national de lutte contre la contrefaçon (CNLC)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166992.pdf",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2014/2014-461-portant-modalites-d-application-de-la-loi-n-2013",
+   "kind": "decret",
+   "number": "2014-461",
+   "date": "2014-08-06",
+   "title": "Décret n° 2014-461 du 6 août 2014 portant modalités d’application de la loi n° 2013-866 du 23 décembre 2013 relative à la normalisation et à la promotion de la qualité",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167067.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "decrets/2014/2014-462-portant-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2014-462",
+   "date": "2014-08-06",
+   "title": "Décret n° 2014-462 du 6 août 2014 portant attributions, organisation et fonctionnement de la commission d'accès à l'information d'intérêt public et aux documents publics (CAIDP)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc184742.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 42
+  },
+  {
+   "id": "decrets/2014/2014-507-portant-organisation-du-ministere-de-l",
+   "kind": "decret",
+   "number": "2014-507",
+   "date": "2014-09-15",
+   "title": "Décret n° 2014-507 du 15 septembre 2014 portant organisation du ministère de l'Environnement, de la Salubrité urbaine et du Développement durable (MINESUDD)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154634.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2014/2014-521-portant-organisation-du-ministere-des-eaux-et",
+   "kind": "decret",
+   "number": "2014-521",
+   "date": "2014-09-15",
+   "title": "Décret n° 2014-521 du 15 septembre 2014 portant organisation du Ministère des Eaux et Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc154645.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/2014/2014-552-portant-organisation-du-ministere-des-ressources",
+   "kind": "decret",
+   "number": "2014-552",
+   "date": "2014-10-01",
+   "title": "Décret n° 2014-552 du 1er octobre 2014 Portant organisation du Ministère des Ressources Animales et Halieutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc208397.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2014/2014-593-portant-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2014-593",
+   "date": "2014-10-16",
+   "title": "Décret n° 2014-593 du 16 octobre 2014 portant attributions, organisation et fonctionnement de la chambre de commerce et d'industrie de Côte d'ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170877.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 48
+  },
+  {
+   "id": "decrets/2014/2014-728-portant-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2014-728",
+   "date": "2014-11-19",
+   "title": "Décret n° 2014-728 du 19 novembre 2014 portant attributions, organisation et fonctionnement du fonds développement des infrastructures industrielles (FODI)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167080.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2014/2014-740-portant-reglementation-des-etablissements-de",
+   "kind": "decret",
+   "number": "2014-740",
+   "date": "2014-11-25",
+   "title": "Décret n° 2014-740 du 25 novembre 2014 portant réglementation des établissements de restauration touristique",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178161.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2015/2015-101-portant-organisation-de-la-police-municipale",
+   "kind": "decret",
+   "number": "2015-101",
+   "date": "2015-02-18",
+   "title": "Décret n° 2015-101 du 18 février 2015 portant organisation de la Police Municipale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146375.pdf",
+   "text_layer": "born-digital",
+   "articles": 22
+  },
+  {
+   "id": "decrets/2015/2015-22-relatif-aux-procedures-et-conditions-d-occupation",
+   "kind": "decret",
+   "number": "2015-22",
+   "date": "2015-01-14",
+   "title": "Décret n° 2015-22 du 14 janvier 2015 relatif aux procédures et conditions d'occupation de terrains à usage industriel",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167081.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 50
+  },
+  {
+   "id": "decrets/2015/2015-358-portant-organisation-et-fonctionnement-de-la",
+   "kind": "decret",
+   "number": "2015-358",
+   "date": "2015-05-20",
+   "title": "Décret n° 2015-358 du 20 mai 2015 portant organisation et fonctionnement de la Chambre nationale des rois et chefs traditionnels",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166997.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2015/2015-810-fixant-les-modalites-de-paiement-de-la-redevance",
+   "kind": "decret",
+   "number": "2015-810",
+   "date": "2015-12-18",
+   "title": "Décret n° 2015-810 du 18 décembre 2015 fixant les modalités de paiement de la redevance d’occupation des terrains industriels",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187377.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 50
+  },
+  {
+   "id": "decrets/2015/faolex-204794-decret-n02015-346-du-13-mai-20-15-determinant-la",
+   "kind": "decret",
+   "number": "faolex-204794",
+   "date": "2015-05-13",
+   "title": "DECRET n02015-346 du 13 mai 20 15 déterminant la liste des infractions au Code de l'Eau pouvant donner lieu à transaction et des infractions excluant toute transaction",
+   "source": "https://faolex.fao.org/docs/pdf/ivc204794.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2015/faolex-220568-portant-creation-attributions-composition-et",
+   "kind": "decret",
+   "number": "faolex-220568",
+   "date": "2015-02-25",
+   "title": "Décret n° faolex-220568 du 25 février 2015 portant création, attributions, composition et fonctionnement du Comité national interinstitutionnel consultatif sur les Accords de l'OMC, en abrégé CNlC-OMC",
+   "source": "https://faolex.fao.org/docs/pdf/ivc220568.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2016/2016-112-portant-modalites-d-acquisition-et-de-perte-de-la",
+   "kind": "decret",
+   "number": "2016-112",
+   "date": "2016-02-24",
+   "title": "Décret n° 2016-112 du 24 février 2016 portant modalités d'acquisition et de perte de la qualité de PME",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167059.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2016/2016-1131-du-21-decembre-2016-portant-creation-organisation",
+   "kind": "decret",
+   "number": "2016-1131",
+   "date": "2016-12-21",
+   "title": "Décret n° 2016-1131 du 21 décembre 2016 portant création, organisation, attributions et fonctionnement du Fonds National de Maîtrise de l’Energie (FONAME)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176848.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2016/2016-1152-du-28-decembre-2016-rendant-certaines-normes-d",
+   "kind": "decret",
+   "number": "2016-1152",
+   "date": "2016-12-28",
+   "title": "Décret n° 2016-1152 du 28 décembre 2016 rendant certaines normes d'application obligatoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167068.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2016/2016-1153-du-28-decembre-2016-relatif-au-zonage-agro",
+   "kind": "decret",
+   "number": "2016-1153",
+   "date": "2016-12-28",
+   "title": "Décret n° 2016-1153 du 28 décembre 2016 relatif au zonage agro-industriel dans la filière coton",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167072.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2016/2016-1154-du-28-decembre-2016-instituant-la-nomenclature",
+   "kind": "decret",
+   "number": "2016-1154",
+   "date": "2016-12-28",
+   "title": "Décret n° 2016-1154 du 28 décembre 2016 instituant la nomenclature des activités de l'artisanat",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167074.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2016/2016-52-modifiant-le-decret-n-2014-30-du-03-fevrier-2014",
+   "kind": "decret",
+   "number": "2016-52",
+   "date": "2016-02-10",
+   "title": "Décret n° 2016-52 du 10 février 2016 modifiant le décret n° 2014-30 du 03 février 2014 portant organisation et coordination de l’Action de l’Etat en Mer, tel que modifié par le décret n° 2015-583 du 5 août 2015",
+   "source": "https://faolex.fao.org/docs/pdf/ivc217552.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/2016/2016-563-portant-organisation-du-ministere-de-l",
+   "kind": "decret",
+   "number": "2016-563",
+   "date": "2016-07-27",
+   "title": "Décret n° 2016-563 du 27 juillet 2016 portant organisation du ministère de l’agriculture et du développement rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc190563.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2016/2016-590-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2016-590",
+   "date": "2016-08-03",
+   "title": "Décret n° 2016-590 du 3 août 2016 portant création, attributions, organisation et fonctionnement de l’Agence foncière rurale (AFOR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178990.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "decrets/2016/2016-717-portant-reglementation-de-la-publicite-des",
+   "kind": "decret",
+   "number": "2016-717",
+   "date": "2016-09-14",
+   "title": "Décret n° 2016-717 du 14 septembre 2016 portant réglementation de la publicité des médicaments, des autres produits de santé et des établissements pharmaceutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc224094.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2016/2016-785-relatif-a-l-organisation-et-au-fonctionnement-de",
+   "kind": "decret",
+   "number": "2016-785",
+   "date": "2016-10-12",
+   "title": "Décret n° 2016-785 du 12 octobre 2016 relatif à l’organisation et au fonctionnement de l’Autorité Nationale de Régulation du Secteur de l’Electricité de Côte d’Ivoire (ANARE-CI)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176850.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 48
+  },
+  {
+   "id": "decrets/2016/2016-862-fixant-les-modalites-conditions-et-obligations-de",
+   "kind": "decret",
+   "number": "2016-862",
+   "date": "2016-11-03",
+   "title": "Décret n° 2016-862 du 3 novembre 2016 fixant les modalités, conditions et obligations de la mise en œuvre de la maîtrise d’énergie",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176849.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 33
+  },
+  {
+   "id": "decrets/2017/2017-121-portant-modalites-d-application-de-la-loi-n-2014",
+   "kind": "decret",
+   "number": "2017-121",
+   "date": "2017-02-22",
+   "title": "Décret n. 2017-121 du 22 février 2017 portant modalités d'application de la loi n. 2014-388 du 20 juin 2014 portant promotion et protection des defenseurs des droits de l'homme",
+   "source": "https://faolex.fao.org/docs/pdf/ivc208128.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/2017/2017-217-portant-gestion-ecologiquement-rationnelle-des",
+   "kind": "decret",
+   "number": "2017-217",
+   "date": "2017-04-05",
+   "title": "Décret n° 2017-217 du 5 avril 2017 portant gestion écologiquement rationnelle des déchets d’équipements électriques et électroniques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187371.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 17
+  },
+  {
+   "id": "decrets/2017/2017-321-relatif-a-la-mise-en-uvre-des-projets-de",
+   "kind": "decret",
+   "number": "2017-321",
+   "date": "2017-05-24",
+   "title": "Décret n° 2017-321 du 24 mai 2017 relatif à la mise en œuvre des projets de certification et de programmes de durabilité dans la filière café-cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187400.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2017/2017-322-portant-classement-du-parc-archeologique-d",
+   "kind": "decret",
+   "number": "2017-322",
+   "date": "2017-05-24",
+   "title": "Décret n° 2017-322 du 24 mai 2017 portant classement du parc archéologique d’Ahouakro sur la liste du patrimoine culturel national",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187426.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2017/2017-462-portant-creation-attributions-composition-et",
+   "kind": "decret",
+   "number": "2017-462",
+   "date": "2017-07-12",
+   "title": "Décret n° 2017-462 du 12 juillet 2017 portant création, attributions, composition et fonctionnement de la Commission nationale des Frontières de la Côte d’Ivoire (CNFCI)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187373.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/2017/2017-693-portant-dissolution-de-l-etablissement-public",
+   "kind": "decret",
+   "number": "2017-693",
+   "date": "2017-10-25",
+   "title": "Décret n° 2017-693 du 25 octobre 2017 portant dissolution de l’établissement public administratif dénommé Fonds de Financement des Programmes de Salubrité urbaine (FFPSU)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176855.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2017/2017-694-portant-dissolution-de-l-etablissement-public-a",
+   "kind": "decret",
+   "number": "2017-694",
+   "date": "2017-10-25",
+   "title": "Décret n° 2017-694 du 25 octobre 2017 portant dissolution de l’établissement public à caractère industriel et commercial dénommé Agence nationale de la Salubrité urbaine (ANASUR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176857.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2017/2017-845-portant-approbation-du-contrat-de-conception",
+   "kind": "decret",
+   "number": "2017-845",
+   "date": "2017-12-20",
+   "title": "Décret n° 2017-845 du 20 décembre 2017 portant approbation du contrat de conception, construction, financement et exploitation du Centre d’Enfouissement technique de Kossihouen",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187375.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2018/2018-10-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2018-10",
+   "date": "2018-01-10",
+   "title": "Décret n° 2018-10 du 10 janvier 2018 portant création, attributions, organisation et fonctionnement de l’Agence pour le développement de la filière du riz",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187551.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 29
+  },
+  {
+   "id": "decrets/2018/2018-150-portant-amenagement-des-modalites-de-paiement-de",
+   "kind": "decret",
+   "number": "2018-150",
+   "date": "2018-02-14",
+   "title": "Décret n° 2018-150 du 14 février 2018 portant aménagement des modalités de paiement de la redevance d’occupation des terrains industriels pour les industriels transformant le bois grumes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187376.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2018/2018-224-portant-ratification-et-publication-de-l-accord",
+   "kind": "decret",
+   "number": "2018-224",
+   "date": "2018-02-28",
+   "title": "Décret n° 2018-224 du 28 février 2018 portant ratification et publication de l’Accord cadre portant création de l’Alliance solaire internationale (ASI) signé le 15 novembre 2016, à Marrakech au Maroc",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187383.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 13
+  },
+  {
+   "id": "decrets/2018/2018-228-portant-denomination-de-l-organe-charge-de-la",
+   "kind": "decret",
+   "number": "2018-228",
+   "date": "2018-02-28",
+   "title": "Décret n° 2018-228 du 28 février 2018 portant dénomination de l’organe chargé de la régulation, du contrôle et du suivi des activités des filières Hévéa et Palmier à Huile",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187384.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2018/2018-272-relatifs-aux-travaux-interdits-aux-femmes-et-aux",
+   "kind": "decret",
+   "number": "2018-272",
+   "date": "2018-03-07",
+   "title": "Décret n° 2018-272 du 7 mars 2018 relatifs aux travaux interdits aux femmes et aux femmes enceintes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187389.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2018/2018-30-modifiant-les-articles-2-3-4-6-7-8-9-14-16-et-20",
+   "kind": "decret",
+   "number": "2018-30",
+   "date": "2018-01-17",
+   "title": "Décret n° 2018-30 du 17 janvier 2018 modifiant les articles 2, 3, 4, 6, 7, 8, 9, 14, 16 et 20 du décret n° 97-615 du 16 octobre 1997, portant réglementation de l’exercice de la profession d’avitailleur maritime dans les ports ivoiriens",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187386.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/2018/2018-358-relatives-aux-contrats-de-partenariats-public",
+   "kind": "decret",
+   "number": "2018-358",
+   "date": "2018-03-29",
+   "title": "Décret n° 2018-358 du 29 mars 2018 relatives aux contrats de partenariats public-privé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc184735.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "decrets/2018/2018-359-portant-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2018-359",
+   "date": "2018-03-29",
+   "title": "Décret n° 2018-359 du 29 mars 2018 portant attributions, organisation et fonctionnement du comité national de pilotage de partenariats public-privé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc184736.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 19
+  },
+  {
+   "id": "decrets/2018/2018-36-portant-organisation-du-ministere-des-eaux-et",
+   "kind": "decret",
+   "number": "2018-36",
+   "date": "2018-01-17",
+   "title": "Décret n° 2018-36 du 17 janvier 2018 portant organisation du ministère des Eaux et Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187379.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/2018/2018-362-portant-creation-attributions-et-fonctionnement",
+   "kind": "decret",
+   "number": "2018-362",
+   "date": "2018-03-29",
+   "title": "Décret n° 2018-362 du 29 mars 2018 portant création, attributions et fonctionnement de la commission consultative de fixation des prix de cession des terrains domaniaux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187390.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/2018/2018-385-portant-creation-organisation-et-fonctionnement",
+   "kind": "decret",
+   "number": "2018-385",
+   "date": "2018-04-04",
+   "title": "Décret n° 2018-385 du 4 avril 2018 portant création, organisation et fonctionnement du Conseil national du Tourisme",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187395.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2018/2018-457-portant-modification-des-limites-de-la-reserve-de",
+   "kind": "decret",
+   "number": "2018-457",
+   "date": "2018-05-09",
+   "title": "Décret n° 2018-457 du 9 mai 2018 portant modification des limites de la réserve de faune et de la flore du Haut Bandama",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187413.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2018/2018-458-portant-modification-des-limites-du-parc-national",
+   "kind": "decret",
+   "number": "2018-458",
+   "date": "2018-05-09",
+   "title": "Décret n° 2018-458 du 9 mai 2018 portant modification des limites du parc national du mont Sangbé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187415.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2018/2018-459-portant-modification-des-limites-de-la-reserve",
+   "kind": "decret",
+   "number": "2018-459",
+   "date": "2018-05-09",
+   "title": "Décret n° 2018-459 du 9 mai 2018 portant modification des limites de la réserve intégrale du mont Nimba",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187416.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2018/2018-495-portant-modification-des-limites-de-la-reserve",
+   "kind": "decret",
+   "number": "2018-495",
+   "date": "2018-05-23",
+   "title": "Décret n° 2018-495 du 23 mai 2018 portant modification des limites de la réserve partielle de faune du N'ZO",
+   "source": "https://faolex.fao.org/docs/pdf/ivc183460.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2018/2018-496-portant-modification-des-limites-du-parc-national",
+   "kind": "decret",
+   "number": "2018-496",
+   "date": "2018-05-23",
+   "title": "Décret n° 2018-496 du 23 mai 2018 portant modification des limites du parc national de Taï",
+   "source": "https://faolex.fao.org/docs/pdf/ivc183461.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2018/2018-498-portant-creation-organisation-et-fonctionnement",
+   "kind": "decret",
+   "number": "2018-498",
+   "date": "2018-05-23",
+   "title": "Décret n° 2018-498 du 23 mai 2018 portant création, organisation et fonctionnement de la Commission nationale de la Famille (CNFA)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187399.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2018/2018-508-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2018-508",
+   "date": "2018-05-30",
+   "title": "Décret n° 2018-508 du 30 mai 2018 portant création, attributions, organisation et fonctionnement de l’Agence de Promotion de l’Inclusion financière (APIF)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187421.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/2018/2018-509-portant-modification-des-limites-du-parc-national",
+   "kind": "decret",
+   "number": "2018-509",
+   "date": "2018-05-30",
+   "title": "Décret n° 2018-509 du 30 mai 2018 portant modification des limites du Parc national des Iles Ehotilé",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187410.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2018/2018-510-portant-modification-des-limites-du-parc-national",
+   "kind": "decret",
+   "number": "2018-510",
+   "date": "2018-05-30",
+   "title": "Décret n° 2018-510 du 30 mai 2018 portant modification des limites du Parc national du Banco",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187411.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2018/2018-511-portant-creation-de-la-reserve-naturelle",
+   "kind": "decret",
+   "number": "2018-511",
+   "date": "2018-05-30",
+   "title": "Décret n° 2018-511 du 30 mai 2018 portant création de la réserve naturelle volontaire « N'ZI RIVER LODGE »",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187412.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2018/2018-514-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2018-514",
+   "date": "2018-05-30",
+   "title": "Décret n° 2018-514 du 30 mai 2018 portant création, attributions, organisation et fonctionnement du Comité national de la Zone de Libre-échange continentale africaine",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187422.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 17
+  },
+  {
+   "id": "decrets/2018/2018-545-portant-modification-des-limites-de-la-reserve",
+   "kind": "decret",
+   "number": "2018-545",
+   "date": "2018-06-06",
+   "title": "Décret n° 2018-545 du 6 juin 2018 portant modification des limites de la réserve scientifique de Lamto",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187407.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2018/2018-546-portant-definition-et-organisation-des",
+   "kind": "decret",
+   "number": "2018-546",
+   "date": "2018-06-06",
+   "title": "Décret n° 2018-546 du 6 juin 2018 portant définition et organisation des manifestations promotionnelles à caractère commercial, industriel et artisanal en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187408.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 27
+  },
+  {
+   "id": "decrets/2018/2018-600-portant-creation-d-une-zone-d-amenagement-differe",
+   "kind": "decret",
+   "number": "2018-600",
+   "date": "2018-06-27",
+   "title": "Décret n° 2018-600 du 27 juin 2018 portant création d’une zone d’aménagement différé sur le périmètre couvert par le schéma directeur d’urbanisme du Grand Abidjan",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187406.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2018/2018-647-fixant-les-modalites-d-application-de-l",
+   "kind": "decret",
+   "number": "2018-647",
+   "date": "2018-08-01",
+   "title": "Décret n° 2018-647 du 1er août 2018 fixant les modalites d'application de l'Ordonnance n° 2018-646 du 01 août 2018 portant code des investissements",
+   "source": "https://faolex.fao.org/docs/pdf/ivc242617.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 35
+  },
+  {
+   "id": "decrets/2018/2018-716-portant-reconnaissance-de-l-organisation",
+   "kind": "decret",
+   "number": "2018-716",
+   "date": "2018-09-12",
+   "title": "Décret n° 2018-716 du 12 septembre 2018 portant reconnaissance de l'Organisation interprofessionnelle agricole de la filière Cola",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187427.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2018/2018-950-portant-organisation-du-ministere-de-la-femme-de",
+   "kind": "decret",
+   "number": "2018-950",
+   "date": "2018-12-18",
+   "title": "Décret n° 2018-950 du 18 décembre 2018 portant organisation du ministère de la Femme, de la Famille et de l’Enfant",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207869.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/2019/2019-243-fixant-les-procedures-de-delimitation-et-les",
+   "kind": "decret",
+   "number": "2019-243",
+   "date": "2019-03-20",
+   "title": "Décret n° 2019-243 du 20 mars 2019 fixant les procédures de délimitation et les modalités de gestion des domaines publics maritime et fluvio-lagunaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195877.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 26
+  },
+  {
+   "id": "decrets/2019/2019-263-portant-definition-de-la-procedure-de",
+   "kind": "decret",
+   "number": "2019-263",
+   "date": "2019-03-27",
+   "title": "Décret n° 2019-263 du 27 mars 2019 portant définition de la procédure de délimitation des territoires des villages",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188534.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 33
+  },
+  {
+   "id": "decrets/2019/2019-292-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2019-292",
+   "date": "2019-04-03",
+   "title": "Décret n° 2019-292 du 3 avril 2019 portant création, attributions, organisation et fonctionnement du centre des operations d’urgence de santé publique",
+   "source": "https://faolex.fao.org/docs/pdf/ivc222135.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/2019/2019-293-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2019-293",
+   "date": "2019-04-03",
+   "title": "Décret n° 2019-293 du 3 avril 2019 portant création, attributions, organisation et fonctionnement de la plateforme nationale \"Une Seule Santé\"",
+   "source": "https://faolex.fao.org/docs/pdf/ivc222133.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 24
+  },
+  {
+   "id": "decrets/2019/2019-591-relatif-au-remblayage-aux-amenagements-par",
+   "kind": "decret",
+   "number": "2019-591",
+   "date": "2019-07-03",
+   "title": "Décret n° 2019-591 du 3 juillet 2019 relatif au remblayage, aux aménagements par endiguement, enrochement des rivages de la mer et des voies d’eau intérieures",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195869.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2019/2019-592-portant-creation-organisation-et-fonctionnement",
+   "kind": "decret",
+   "number": "2019-592",
+   "date": "2019-07-03",
+   "title": "Décret n° 2019-592 du 3 juillet 2019 portant création, organisation et fonctionnement de l'Observatoire national de l'Equité et du Genre",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207871.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 21
+  },
+  {
+   "id": "decrets/2019/2019-779-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2019-779",
+   "date": "2019-09-25",
+   "title": "Décret n° 2019-779 du 25 septembre 2019 portant création, attributions, organisation et fonctionnement du Comité Interministériel de Protection de l'Enfant, en abrégé CIMPE",
+   "source": "https://faolex.fao.org/docs/pdf/ivc215532.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2019/2019-828-portant-modalites-de-creation-des-des-agro-forets",
+   "kind": "decret",
+   "number": "2019-828",
+   "date": "2019-10-09",
+   "title": "Décret n° 2019-828 du 9 octobre 2019 Portant modalités de création des des agro-forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207058.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2019/2019-895-portant-modalites-de-classement-de-certaines",
+   "kind": "decret",
+   "number": "2019-895",
+   "date": "2019-10-30",
+   "title": "Décret n° 2019-895 du 30 octobre 2019 portant modalités de classement de certaines forêts classées en Parcs nationaux ou Réserves",
+   "source": "https://faolex.fao.org/docs/pdf/ivc199849.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "decrets/2019/2019-977-portant-procedures-de-classement-des-forets-et",
+   "kind": "decret",
+   "number": "2019-977",
+   "date": "2019-11-27",
+   "title": "Décret n° 2019-977 du 27 novembre 2019 Portant procedures de classement des forêts et des agro-forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc200713.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2019/2019-978-relatif-a-la-concession-de-la-gestion-du-domaine",
+   "kind": "decret",
+   "number": "2019-978",
+   "date": "2019-11-27",
+   "title": "Décret n° 2019-978 du 27 novembre 2019 relatif a la concession de la gestion du Domaine Forestier Privé de l'Etat et des Collectivités Territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc200696.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2019/2019-979-portant-modalites-d-amenagement-des-agro-forets-d",
+   "kind": "decret",
+   "number": "2019-979",
+   "date": "2019-11-27",
+   "title": "Décret n° 2019-979 du 27 novembre 2019 portant modalités d’aménagement des agro-forêts, d’exploitation des plantations agricoles et de commercialisation des produits agricoles dans les agro-forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc200719.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2019/2019-980-relatif-a-l-exploitation-forestiere-dans-le",
+   "kind": "decret",
+   "number": "2019-980",
+   "date": "2019-11-27",
+   "title": "Décret n° 2019-980 du 27 novembre 2019 relatif a l'exploitation forestière dans le Domaine Forestier National",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195566.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "decrets/2020/2020-423-fixant-les-conditions-de-deboisement-et-de",
+   "kind": "decret",
+   "number": "2020-423",
+   "date": "2020-04-29",
+   "title": "Décret n° 2020-423 du 29 avril 2020 fixant les conditions de déboisement et de défrichement dans le domaine forestier national",
+   "source": "https://faolex.fao.org/docs/pdf/ivc200676.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2020/2020-424-definissant-les-modalites-de-protection-des",
+   "kind": "decret",
+   "number": "2020-424",
+   "date": "2020-04-29",
+   "title": "Décret n° 2020-424 du 29 avril 2020 définissant les modalités de protection des forêts sacrées",
+   "source": "https://faolex.fao.org/docs/pdf/ivc200673.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/2020/2020-941-portant-modalites-d-application-de-la-loi-n-2019",
+   "kind": "decret",
+   "number": "2020-941",
+   "date": "2020-11-25",
+   "title": "Décret n° 2020-941 du 25 novembre 2020 portant modalités d’application de la loi n° 2019-870 du 14 octobre 2019 favorisant la représentation de la femme dans les assemblées élues",
+   "source": "https://faolex.fao.org/docs/pdf/ivc215522.pdf",
+   "text_layer": "born-digital",
+   "articles": 7
+  },
+  {
+   "id": "decrets/2021/2021-06-portant-reglementation-des-servitudes-des",
+   "kind": "decret",
+   "number": "2021-06",
+   "date": "2021-11-03",
+   "title": "Décret n° 2021-06 du 3 novembre 2021 portant réglementation des servitudes des ouvrages d’eau potable, d’assainissement et de drainage, de réseaux électriques, de gazoducs et d'oléoducs",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244799.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2021/2021-27-relatif-aux-conditions-d-importation-d",
+   "kind": "decret",
+   "number": "2021-27",
+   "date": "2021-01-20",
+   "title": "Décret n° 2021-27 du 20 janvier 2021 relatif aux conditions d’importation, d’exportation et d’introduction en Côte d'ivoire de tout spécimen de plante forestière",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244837.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "decrets/2021/2021-437-fixant-le-cadre-general-de-la-gestion-des-forets",
+   "kind": "decret",
+   "number": "2021-437",
+   "date": "2021-09-08",
+   "title": "Décret n. 2021-437 du 8 septembre 2021 fixant le cadre général de la gestion des forêts classées du domaine forestier privé de l'Etat, éligibles au régime de la concession",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207814.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/2021/2021-438-relatif-aux-conditions-d-exercice-de-la",
+   "kind": "decret",
+   "number": "2021-438",
+   "date": "2021-09-08",
+   "title": "Décret n° 2021-438 du 8 septembre 2021 relatif aux conditions d'exercice de la profession et d'obtention de l'agrément de sylviculteur",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207815.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2021/2021-439-precisant-les-conditions-de-redefinition-des",
+   "kind": "decret",
+   "number": "2021-439",
+   "date": "2021-09-08",
+   "title": "Décret n° 2021-439 du 8 septembre 2021 précisant les conditions de redéfinition des limites des forêts du domaine privé de l'Etat et des collectivités territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207817.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2021/2021-440-fixant-les-conditions-et-modalites-de-creation-et",
+   "kind": "decret",
+   "number": "2021-440",
+   "date": "2021-09-08",
+   "title": "Décret n° 2021-440 du 8 septembre 2021 fixant les conditions et modalités de création et de gestion des forêts communautaires",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207818.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "decrets/2021/2021-441-portant-modalites-d-exercice-de-l-observation",
+   "kind": "decret",
+   "number": "2021-441",
+   "date": "2021-09-08",
+   "title": "Décret n° 2021-441 du 8 septembre 2021 portant modalités d'exercice de l'observation indépendante",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207846.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "decrets/2021/2021-443-definissant-les-modalites-de-creation-d",
+   "kind": "decret",
+   "number": "2021-443",
+   "date": "2021-09-08",
+   "title": "Décret n. 2021-443 du 8 septembre 2021 définissant les modalités de création, d'aménagement et de gestion des jardins botaniques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207848.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2021/2021-471-decret-n-2021-471-du-08092021-portant",
+   "kind": "decret",
+   "number": "2021-471",
+   "date": "2021-09-08",
+   "title": "Décret n° 2021-471 du 08092021, portant organisation du ministère de l'Environnement et du Développement durable",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244879.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 28
+  },
+  {
+   "id": "decrets/2021/2021-583-fixant-les-modalites-de-gestion-et-d-usage-des",
+   "kind": "decret",
+   "number": "2021-583",
+   "date": "2021-10-06",
+   "title": "Décret n. 2021-583 du 06 octobre 2021 fixant les modalités de gestion et d'usage des zones écologiques sensibles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209356.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2021/2021-584-fixant-la-composition-les-modalites-de-nomination",
+   "kind": "decret",
+   "number": "2021-584",
+   "date": "2021-10-06",
+   "title": "Décret n.2021-584 du 06 octobre 2021 fixant la composition, les modalités, de nomination des membres, la compétence, l'organisation et le fonctionnement du conseil de discipline de l'administration des eaux et forets",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209360.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2021/2021-587-fixant-les-conditions-et-les-modalites-d",
+   "kind": "decret",
+   "number": "2021-587",
+   "date": "2021-10-06",
+   "title": "Décret n. 2021-587 du 06 octobre 2021 fixant les conditions et les modalités d'exportation et d'importationdes produits forestiers",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209270.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2021/2021-589-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2021-589",
+   "date": "2021-10-06",
+   "title": "Décret n° 2021-589 du 6 octobre 2021 portant création, attributions, organisation et fonctionnement d'un établissement public Administratif, Social, Culturel Environnemental, dénommé Ecole Nationale des Eaux et Forêts",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209278.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2021/2021-795-fixant-les-modalites-de-creation-d-amenagement-et",
+   "kind": "decret",
+   "number": "2021-795",
+   "date": "2021-12-08",
+   "title": "Décret N.2021-795 du 8 décembre 2021 fixant les modalités de création, d'aménagement et d'exploitation des aires de pâturage exclusives et des sites de pâturage privés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc226328.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "decrets/2021/2021-796-portant-reglementation-du-paturage-et-des",
+   "kind": "decret",
+   "number": "2021-796",
+   "date": "2021-12-08",
+   "title": "Décret n° 2021-796 du 8 décembre 2021 portant règlementation du pâturage et des déplacements du bétail",
+   "source": "https://faolex.fao.org/docs/pdf/ivc226320.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 29
+  },
+  {
+   "id": "decrets/2022/2022-448-portant-creation-de-l-aire-marine-protegee-de",
+   "kind": "decret",
+   "number": "2022-448",
+   "date": "2022-07-06",
+   "title": "Décret n° 2022-448 du 6 juillet 2022 portant création de l’Aire Marine Protégée de Grand-Béréby",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244858.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2022/2022-54-fixant-les-modalites-d-introduction-et-de",
+   "kind": "decret",
+   "number": "2022-54",
+   "date": "2022-01-19",
+   "title": "Décret n. 2022-54 du 19 Janvier 2022 fixant les modalités d'introduction et de transfert d'éspèces aquatiques vivantes à des fins aquacoles où ornamentales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc211832.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2022/2022-547-portant-reglementation-de-l-abattage-et-de-l",
+   "kind": "decret",
+   "number": "2022-547",
+   "date": "2022-07-13",
+   "title": "Décret n° 2022-547 du 13 juillet 2022 portant réglementation de l'abattage et de l'exportation des asins, de leurs produits et sous produits",
+   "source": "https://faolex.fao.org/docs/pdf/ivc216020.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 8
+  },
+  {
+   "id": "decrets/2022/2022-683-portant-creation-organisation-et-fonctionnement",
+   "kind": "decret",
+   "number": "2022-683",
+   "date": "2022-09-06",
+   "title": "Décret n° 2022-683 du 6 septembre 2022 portant création, organisation et fonctionnement du cadre institutionnel de Suivi du Plan national de Développement 2021-2025",
+   "source": "https://faolex.fao.org/docs/pdf/ivc222237.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2022/2022-781-determinant-les-conditions-d-obtention-de-l",
+   "kind": "decret",
+   "number": "2022-781",
+   "date": "2022-10-12",
+   "title": "Décret n° 2022-781 du 12 octobre 2022 déterminant les conditions d'obtention de l'agrément en qualité d'exploitant forestier et de l'autorisation pour l'exploitation forestière",
+   "source": "https://faolex.fao.org/docs/pdf/ivc217298.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 11
+  },
+  {
+   "id": "decrets/2023/2023-1007-du-20-decembre-2023-fixant-les-modalites-de",
+   "kind": "decret",
+   "number": "2023-1007",
+   "date": "2023-12-20",
+   "title": "Décret n° 2023-1007 du 20 décembre 2023 fixant les modalités de règlement amiable des conflits entre agriculteurs et éleveurs",
+   "source": "https://faolex.fao.org/docs/pdf/ivc226190.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "decrets/2023/2023-238-determinant-les-procedures-d-immatriculation-des",
+   "kind": "decret",
+   "number": "2023-238",
+   "date": "2023-04-05",
+   "title": "Décret n° 2023-238 du 05 avril 2023 déterminant les procédures d'immatriculation des terres du domaine foncier rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc217309.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 48
+  },
+  {
+   "id": "decrets/2023/2023-378-definissant-la-procedure-de-constatation-des",
+   "kind": "decret",
+   "number": "2023-378",
+   "date": "2023-05-03",
+   "title": "Décret n° 2023-378 du 3 mai 2023 définissant la procédure de constatation des terres sans maître du domaine foncier rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc222378.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 14
+  },
+  {
+   "id": "decrets/2023/2023-59-fixant-les-modalites-de-mise-en-oeuvre-des",
+   "kind": "decret",
+   "number": "2023-59",
+   "date": "2023-02-01",
+   "title": "Décret n° 2023-59 du 1er février 2023 fixant les modalités de mise en oeuvre des tandems agropastoraux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc217297.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 18
+  },
+  {
+   "id": "decrets/2023/2023-728-portant-creation-de-l-agro-foret-de-scio-dans-les",
+   "kind": "decret",
+   "number": "2023-728",
+   "date": "2023-09-13",
+   "title": "Décret n° 2023-728 du 13 septembre 2023 portant création de l'Agro-forêt de Scio dans les régions du Cavally et du Guemon",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228195.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2023/2023-729-portant-creation-de-l-agro-foret-de-la-haute-dodo",
+   "kind": "decret",
+   "number": "2023-729",
+   "date": "2023-09-13",
+   "title": "Décret n° 2023-729 du 13 septembre 2023 portant création de l'Agro-forêt de la Haute-Dodo",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228196.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2023/2023-730-portant-creation-de-l-agro-foret-des-rapides-grah",
+   "kind": "decret",
+   "number": "2023-730",
+   "date": "2023-09-13",
+   "title": "Décret n° 2023-730 du 13 septembre 2023 portant création de l'Agro-forêt des Rapides-Grah dans les régions de San Pedro et de la Nawa",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228197.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2023/2023-731-portant-creation-de-la-reserve-naturelle-du",
+   "kind": "decret",
+   "number": "2023-731",
+   "date": "2023-09-13",
+   "title": "Décret n° 2023-731 du 13 septembre 2023 portant création de la Réserve Naturelle du Cavally",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228198.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2023/2023-734-determinant-les-modalites-de-mise-en-uvre-des",
+   "kind": "decret",
+   "number": "2023-734",
+   "date": "2023-09-13",
+   "title": "Décret 2023-734 du 13 septembre 2023 déterminant les modalités de mise en œuvre des instruments de protection définies à l’article 6 de la loi n° 2017-378 du 2 juin 2017 relative à l’aménagement, à la protection et à la gestion intégrée du Littoral",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244877.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
+  },
+  {
+   "id": "decrets/2023/2023-966-portant-organisation-du-ministere-des-ressources",
+   "kind": "decret",
+   "number": "2023-966",
+   "date": "2023-12-06",
+   "title": "Décret n° 2023-966 du 6 décembre 2023 portant organisation du ministère des Ressources animales et halieutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236175.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 27
+  },
+  {
+   "id": "decrets/2023/2023-968-portant-organisation-du-ministere-de-l",
+   "kind": "decret",
+   "number": "2023-968",
+   "date": "2023-12-06",
+   "title": "Décret n° 2023-968 du 6 décembre 2023 portant organisation du ministère de l’environnement, du développement durable et de la transition écologique",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244878.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "decrets/2023/faolex-244790-portant-organisation-du-ministere-de-l",
+   "kind": "decret",
+   "number": "faolex-244790",
+   "date": "2023-12-06",
+   "title": "Décret n° faolex-244790 du 6 décembre 2023 portant organisation du ministère de l’hydraulique, de l'assainissement et de la salubrité",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244790.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 16
+  },
+  {
+   "id": "decrets/2024/2024-274-portant-organisation-du-ministere-delegue-aupres",
+   "kind": "decret",
+   "number": "2024-274",
+   "date": "2024-05-08",
+   "title": "Décret n° 2024-274 du 8 mai 2024 portant organisation du Ministère délégué auprès du ministre des transports, chargé des affaires maritimes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc236225.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 31
+  },
+  {
+   "id": "decrets/2024/2024-595-determinant-les-regles-et-procedures-applicables",
+   "kind": "decret",
+   "number": "2024-595",
+   "date": "2024-06-26",
+   "title": "Décret n° 2024-595 du 26 juin 2024 déterminant les règles et procédures applicables aux évaluations environnementales et sociales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc232347.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 67
+  },
+  {
+   "id": "decrets/2024/2024-615-autorisant-le-traitement-de-donnees-a-caractere",
+   "kind": "decret",
+   "number": "2024-615",
+   "date": "2024-07-10",
+   "title": "Décret n° 2024-615 du 10 juillet 2024 autorisant le traitement de données à caractère personnel pour la mise en œuvre du Programme de Renforcement de la Sécurisation Foncière Rurale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc237147.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 12
+  },
+  {
+   "id": "decrets/2024/2024-655-fixant-les-regles-generales-d-identification-des",
+   "kind": "decret",
+   "number": "2024-655",
+   "date": "2024-08-01",
+   "title": "Décret n° 2024-655 du 1er août 2024 fixant les règles générales d'identification des animaux, des propriétaires et des locaux",
+   "source": "https://faolex.fao.org/docs/pdf/ivc238907.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 32
+  },
+  {
+   "id": "decrets/2024/2024-658-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2024-658",
+   "date": "2024-08-01",
+   "title": "Décret n° 2024-658 du 1er août 2024 portant création attributions organisation et fonctionnement du bureau du marché carbone en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244862.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 15
+  },
+  {
+   "id": "decrets/2025/2025-261-portant-creation-attributions-organisation-et",
+   "kind": "decret",
+   "number": "2025-261",
+   "date": "2025-04-23",
+   "title": "Décret n° 2025-261 du 23 avril 2025 portant création, attributions, organisation et fonctionnement des organes de coordination et de suivi de la mise en œuvre du programme national de sécurisation foncière rurale 2023- 2033",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244800.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2025/2025-346-modifiant-le-decret-n-2024-594-du-26-juin-2024",
+   "kind": "decret",
+   "number": "2025-346",
+   "date": "2025-05-21",
+   "title": "Décret n° 2025-346 du 21 mai 2025 modifiant le décret n° 2024-594 du 26 juin 2024 portant création, attributions, organisation et fonctionnement de la commission nationale de lutte contre les changements climatiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc244839.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "lois/1961/1961-349-relative-a-l-institution-d-un-code-de-la-marine",
+   "kind": "loi",
+   "number": "1961-349",
+   "date": "1961-11-09",
+   "title": "Loi n° 1961-349 du 9 novembre 1961 relative à l'institution d'un Code de la marine marchande",
+   "source": "https://faolex.fao.org/docs/pdf/ivc1437.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 191
+  },
+  {
+   "id": "lois/1964/1964-291-modifiee-par-l-ordonnance-n-88-225-du-2-mars-1988",
+   "kind": "loi",
+   "number": "1964-291",
+   "date": "1964-08-01",
+   "title": "Loi n° 1964-291 du 1er août 1964 Modifiée par l’ordonnance n° 88-225 du 2 Mars 1988 - Code des Douanes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207121.pdf",
+   "text_layer": "born-digital",
+   "articles": 311
+  },
+  {
+   "id": "lois/1981/1981-127-du-budget-general-de-fonctionnement-pour-l",
+   "kind": "loi",
+   "number": "1981-127",
+   "date": "1981-12-31",
+   "title": "Loi nº 81-127 du 31 décembre 1981 du budget général de fonctionnement pour l'exercice 1982",
+   "source": "https://faolex.fao.org/docs/pdf/ivc2219.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 1
+  },
+  {
+   "id": "lois/1988/1988-651-portant-protection-de-la-sante-publique-et-de-l",
+   "kind": "loi",
+   "number": "1988-651",
+   "date": "1988-07-07",
+   "title": "Loi n° 1988-651 du 7 juillet 1988 portant protection de la santé publique et de l’environnement contre les effets des déchets industriels toxiques et nucleaires et des substances nocives",
+   "source": "https://faolex.fao.org/docs/pdf/ivc195660.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "lois/1995/1995-893-relative-aux-communautes-rurales",
+   "kind": "loi",
+   "number": "1995-893",
+   "date": "1995-10-27",
+   "title": "Loi n° 1995-893 du 27 octobre 1995 relative aux communautés rurales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc16689.pdf",
+   "text_layer": "born-digital",
+   "articles": 95
+  },
+  {
+   "id": "lois/1997/1997-721-relative-aux-cooperatives",
+   "kind": "loi",
+   "number": "1997-721",
+   "date": "1997-12-23",
+   "title": "Loi n° 1997-721 du 23 décembre 1997 relative aux coopératives",
+   "source": "https://faolex.fao.org/docs/pdf/ivc176110.pdf",
+   "text_layer": "born-digital",
+   "articles": 44
+  },
+  {
+   "id": "lois/1998/1998-487-portant-attribution-de-competences-aux-regions",
+   "kind": "loi",
+   "number": "1998-487",
+   "date": "1998-09-04",
+   "title": "Loi n° 1998-487 du 4 septembre 1998 portant attribution de compétences aux Régions",
+   "source": "https://faolex.fao.org/docs/pdf/ivc16688.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 17
+  },
+  {
+   "id": "lois/1998/1998-489-portant-regime-domanial-des-regions",
+   "kind": "loi",
+   "number": "1998-489",
+   "date": "1998-09-04",
+   "title": "Loi n° 1998-489 du 4 septembre 1998 portant régime domanial des Régions",
+   "source": "https://faolex.fao.org/docs/pdf/ivc16693.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "lois/2003/2003-208-portant-transfert-et-repartition-de-competences",
+   "kind": "loi",
+   "number": "2003-208",
+   "date": "2003-07-07",
+   "title": "Loi n° 2003-208 du 7 juillet 2003 portant transfert et répartition de compétences de l'Etat aux Collectivités territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc141605.pdf",
+   "text_layer": "born-digital",
+   "articles": 22
+  },
+  {
+   "id": "lois/2004/2004-412-portant-amendement-de-l-article-26-de-la-loi-n-98",
+   "kind": "loi",
+   "number": "2004-412",
+   "date": "2004-08-14",
+   "title": "Loi n° 2004-412 du 14 août 2004 Portant amendement de l'article 26 de la loi N° 98-750 du 23 décembre 1998 relative au Domaine Foncier Rural",
+   "source": "https://faolex.fao.org/docs/pdf/ivc73509.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "lois/2004/2004-52-instituant-le-regime-de-la-zone-franche-de-la",
+   "kind": "loi",
+   "number": "2004-52",
+   "date": "2004-08-27",
+   "title": "Loi n° 2004-52 du 27 août 2004 instituant le régime de la zone franche de la biotechnologie et des technologies de l’information et de la communication en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc170784.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 52
+  },
+  {
+   "id": "lois/2005/2005-556-instituant-le-regime-d-entreprise-franche-de",
+   "kind": "loi",
+   "number": "2005-556",
+   "date": "2005-12-02",
+   "title": "Loi n° 2005-556 du 2 décembre 2005 instituant le régime d'entreprise franche de transformation des produits halieutiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc73510.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "lois/2012/2012-1128-du-13-decembre-2012-portant-organisation-des",
+   "kind": "loi",
+   "number": "2012-1128",
+   "date": "2012-12-13",
+   "title": "Loi n° 2012-1128 du 13 décembre 2012 portant organisation des collectivités territoriales",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146387.pdf",
+   "text_layer": "born-digital",
+   "articles": 212
+  },
+  {
+   "id": "lois/2013/2013-655-relative-au-delai-accorde-pour-la-constatation",
+   "kind": "loi",
+   "number": "2013-655",
+   "date": "2013-09-13",
+   "title": "Loi n° 2013-655 du 13 septembre 2013 relative au délai accordé pour la constatation des droits coutumiers sur les terres du domaine coutumier et portant modification de l’article 6 de la loi n° 98-750 du 23 décembre 1998 relative au domaine foncier rural, telle que modifiée par la loi n° 2004-412 du 14 août 2004",
+   "source": "https://faolex.fao.org/docs/pdf/ivc205011.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 7
+  },
+  {
+   "id": "lois/2013/2013-656-fixant-les-regles-relatives-a-la",
+   "kind": "loi",
+   "number": "2013-656",
+   "date": "2013-09-13",
+   "title": "Loi n° 2013-656 du 13 septembre 2013 fixant les règles relatives à la commercialisation du coton et de l’anacarde et à la régulation des activités des filières coton et anacarde",
+   "source": "https://faolex.fao.org/docs/pdf/ivc188578.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 56
+  },
+  {
+   "id": "lois/2013/2013-864-modifiant-l-alinea-2-de-l-article-9-de-la-loi",
+   "kind": "loi",
+   "number": "2013-864",
+   "date": "2013-12-23",
+   "title": "Loi n° 2013-864 du 23 décembre 2013 modifiant l’alinéa 2 de l’article 9 de la loi 2002-102 du 11 février relative à la création, à la gestion et au financement des parcs nationaux et des réserves naturelles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140520.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "lois/2013/2013-866-relative-a-la-normalisation-et-a-la-promotion-de",
+   "kind": "loi",
+   "number": "2013-866",
+   "date": "2013-12-23",
+   "title": "Loi n° 2013-866 du 23 décembre 2013 relative à la normalisation et à la promotion de la qualité",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167063.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 50
+  },
+  {
+   "id": "lois/2013/2013-867-relative-a-l-acces-a-l-information-d-interet",
+   "kind": "loi",
+   "number": "2013-867",
+   "date": "2013-12-23",
+   "title": "Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+   "source": "https://faolex.fao.org/docs/pdf/ivc184741.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
+   "id": "lois/2014/2014-140-portant-orientation-de-la-politique-nationale-de",
+   "kind": "loi",
+   "number": "2014-140",
+   "date": "2014-03-24",
+   "title": "Loi n° 2014-140 du 24 mars 2014 portant orientation de la politique nationale de promotion des petites et moyennes entreprises",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167058.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 28
+  },
+  {
+   "id": "lois/2014/2014-338-relative-a-l-artisanat",
+   "kind": "loi",
+   "number": "2014-338",
+   "date": "2014-06-05",
+   "title": "Loi n° 2014-338 du 5 juin 2014 relative à l'artisanat",
+   "source": "https://faolex.fao.org/docs/pdf/ivc167060.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 63
+  },
+  {
+   "id": "lois/2014/2014-390-d-orientation-sur-le-developpement-durable",
+   "kind": "loi",
+   "number": "2014-390",
+   "date": "2014-06-20",
+   "title": "Loi 2014-390 du 20 juin 2014 d'orientation sur le développement durable",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140677.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 44
+  },
+  {
+   "id": "lois/2014/2014-427-portant-le-nouveau-code-forestier-ivoirien",
+   "kind": "loi",
+   "number": "2014-427",
+   "date": "2014-07-14",
+   "title": "Loi n° 2014-427 du 14 juillet 2014 portant le nouveau code forestier ivoirien",
+   "source": "https://faolex.fao.org/docs/pdf/ivc144576.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 117
+  },
+  {
+   "id": "lois/2014/2014-428-portant-statut-des-rois-et-chefs-traditionnels-de",
+   "kind": "loi",
+   "number": "2014-428",
+   "date": "2014-07-14",
+   "title": "Loi n° 2014-428 du 14 juillet 2014 portant statut des rois et chefs traditionnels de Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc166995.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 25
+  },
+  {
+   "id": "lois/2014/2014-451-portant-orientation-de-l-organisation-generale-de",
+   "kind": "loi",
+   "number": "2014-451",
+   "date": "2014-08-05",
+   "title": "Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration Territoriale",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146379.pdf",
+   "text_layer": "born-digital",
+   "articles": 53
+  },
+  {
+   "id": "lois/2014/2014-454-portant-statut-du-district-autonome-de",
+   "kind": "loi",
+   "number": "2014-454",
+   "date": "2014-08-05",
+   "title": "Loi n° 2014-454 du 5 août 2014 portant statut du District Autonome de Yamoussoukro",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146383.pdf",
+   "text_layer": "born-digital",
+   "articles": 86
+  },
+  {
+   "id": "lois/2015/2015-537-d-orientation-agricole-de-cote-d-ivoire",
+   "kind": "loi",
+   "number": "2015-537",
+   "date": "2015-07-20",
+   "title": "Loi n° 2015-537 du 20 juillet 2015 d'orientation agricole de Côte d'Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc155706.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 167
+  },
+  {
+   "id": "lois/2015/2015-539-portant-statut-de-pupille-de-l-etat",
+   "kind": "loi",
+   "number": "2015-539",
+   "date": "2015-07-20",
+   "title": "Loi n° 2015-539 du 20 juillet 2015 portant Statut de pupille de l'Etat",
+   "source": "https://faolex.fao.org/docs/pdf/ivc215535.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 9
+  },
+  {
+   "id": "lois/2015/2016-536-relative-a-l-exercice-et-a-l-organisation-de-la",
+   "kind": "loi",
+   "number": "2016-536",
+   "date": "2015-07-20",
+   "title": "Loi n° 2016-536 du 20 juillet 2015 relative a l'exercice et a l'organisation de la médecine et de la pharmacopée traditionnelles",
+   "source": "https://faolex.fao.org/docs/pdf/ivc224099.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 16
+  },
+  {
+   "id": "lois/2016/2016-1111-du-8-decembre-2016-relative-a-la-lutte-contre-la",
+   "kind": "loi",
+   "number": "2016-1111",
+   "date": "2016-12-08",
+   "title": "Loi n° 2016-1111 du 8 décembre 2016 relative à la lutte contre la traite des personnes",
+   "source": "https://faolex.fao.org/docs/pdf/ivc207134.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 23
+  },
+  {
+   "id": "lois/2016/2016-412-relative-a-la-consommation",
+   "kind": "loi",
+   "number": "2016-412",
+   "date": "2016-06-15",
+   "title": "Loi n° 2016-412 du 15 juin 2016 relative à la consommation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc172699.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 265
+  },
+  {
+   "id": "lois/2016/2016-413-relative-a-la-transhumance-et-aux-deplacements-du",
+   "kind": "loi",
+   "number": "2016-413",
+   "date": "2016-06-15",
+   "title": "Loi n° 2016-413 du 15 juin 2016 relative à la transhumance et aux déplacements du bétail",
+   "source": "https://faolex.fao.org/docs/pdf/ivc159944.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 28
+  },
+  {
+   "id": "lois/2016/2016-554-relative-a-la-peche-et-a-l-aquaculture",
+   "kind": "loi",
+   "number": "2016-554",
+   "date": "2016-07-26",
+   "title": "Loi n° 2016-554 du 26 juillet 2016 relative à la pêche et à l'aquaculture",
+   "source": "https://faolex.fao.org/docs/pdf/ivc159952.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 59
+  },
+  {
+   "id": "lois/2017/2017-378-relative-a-l-amenagement-a-la-protection-et-a-la",
+   "kind": "loi",
+   "number": "2017-378",
+   "date": "2017-06-02",
+   "title": "Loi n° 2017-378 du 2 juin 2017 relative à l’aménagement, à la protection et à la gestion intégrée du littoral",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187368.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 66
+  },
+  {
+   "id": "lois/2017/2017-540-fixant-les-regles-relatives-a-la-regulation-au",
+   "kind": "loi",
+   "number": "2017-540",
+   "date": "2017-08-03",
+   "title": "Loi n° 2017-540 du 3 août 2017 fixant les règles relatives à la régulation, au contrôle et au suivi des activités des filières Hévéa et Palmier à Huile",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187366.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 36
+  },
+  {
+   "id": "lois/2017/2017-541-relative-a-la-regulation-du-secteur-pharmaceutique",
+   "kind": "loi",
+   "number": "2017-541",
+   "date": "2017-08-03",
+   "title": "Loi n° 2017-541 du 3 août 2017 relative à la régulation du secteur pharmaceutique",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187369.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 41
+  },
+  {
    "id": "lois/2019/2019-570-relative-au-mariage",
    "kind": "loi",
    "number": "2019-570",
@@ -112,6 +3972,296 @@
    "source": "https://www.assnat.ci/IMG/pdf/loi_relative_au_mariage.pdf",
    "text_layer": "born-digital",
    "articles": 105
+  },
+  {
+   "id": "lois/2019/2019-573-relative-aux-successions",
+   "kind": "loi",
+   "number": "2019-573",
+   "date": "2019-06-26",
+   "title": "Loi n° 2019-573 du 26 juin 2019 relative aux successions",
+   "source": "https://faolex.fao.org/docs/pdf/ivc215511.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 136
+  },
+  {
+   "id": "lois/2019/2019-870-favorisant-la-representation-de-la-femme-dans-les",
+   "kind": "loi",
+   "number": "2019-870",
+   "date": "2019-10-14",
+   "title": "Loi n° 2019-870 du 14 octobre 2019 favorisant la représentation de la femme dans les Assemblées élues",
+   "source": "https://faolex.fao.org/docs/pdf/ivc215520.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 6
+  },
+  {
+   "id": "lois/2020/2020-522-portant-regime-juridique-de-la-communication",
+   "kind": "loi",
+   "number": "2020-522",
+   "date": "2020-06-16",
+   "title": "Loi n° 2020-522 du 16 juin 2020 portant régime juridique de la communication publicitaire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc209350.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 109
+  },
+  {
+   "id": "lois/2020/2020-624-instituant-code-de-l-urbanisme-et-du-domaine",
+   "kind": "loi",
+   "number": "2020-624",
+   "date": "2020-08-14",
+   "title": "Loi n° 2020-624 du 14 août 2020 instituant Code de l'Urbanisme et du Domaine foncier urbain",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228436.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 288
+  },
+  {
+   "id": "lois/2024/2024-364-portant-gestion-de-la-faune",
+   "kind": "loi",
+   "number": "2024-364",
+   "date": "2024-06-11",
+   "title": "Loi n° 2024-364 du 11 juin 2024 portant gestion de la faune",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228298.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 82
+  },
+  {
+   "id": "lois/2024/2024-365-portant-protection-de-l-elephant-en-cote-d-ivoire",
+   "kind": "loi",
+   "number": "2024-365",
+   "date": "2024-06-11",
+   "title": "Loi n° 2024-365 du 11 juin 2024 portant protection de l’éléphant en Côte d’Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228299.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 55
+  },
+  {
+   "id": "lois/2024/2024-366-relative-au-commerce-international-des-especes-de",
+   "kind": "loi",
+   "number": "2024-366",
+   "date": "2024-06-11",
+   "title": "Loi n° 2024-366 du 11 juin 2024 relative au commerce international des espèces de faune et de flore sauvages menacées d'extinction",
+   "source": "https://faolex.fao.org/docs/pdf/ivc228300.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 49
+  },
+  {
+   "id": "lois/2025/2025-528-relatif-a-la-lutte-contre-les-changements",
+   "kind": "loi",
+   "number": "2025-528",
+   "date": "2025-06-25",
+   "title": "Loi n° 2025-528 du 25 juin 2025 relatif à la lutte contre les changements climatiques",
+   "source": "https://faolex.fao.org/docs/pdf/ivc238642.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 87
+  },
+  {
+   "id": "ordonnances/1966/1966-626-portant-fixation-du-montant-des-redevances",
+   "kind": "ordonnance",
+   "number": "1966-626",
+   "date": "1966-12-31",
+   "title": "Ordonnance n° 1966-626 du 31 décembre 1966 portant fixation du montant des redevances forestières en matière d’exportation des bois d’oeuvre et d’ébénisterie et instituant une taxe de reboisement",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229227.pdf",
+   "text_layer": "born-digital",
+   "articles": 10
+  },
+  {
+   "id": "ordonnances/2001/2001-666-modifiant-l-ordonnance-n-2000-583-ou-17-aout-2000",
+   "kind": "ordonnance",
+   "number": "2001-666",
+   "date": "2001-10-24",
+   "title": "Ordonnance n° 2001-666 du 24 octobre 2001 modifiant l'ordonnance n° 2000-583 ou 17 aout 2000 fixant les objectifs économiques de l'action de l'Etat en matière de commercialisation du café et du cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc147283.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "ordonnances/2008/2008-259-modifiant-et-completant-l-ordonnance-n-2000-583",
+   "kind": "ordonnance",
+   "number": "2008-259",
+   "date": "2008-09-19",
+   "title": "Ordonnance n° 2008-259 du 19 septembre 2008 modifiant et complétant l’ordonnance n° 2000-583 du 17 août 2000 fixant les objectifs de l’action économique de l’état en matière de commercialisation du café et du cacao, telle que modifiée par les ordonnances n° 2001-46 du 31 janvier 2001 et n° 2001-666 du 24 octobre 2001",
+   "source": "https://faolex.fao.org/docs/pdf/ivc85720.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "ordonnances/2009/2009-406-portant-prorogation-du-prelevement-compensatoire",
+   "kind": "ordonnance",
+   "number": "2009-406",
+   "date": "2009-12-31",
+   "title": "Ordonnance n° 2009-406 du 31 décembre 2009 portant prorogation du prélèvement compensatoire sur les importations en Côte d'Ivoire de volaille morte de basse-cour et leurs abats comestibles frais, réfrigérés ou congelés",
+   "source": "https://faolex.fao.org/docs/pdf/ivc140518.pdf",
+   "text_layer": "born-digital",
+   "articles": 2
+  },
+  {
+   "id": "ordonnances/2011/2011-481-fixant-les-regles-relatives-a-la",
+   "kind": "ordonnance",
+   "number": "2011-481",
+   "date": "2011-12-28",
+   "title": "Ordonnance n° 2011-481 du 28 décembre 2011 fixant les règles relatives à la Commercialisation du Café et du Cacao et à la Régulation de la Filière Café-Cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc132091.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 55
+  },
+  {
+   "id": "ordonnances/2012/2012-369-modifiant-la-loi-n-96-669-portant-code-petrolier",
+   "kind": "ordonnance",
+   "number": "2012-369",
+   "date": "2012-04-18",
+   "title": "Ordonnance n° 2012-369 du 18 avril 2012 modifiant la loi n° 96-669 portant Code pétrolier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc122630.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "ordonnances/2013/2013-481-fixant-les-regles-d-acquisition-de-la-propriete",
+   "kind": "ordonnance",
+   "number": "2013-481",
+   "date": "2013-07-02",
+   "title": "Ordonnance n° 2013-481 du 2 juillet 2013 fixant les règles d'acquisition de la propriété des terrains urbains",
+   "source": "https://faolex.fao.org/docs/pdf/ivc146559.pdf",
+   "text_layer": "born-digital",
+   "articles": 39
+  },
+  {
+   "id": "ordonnances/2013/2013-661-fixant-les-attributions-la-composition-l",
+   "kind": "ordonnance",
+   "number": "2013-661",
+   "date": "2013-09-20",
+   "title": "Ordonnance n° 2013-661 du 20 septembre 2013 fixant les attributions, la composition, l’organisation et le fonctionnement de la Haute Autorité pour la bonne Gouvernance",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178157.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 58
+  },
+  {
+   "id": "ordonnances/2013/2013-662-relative-la-concurrence",
+   "kind": "ordonnance",
+   "number": "2013-662",
+   "date": "2013-09-20",
+   "title": "Ordonnance n° 2013-662 du 20 septembre 2013 relative la Concurrence",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178167.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 41
+  },
+  {
+   "id": "ordonnances/2014/2014-148-fixant-les-redevances-superficiaires-et-les-taxes",
+   "kind": "ordonnance",
+   "number": "2014-148",
+   "date": "2014-03-26",
+   "title": "Ordonnance n° 2014-148 du 26 mars 2014 fixant les redevances superficiaires et les taxes proportionnelles relatives aux activités régies par le Code minier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc179429.pdf",
+   "text_layer": "born-digital",
+   "articles": 23
+  },
+  {
+   "id": "ordonnances/2015/2015-177-portant-modification-des-articles-7-8-22-25-26-et",
+   "kind": "ordonnance",
+   "number": "2015-177",
+   "date": "2015-03-24",
+   "title": "Ordonnance n° 2015-177 du 24 mars 2015 portant modification des articles 7, 8, 22, 25, 26 et 61 de l’ordonnance n° 2013-661 du 20 septembre 2013 fixant les attributions, la composition l’organisation et le fonctionnement de la Haute Autorité pour la Bonne Gouvernance",
+   "source": "https://faolex.fao.org/docs/pdf/ivc178173.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "ordonnances/2018/2018-144-modifiant-l-article-169-e-de-la-loi-n-2014-138-du",
+   "kind": "ordonnance",
+   "number": "2018-144",
+   "date": "2018-02-14",
+   "title": "Ordonnance n° 2018-144 du 14 février 2018 modifiant l’article 169 e) de la loi n° 2014-138 du 24 mars 2014 portant Code minier",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187380.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "ordonnances/2018/2018-308-relative-a-la-repartition-du-produit-du-droit",
+   "kind": "ordonnance",
+   "number": "2018-308",
+   "date": "2018-03-07",
+   "title": "Ordonnance n° 2018-308 du 7 mars 2018 relative à la répartition du produit du droit unique de sortie sur les exportations d'anacarde",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187381.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 4
+  },
+  {
+   "id": "ordonnances/2018/2018-357-modifiant-l-article-6-de-l-ordonnance-n-2013-481",
+   "kind": "ordonnance",
+   "number": "2018-357",
+   "date": "2018-03-29",
+   "title": "Ordonnance n° 2018-357 du 29 mars 2018 modifiant l’article 6 de l’ordonnance n° 2013-481 du 2 juillet 2013 fixant les règles d’acquisition de la propriété des terrains urbains",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187385.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 3
+  },
+  {
+   "id": "ordonnances/2018/2018-437-portant-repression-de-la-commercialisation-et-de",
+   "kind": "ordonnance",
+   "number": "2018-437",
+   "date": "2018-05-03",
+   "title": "Ordonnance n° 2018-437 du 3 mai 2018 portant répression de la commercialisation et de l’exportation illicites des produits agricoles soumises à agrément",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187391.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 5
+  },
+  {
+   "id": "ordonnances/2018/2018-593-portant-creation-organisation-et-fonctionnement",
+   "kind": "ordonnance",
+   "number": "2018-593",
+   "date": "2018-06-27",
+   "title": "Ordonnance n° 2018-593 du 27 juin 2018 portant création, organisation et fonctionnement du Fonds pour la Science, la Technologie et l’Innovation",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187409.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 40
+  },
+  {
+   "id": "ordonnances/2018/2018-594-portant-creation-organisation-et-fonctionnement",
+   "kind": "ordonnance",
+   "number": "2018-594",
+   "date": "2018-06-27",
+   "title": "Ordonnance n° 2018-594 du 27 juin 2018 portant création, organisation et fonctionnement de l’Autorité nationale de Régulation des Marchés publics",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187417.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 43
+  },
+  {
+   "id": "ordonnances/2018/2018-756-portant-modification-de-l-ordonnance-n-2011-481",
+   "kind": "ordonnance",
+   "number": "2018-756",
+   "date": "2018-09-26",
+   "title": "Ordonnance n° 2018-756 du 26 septembre 2018 portant modification de l'ordonnance n° 2011-481 du 28 décembre 2011 fixant les règles relatives à la commercialisation du café et du cacao et à la régulation de la Filière Café-Cacao",
+   "source": "https://faolex.fao.org/docs/pdf/ivc187425.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 2
+  },
+  {
+   "id": "ordonnances/2022/2022-73-portant-creation-attributions-organisation-et",
+   "kind": "ordonnance",
+   "number": "2022-73",
+   "date": "2022-01-26",
+   "title": "Ordonnance n° 2022-73 du 26 janvier 2022 portant creation, attributions, organisation et fonctionnement d'un etablissement public de type particulier, denommé Guichet Unique de Developpement des Entreprises de Côte d'Ivoire",
+   "source": "https://faolex.fao.org/docs/pdf/ivc240392.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 22
+  },
+  {
+   "id": "ordonnances/2024/2024-368-relative-a-l-organisation-de-la-societe-civile",
+   "kind": "ordonnance",
+   "number": "2024-368",
+   "date": "2024-06-12",
+   "title": "Ordonnance n° 2024-368 du 12 juin 2024 relative à l'Organisation de la Société civile",
+   "source": "https://faolex.fao.org/docs/pdf/ivc229657.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 132
+  },
+  {
+   "id": "ordonnances/2025/2025-85-portant-creation-attributions-organisation-et",
+   "kind": "ordonnance",
+   "number": "2025-85",
+   "date": "2025-02-12",
+   "title": "Ordonnance n° 2025-85 du 12 février 2025 portant création, attributions, organisation et fonctionnement du Système d'Information du Foncier Rural de Côte d'Ivoire (SIFOR)",
+   "source": "https://faolex.fao.org/docs/pdf/ivc237286.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 10
   }
  ]
 }
