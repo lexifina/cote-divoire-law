@@ -11,11 +11,11 @@ The law of Côte d’Ivoire as a git history: one file per article, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Côte d’Ivoire's national law, which global-law reads at `cote-divoire/national/acts/`.
 
-**What is in it now:** three acts, with 4 versions: the Constitution of 8 November 2016 (Loi n° 2016-886), its preamble and 184 articles, as promulgated and as revised by Loi constitutionnelle n° 2020-348 of 19 March 2020; the Code pénal (Loi n° 2019-574 of 26 June 2019), 565 articles, as enacted; and the marriage law (Loi n° 2019-570 of 26 June 2019), 105 articles, as enacted. The `README.md` in each act's folder ([`constitution/`](constitution/README.md), [`code-penal/`](code-penal/README.md), [`mariage/`](mariage/README.md)) lists every provision, how often it changed and when.
+**What is in it now:** the Constitution of 8 November 2016 (Loi n° 2016-886), its preamble and 184 articles, as promulgated and as revised by Loi constitutionnelle n° 2020-348 of 19 March 2020; 11 codes in `codes/` (among them the 2019 Code pénal and the mining, forest, customs, water, investment and public procurement codes); and laws, ordinances, decrees and orders from 1961 to 2025 (53 laws, 23 ordinances, 223 decrees, 126 orders (arrêtés)), among them the 2019 marriage and succession laws, one folder per text, one file per article. See [STRUCTURE.md](STRUCTURE.md) and `corpus.json`. Each text's folder `README.md` gives its source and date.
 
 **Not today's Code pénal.** Laws that have amended it since 2019, among them Loi n° 2021-893 of 21 December 2021, are not applied (see [What it does not show](#what-it-does-not-show)), so the Code shows its 2019 wording.
 
-Each act is a folder with one file per article, `art-<number>.md` (`constitution/art-055.md` is Article 55 of the Constitution, the election of the President and the Vice-President); the preamble is `constitution/preambule.md`, and `code-penal/plan.md` and `mariage/plan.md` name the article each Livre, Titre, Chapitre and Section heading precedes.
+Each act is a folder with one file per article, `art-<number>.md` (`constitution/art-055.md` is Article 55 of the Constitution, the election of the President and the Vice-President); the preamble is `constitution/preambule.md`, and `codes/code-penal/plan.md` and `lois/2019/2019-570-relative-au-mariage/plan.md` name the article each Livre, Titre, Chapitre and Section heading precedes.
 
 The text is in French, the official language, as its publishers print it.
 
@@ -52,6 +52,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 Each commit is dated at noon, Africa/Abidjan (UTC), on the day the version took effect, and carries it in its `In-force:` trailer; the promulgation day is in `Enacted:`:
 
 - the Constitution: the day of promulgation, as its art. 184 provides ("La présente Constitution entre en vigueur à compter du jour de sa promulgation par le Président de la République"): 8 November 2016, and 19 March 2020 for the revision, the date WIPO Lex gives for Loi constitutionnelle n° 2020-348;
+- the texts taken from FAOLEX (outside `constitution/`, the Code pénal and the marriage law): the day of the text named in its title (promulgation or signature) or, failing that, the closing "Fait à Abidjan, le …"; the source does not give the Journal officiel issue (the `In-force-basis` trailer says so). A text with no reliable date is not taken;
 - the Code pénal and the marriage law: the day of the Journal officiel issue that published each, 10 and 12 July 2019 (both were promulgated on 26 June 2019). Each orders that it be "publiée au Journal officiel … et exécutée comme loi de l’Etat" and sets no other date.
 
 Each version is credited to the law that made it, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws; the committer is always Lexifina. The 2020 commit changes the 24 articles whose words Loi constitutionnelle n° 2020-348 rewrote; WIPO Lex marks two more "Nouveau" (arts. 148 and 149), which read word for word as in 2016 and are named in the commit's `Also-concerns:` trailer.
@@ -67,7 +68,7 @@ Each version is credited to the law that made it, with an e-mail address that ca
 
 - **The Code pénal as amended.** The laws that changed it after 2019 were not found as official texts with a text layer, so today's text may differ.
 - **Earlier texts**: the Constitutions of 1960 and 2000 and the Code pénal of 1981.
-- **Most other law**, among it the rest of the civil law (filiation, successions, minorité …) and the data protection law (Loi n° 2013-450), which is published only as a scan; scans are not transcribed.
+- **Much other law.** The online Journal officiel (sgg.gouv.ci) needs a login and is not used; the texts come from FAOLEX's (FAO) copies of the national PDFs, taken only where the PDF has a readable, complete text layer (we do no OCR). Still missing, among others: the 2018 Code de procédure pénale, the Code civil, the 2015 Code du travail (the Journal officiel text layer is out of reading order), the filiation and minority laws and Loi n° 2013-450 (scans). Each text is recorded as published, in one version; later amendments are not replayed yet. Conseil constitutionnel decisions and OHADA case law are in the private `cote-divoire-law-caselaw` repository.
 - **When the Constitution's laws were published.** Their Journal officiel issues were not found, so the 2016 and 2020 versions carry their promulgation dates only.
 - **Headings and formulas.** Titre, Chapitre and Section headings are not in the article files, and the promulgation formula and signatures are left out.
 
@@ -78,11 +79,12 @@ Each version is credited to the law that made it, with an e-mail address that ca
 | [Assemblée nationale](https://www.assnat.ci/?-la-constitution-) | The Constitution as promulgated, PDF with a text layer | no, the 2016 text | Version 1 of the Constitution |
 | [WIPO Lex, record CI023](https://www.wipo.int/wipolex/fr/legislation/details/22491) | The Constitution as revised by Loi constitutionnelle n° 2020-348, each rewritten article marked "Nouveau" | no, the 2020 text | Version 2, its date and its credits |
 | Assemblée nationale: [Code pénal](https://www.assnat.ci/?loi-portant-code-penal), [marriage law](https://www.assnat.ci/?loi-relatif-au-mariage) | The two laws as adopted, PDFs with a text layer | no, as adopted | Their words |
+| [FAOLEX](https://faolex.fao.org) (FAO) | Copies of national PDFs (Journal officiel, ministries) | no, one version each | Codes, laws, ordinances, decrees and orders other than the three texts above; commits carry `Source-status: secondary copy` |
 | Journal officiel n° 9 spécial (10 July 2019) and n° 10 spécial (12 July 2019), copies on the site of the [Ministère de la Femme, de la Famille et de l’Enfant](https://www.famille.gouv.ci) | The two laws as promulgated (scans) | no, as published | Their numbers and dates, and the word-by-word check |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Côte d’Ivoire, reproduced with attribution to the Assemblée nationale, WIPO Lex and the Journal officiel; the Assemblée nationale states no licence for them, WIPO Lex reproduces them for information under WIPO's general terms of use, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
+See [`LICENSE`](LICENSE). The texts are official legal texts of the Republic of Côte d’Ivoire, reproduced with attribution to the Assemblée nationale, WIPO Lex, the Journal officiel and FAOLEX (FAO); the Assemblée nationale states no licence for them, WIPO Lex reproduces them for information under WIPO's general terms of use, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 

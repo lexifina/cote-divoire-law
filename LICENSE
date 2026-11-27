@@ -30,6 +30,13 @@ wording of the law was not changed, except where REPRODUCE.md lists a transcript
 wording was kept, and the places in the Code pénal (five) and the marriage law (two) where the Assemblée nationale's
 text differs from the Journal officiel and the gazette's wording is used. None of the publishers endorses this repository.
 
+Codes, laws, ordinances, decrees and orders other than the three texts above (in codes/, lois/, ordonnances/,
+decrets/, arretes/) are copied from the text layer of the copy of the national PDF in FAOLEX, the FAO Legal Database
+(https://faolex.fao.org; FAO's terms allow reproduction for non-commercial purposes with acknowledgement of FAO as the
+source). Official texts of a legislative, administrative or judicial nature are excluded from copyright protection
+(Bangui Agreement, Annex VII, article 6; Loi n° 2016-555 du 26 juillet 2016, article 8). Each act's README.md and commit
+trailers name the file it comes from.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode

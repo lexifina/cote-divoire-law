@@ -21,8 +21,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `constitution` | Constitution de la République de Côte d’Ivoire (loi n° 2016-886 du 8 novembre 2016) | 2 | 2016-11-08 to 2020-03-19 |
-| `code-penal` | Code pénal (Loi n° 2019-574 du 26 juin 2019) | 1 | 2019-07-10 to 2019-07-10 |
-| `mariage` | Loi n° 2019-570 du 26 juin 2019 relative au mariage | 1 | 2019-07-12 to 2019-07-12 |
+| `codes/code-penal` | Code pénal (Loi n° 2019-574 du 26 juin 2019) | 1 | 2019-07-10 to 2019-07-10 |
+| `lois/2019/2019-570-relative-au-mariage` | Loi n° 2019-570 du 26 juin 2019 relative au mariage | 1 | 2019-07-12 to 2019-07-12 |
 
 The build made 4 commits:
 
@@ -97,3 +97,22 @@ Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, chose the sources and wrote the decisions. No model wrote, summarised or transformed legal text: the text is taken from the official PDFs by deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, chose the sources and wrote the decisions. No model wrote, summarised or transformed legal text: the text is taken from the official PDF by deterministic code.
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, chose the sources and wrote the decisions. No model wrote, summarised or transformed legal text: the text is taken from the official PDFs by deterministic code.
+
+## Runner (2026-11-27)
+
+`code-penal/` and `mariage/` moved to `codes/code-penal/` and `lois/2019/2019-570-relative-au-mariage/` in one pure-rename commit. The acts outside
+`constitution/` and those two folders are written by `scripts/cote-divoire-law/runner/ci_build.py acts` (one commit per
+act, pushed as fast-forward batches; no rebuild of earlier history):
+
+- Listing: FAOLEX records for Côte d'Ivoire from FAOLEX's public documents sitemaps (`/sitemaps/documents.xml`), 855
+  records, of which the laws, ordinances, decrees and orders are candidates. The Journal officiel host (sgg.gouv.ci)
+  needs a login and is not used.
+- Each act is the FAOLEX PDF (`https://faolex.fao.org/docs/pdf/ivc<id>.pdf`), `Source-status: secondary copy (FAOLEX,
+  <url>)`. Gate: at least 250 characters a page, no scanned page without text, at least 88% word-like tokens, at least
+  17% French function words; an act whose article headings are out of sequence in the layer is held. A layer laid by
+  the publisher over a scan is tagged `Text-source: publisher OCR`. We do no OCR.
+- Date: the day in the act's title; otherwise the closing "Fait à Abidjan, le …". FAOLEX's `date_of_text` alone is not
+  used: such acts are held.
+- Codes ("portant Code …") go to `codes/<code>/`; a later law instituting the same code is a new version of that folder.
+- At this push: 425 acts outside the Constitution (53 lois, 23 ordonnances, 223 décrets, 126 arrêtés); 292 acts held (scans, unreadable layers, no
+  reliable date).
