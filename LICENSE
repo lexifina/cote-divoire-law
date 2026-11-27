@@ -37,6 +37,19 @@ source). Official texts of a legislative, administrative or judicial nature are 
 (Bangui Agreement, Annex VII, article 6; Loi n° 2016-555 du 26 juillet 2016, article 8). Each act's README.md and commit
 trailers name the file it comes from.
 
+Further texts added on 27 November 2026 come from official Ivorian sites that publish them without a licence
+statement: the Secrétariat général du Gouvernement's documenthèque (https://www.sgg.gouv.ci), the Autorité de
+Régulation de la Commande Publique (https://arcop.ci), the Autorité de Régulation des Télécommunications/TIC
+(https://artci.ci), the Agence foncière rurale (https://www.afor.ci), the Haute Autorité pour la Bonne Gouvernance
+(https://www.habg.ci), the Haute Autorité de la Communication Audiovisuelle
+(https://www.haca.ci), the Direction générale des Douanes (https://www.douanes.ci), the CNPS (https://www.cnps.ci),
+the Direction générale du Trésor (https://tresor.gouv.ci), the Ministère de l'Environnement
+(https://www.environnement.gouv.ci) and the Conseil constitutionnel (https://www.conseil-constitutionnel.ci); from
+WIPO Lex (https://www.wipo.int/wipolex, WIPO's general terms of use); and, in uemoa/, from the UEMOA Commission
+(https://www.uemoa.int). These are official texts excluded from copyright protection as above (for UEMOA acts, as
+official texts of an international organisation of which Côte d'Ivoire is a member). Each act's README.md and commit
+trailers name the file it comes from.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode

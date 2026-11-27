@@ -116,3 +116,21 @@ act, pushed as fast-forward batches; no rebuild of earlier history):
 - Codes ("portant Code …") go to `codes/<code>/`; a later law instituting the same code is a new version of that folder.
 - At this push: 425 acts outside the Constitution (53 lois, 23 ordonnances, 223 décrets, 126 arrêtés); 292 acts held (scans, unreadable layers, no
   reliable date).
+
+## Rotation pass (2026-11-27, runner/ci_more.py)
+
+- `ci_lists.py` collects the PDF links of official Ivorian pages that answer without a login (SGG documenthèque; ARCOP
+  regulations via its file-download JSON; ARTCI; AFOR; HABG; HACA; Customs; CNPS; Treasury; Environment; Conseil
+  constitutionnel) and the WIPO Lex profile into `official-list.json`.
+- `ci_more.py offacts` puts each through the same gate and builder as the FAOLEX texts (`ci_build.build_act`): a
+  readable, complete text layer, a date from the act's own title or closing "Fait à …, le …", one file per article.
+  When the listing names no date, the act's heading is read from the first 900 characters of its text and must carry
+  the listing's number. Acts already in the repository (same kind and number, or same title and date) are skipped.
+- One correction commit (`Kind: correction`) removed an ARCOP copy of Ordonnance n° 2013-651 that the first run had
+  filed under a law cited in its visas; the ordonnance is held until its own date is read.
+- `ci_more.py uemoa` adds UEMOA acts from the Commission's PDFs, dated by their own entry-into-force clause
+  (signature, or a date the act sets); acts in force "dès leur publication au Bulletin officiel" are held, since the
+  Bulletin's day is not in the text.
+- Not used: the Journal officiel (sgg.gouv.ci, login); the CNDJ digital library (biblio.cndj.ci, subscription);
+  loidici.biz (written permission required); ECOWAS Official Journal acts (most enter into force on publication in the
+  Journal, whose day the volumes do not give: held).

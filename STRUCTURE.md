@@ -8,6 +8,7 @@
 | `ordonnances/<année>/<numéro>-<objet>/` | Ordonnances |
 | `decrets/<année>/<numéro>-<objet>/` | Décrets |
 | `arretes/<année>/<numéro>-<objet>/` | Arrêtés (ministériels, interministériels) |
+| `uemoa/<nature>/<année>/<numéro>-<objet>/` | Actes de l’UEMOA (`reglements/`, `actes-additionnels/`, `directives/` …), datés de leur entrée en vigueur |
 
 Dans chaque dossier de texte : `README.md` (intitulé, source, date et son fondement, couche texte), `visas.md`, un
 fichier par article (`art-001.md`, `art-002-bis.md` …), `signatures.md` ; `texte-integral.md` quand aucun article n'a
